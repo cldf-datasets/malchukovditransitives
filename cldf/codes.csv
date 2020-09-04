@@ -93,14 +93,10 @@ cparam6-c7,cparam6,possessive form if pronoun,,7
 cparam6-c8,cparam6,postposition,,8
 cparam6-c9,cparam6,prefixal case,,9
 cparam6-c10,cparam6,preposition,,10
-cparam6-c11,cparam6,preposition,,11
 cparam6-c12,cparam6,prepositional article,,12
 cparam6-c13,cparam6,serial verb,,13
 cparam6-c14,cparam6,serial verb and postposition,,14
 cparam6-c15,cparam6,suffixal case,,15
-cparam6-c16,cparam6,suffixal case,,16
-cparam6-c17,cparam6,suffixal case,,17
-cparam6-c18,cparam6,suffixal case,,18
 cparam7-c1,cparam7,ACC enclitic,,1
 cparam7-c2,cparam7,NONE,,2
 cparam7-c3,cparam7,OBJ marker,,3
@@ -206,7 +202,6 @@ cparam27-c7,cparam27,hierarchical,,7
 cparam27-c8,cparam27,indirective,,8
 cparam27-c9,cparam27,mixed,,9
 cparam27-c10,cparam27,neutral,,10
-cparam27-c11,cparam27,neutral,,11
 cparam27-c12,cparam27,neutral or maybe secundative,,12
 cparam27-c13,cparam27,neutral*,,13
 cparam27-c14,cparam27,neutral-ergative,,14
@@ -284,7 +279,6 @@ cparam11-c4,cparam11,unclear,,4
 cparam12-c1,cparam12,Ben/R-introducing,,1
 cparam12-c2,cparam12,T-promoting,,2
 cparam13-c1,cparam13,,,1
-cparam13-c2,cparam13,,,2
 cparam25-c1,cparam25,Neither,,1
 cparam25-c2,cparam25,Only R,,2
 cparam25-c3,cparam25,P,,3
