@@ -8,11 +8,13 @@
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
     "dc:source": "sources.bib",
     "dc:title": "Ditransitives",
+    "dcat:accessURL": "git@github.com:cldf-datasets/malchukovditransitives",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
-            "dc:created": "136c6be"
+            "rdf:about": "git@github.com:cldf-datasets/malchukovditransitives",
+            "dc:created": "c207d91"
         },
         {
             "rdf:type": "prov:Entity",
@@ -464,6 +466,15 @@
                         "name": "Description"
                     },
                     {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#exampleReference",
+                        "separator": ";",
+                        "name": "Example_IDs"
+                    },
+                    {
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
                         "separator": ";",
@@ -481,6 +492,17 @@
                         ],
                         "reference": {
                             "resource": "languages.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "Example_IDs"
+                        ],
+                        "reference": {
+                            "resource": "examples.csv",
                             "columnReference": [
                                 "ID"
                             ]
