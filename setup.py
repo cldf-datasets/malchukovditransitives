@@ -12,7 +12,6 @@ setup(
         ]
     },
     install_requires=[
-        'cldfbench[glottolog]',
         'ditrans2cldf',
     ],
     extras_require={
