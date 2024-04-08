@@ -1,458 +1,452 @@
 ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,WALS_Code
-huic1243,Huichol,,,,huic1243,hch,hui
-udih1248,Udihe,,,,udih1248,ude,udh
-gama1251,Kham,,,,gama1251,kgj,kmh
-mala1464,Malayalam,,,,mala1464,mal,mym
-gaga1251,Gaagudju,,,,gaga1251,gbu,gaa
-even1260,Even,,,,even1260,eve,evn
-kwaza,Kwaza,,,,,,kwz
-stan1295,German,,,,stan1295,deu,ger
-finn1318,Finnish,,,,finn1318,fin,fin
-tari1256,Tariana,,,,tari1256,tae,tar
-mode1248,Modern Greek,,,,mode1248,ell,grk
-lele1276,Lele,,,,lele1276,lln,lel
-thai1261,Thai,,,,thai1261,tha,tha
-cavi1250,Cavineña,,,,cavi1250,cav,cav
-kiny1244,Kinyarwanda,,,,kiny1244,kin,kin
-sahaptin,Sahaptin,,,,,,shp
-nucl1302,Georgian,,,,nucl1302,kat,geo
-mana1295,Manam,,,,mana1295,mva,mnm
-ship1254,Shipibo-Konibo,,,,ship1254,shp,shk
-even1259,Evenki,,,,even1259,evn,eve
-tami1289,Tamil,,,,tami1289,tam,tml
-wari1268,Wari’,,,,wari1268,pav,war
-abkh1244,Abkhaz,,,,abkh1244,abk,abk
-ainu1240,Ainu,,,,ainu1240,ain,ain
-akan1250,Akan,,,,akan1250,aka,akn
-akha1245,Akha,,,,akha1245,ahk,akh
-alam1246,Alamblak,,,,alam1246,amp,ala
-aleu1260,Aleut,,,,aleu1260,ale,ale
-amel1241,Amele,,,,amel1241,aey,ame
-amha1245,Amharic,,,,amha1245,amh,amh
-arak1252,Araki,,,,arak1252,akr,ark
-indo1317,Bajau,,,,indo1317,bdl,baj
-basq1248,Basque,,,,basq1248,eus,bsq
-baou1238,Baule,,,,baou1238,bci,ble
-yuec1235,Cantonese,,,,yuec1235,yue,cnt
-cash1254,Cashinahua,,,,cash1254,cbs,csh
-cham1312,Chamorro,,,,cham1312,cha,cha
-soch1239,Sochiapan Chinantec,,,,soch1239,cso,csc
-crow1244,Crow,,,,crow1244,cro,cro
-dier1241,Diyari,,,,dier1241,dif,diy
-djin1251,Jingulu,,,,djin1251,jig,dji
-dyir1250,Dyirbal,,,,dyir1250,dbl,dyi
-stan1293,English,,,,stan1293,eng,eng
-ewee1241,Ewe,,,,ewee1241,ewe,ewe
-fonn1241,Fongbe,,,,fonn1241,fon,fon
-mesk1242,Meskwaki,,,,mesk1242,sac,fox
-garo1247,Garo,,,,garo1247,grt,gar
-halk1245,Halkomelem,,,,halk1245,hur,hlk
-hixk1239,Hixkaryana,,,,hixk1239,hix,hix
-hupa1239,Hupa,,,,hupa1239,hup,hup
-arhu1242,Ika,,,,arhu1242,arh,ika
-ital1282,Italian,,,,ital1282,ita,ita
-itel1242,Itelmen,,,,itel1242,itl,ite
-iton1250,Itonama,,,,iton1250,ito,ito
-popt1235,Jakaltek,,,,popt1235,,jak
-djam1255,Jaminjung,,,,djam1255,djd,jam
-nucl1643,Japanese,,,,nucl1643,jpn,jpn
-jara1245,Jarawa (in Andamans),,,,jara1245,anq,jrw
-kamb1299,Kambera,,,,kamb1299,xbr,kam
-kash1277,Kashmiri,,,,kash1277,kas,kas
-kaza1248,Kazakh,,,,kaza1248,kaz,kaz
-kett1243,Ket,,,,kett1243,ket,ket
-khan1273,Khanty,,,,khan1273,kca,kty
-nama1264,Khoekhoe,,,,nama1264,naq,kho
-khva1239,Khwarshi,,,,khva1239,khv,khv
-koas1236,Koasati,,,,koas1236,cku,koa
-kore1280,Korean,,,,kore1280,kor,kor
-koro1298,Koromfe,,,,koro1298,kfz,kfe
-koyr1240,Koyra Chiini,,,,koyr1240,khq,kch
-koyr1242,Koyraboro Senni,,,,koyr1242,ses,kse
-lako1247,Lakhota,,,,lako1247,lkt,lkt
-lang1324,Lango,,,,lang1324,laj,lan
-lavu1241,Lavukaleve,,,,lavu1241,lvk,lav
-lazz1240,Laz,,,,lazz1240,lzz,laz
-malt1254,Maltese,,,,malt1254,mlt,mlt
-mand1415,Mandarin Chinese,,,,mand1415,cmn,mnd
-mapu1245,Mapudungun,,,,mapu1245,arn,map
-mari1440,Maricopa,,,,mari1440,mrc,mar
-mart1255,Martuthunira,,,,mart1255,vma,mrt
-mori1278,Mauritian Creole,,,,mori1278,mfe,mcr
-movi1243,Movima,,,,movi1243,mzp,mov
-nepa1252,Nepali,,,,nepa1252,nep,nep
-newa1246,Dolakha Newari,,,,newa1246,new,nwd
-east2542,Eastern Ojibwe,,,,east2542,ojg,oji
-olut1240,Olutec,,,,olut1240,plo,olu
-nucl1284,Oriya,,,,nucl1284,ori,oya
-panj1256,Panjabi,,,,panj1256,pan,pan
-male1292,Passamaquoddy-Maliseet,,,,male1292,pqm,psm
-west2369,Persian,,,,west2369,pes,prs
-nort2966,Northern Pomo,,,,nort2966,pej,pmn
-nort2722,Qiang,,,,nort2722,,qia
-imba1240,Imbabura Quechua,,,,imba1240,qvi,qim
-sali1295,Saliba (in PNG),,,,sali1295,sbe,slb
-seme1247,Semelai,,,,seme1247,sza,sml
-seri1257,Seri,,,,seri1257,sei,ser
-shos1248,Shoshone,,,,shos1248,shh,sho
-supy1237,Supyire,,,,supy1237,spp,sup
-swah1253,Swahili,,,,swah1253,swh,swa
-swat1243,Swati,,,,swat1243,ssw,swt
-tehu1242,Tehuelche,,,,tehu1242,teh,teh
-teop1238,Teop,,,,teop1238,tio,teo
-thad1238,Thadou,,,,thad1238,tcz,thd
-kumi1248,Tiipay (Jamul),,,,kumi1248,dih,tja
-trio1238,Tiriyo,,,,trio1238,tri,tir
-sout2961,Tiwa (Southern),,,,sout2961,tix,tws
-acat1239,Tlapanec,,,,acat1239,tpx,tlp
-yecu1235,Totonac (Misantla),,,,yecu1235,tlc,tot
-tuka1249,Tukang Besi,,,,tuka1249,,tuk
-pana1305,Tümpisa Shoshone,,,,pana1305,par,tsh
-tzot1262,Tzotzil,,,,tzot1262,tzc,tzo
-vafs1240,Vafsi,,,,vafs1240,vaf,vaf
-wapp1239,Wappo,,,,wapp1239,wao,wap
-nucl1347,Wolof,,,,nucl1347,wol,wlf
-kung1261,!Xun (Ekoka),,,,kung1261,knw,xun
-yaqu1251,Yaqui,,,,yaqu1251,yaq,yaq
-yoru1245,Yoruba,,,,yoru1245,yor,yor
-sout2750,Yukaghir (Kolyma),,,,sout2750,yux,yko
-cent2127,Yup'ik (Central),,,,cent2127,esu,ypk
-yura1255,Yuracare,,,,yura1255,yuz,yrc
-zarm1239,Zarma,,,,zarm1239,dje,zar
-zulu1248,Zulu,,,,zulu1248,zul,zul
-puma1239,Puma,,,,puma1239,pum,pma
-mazatecsanjeronimo,Mazatec (San Jeronimo),,,,,,mzs
-leti1246,Leti,,,,leti1246,lti,let
-kaya1319,Kayardild,,,,kaya1319,gyd,kay
-hung1274,Hungarian,,,,hung1274,hun,hun
-emai1241,Emai,,,,emai1241,ema,ema
-haka1240,Lai,,,,haka1240,cnh,lai
-nort2954,Paiute (Northern),,,,nort2954,pao,pno
-indo1316,Indonesian,,,,indo1316,ind,ind
-jalonke,Jalonke,,,,,,jlx
-mani1292,Meithei,,,,mani1292,mni,mei
-nuuu1241,N|uu,,,,nuuu1241,ngh,ngh
-kala1399,Greenlandic (West),,,,kala1399,kal,grw
-joolabanjal,Jóola Banjal,,,,,,jlba
-neoaramaictelkepe,Neo-Aramaic (Telkepe),,,,,,
-mian1256,Mian,,,,mian1256,mpt,
-tima1241,Tima,,,,tima1241,tms,
-teiwa,Teiwa,,,,,,
-chintang,Chintang,,,,,,
-donn1238,Donno So,,,,donn1238,dds,
-anci1242,Ancient Greek,,,,anci1242,grc,
-abun1252,Abun,,,,abun1252,kgr,abu
-ainu1240-2,Ainu (BJ),,,,ainu1240,ain,ain
-akaw1239,Akawaio,,,,akaw1239,ake,akw
-lala1268,Ala'ala,,,,lala1268,nrz,all
-alya1239,Alyawarra,,,,alya1239,aly,aly
-east2443,Ambae (Lolovoli Northeast),,,,east2443,omb,aml
-nung1282,Anong (BJ),,,,nung1282,nun,ano
-apur1254,Apurinã (BJ),,,,apur1254,apu,apu
-egyp1253,Arabic (Egyptian) (BJ),,,,egyp1253,arz,aeg
-arao1248,Araona (BJ),,,,arao1248,aro,ana
-araw1276,Arawak (BJ),,,,araw1276,arw,ara
-nucl1235,Armenian (Eastern) (BJ),,,,nucl1235,hye,arm
-arop1243,Arop-Lokep (BJ),,,,arop1243,apr,alk
-arrerntebj,Arrernte (BJ),,,,,,arr
-veng1238,Babungo (BJ),,,,veng1238,bav,bab
-badi1246,Badimaya (BJ),,,,badi1246,bia,bdm
-bagi1246,Bagirmi (BJ),,,,bagi1246,bmi,bag
-cent2004,Bai (BJ),,,,cent2004,bca,bai
-indo1317-2,Bajau (BJ),,,,indo1317,bdl,baj
-baka1272,Baka (in Cameroon) (BJ),,,,baka1272,bkc,bak
-bann1247,Banoni (BJ),,,,bann1247,bcm,bnn
-bara1380,Barasano (BJ),,,,bara1380,bsn,brs
-bare1276,Baré (BJ),,,,bare1276,bae,bae
-bauz1241,Bauzi (BJ),,,,bauz1241,bvz,bzi
-bawm1236,Bawm (BJ),,,,bawm1236,bgr,baw
-belh1239,Belhare (BJ),,,,belh1239,byw,bel
-cent2194,Berber (Middle Atlas) (BJ),,,,cent2194,tzm,bma
-bert1248,Berta (BJ),,,,bert1248,wti,ber
-bhoj1244,Bhojpuri (BJ),,,,bhoj1244,bho,bho
-gunw1252,Bininj Gun-Wok (BJ),,,,gunw1252,gup,bbw
-biri1256,Biri (BJ),,,,biri1256,bzr,bii
-bisu1244,Bisu (BJ),,,,bisu1244,bii,biu
-siks1238,Blackfoot (BJ),,,,siks1238,bla,bla
-tiey1235,Bozo (Tigemaxo) (BJ),,,,tiey1235,boz,boz
-brok1247,Brokskat (BJ),,,,brok1247,bkk,bkt
-tean1237,Teanu (BJ),,,,tean1237,tkw,bum
-buru1296,Burushaski (BJ),,,,buru1296,bsk,bur
-busa1253,Busa (BJ),,,,busa1253,bqp,bus
-byan1241,Byansi (BJ),,,,byan1241,bee,bya
-canelakrahobj,Canela-Krahô (BJ),,,,,,ckr
-chan1310,Chantyal (BJ),,,,chan1310,chx,chn
-cher1273,Cherokee (BJ),,,,cher1273,chr,che
-leal1235,Chinantec (Lealao) (BJ),,,,leal1235,cle,cle
-choc1279,Chocho (BJ),,,,choc1279,coz,cch
-choc1276,Choctaw (BJ),,,,choc1276,cho,cct
-chuk1273,Chukchi (BJ),,,,chuk1273,ckt,chk
-coma1245,Comanche (BJ),,,,coma1245,com,cmn
-coos1249,Coos (Hanis) (BJ),,,,coos1249,csz,coo
-copt1239,Coptic (BJ),,,,copt1239,cop,cop
-plai1258,Cree (Plains) (BJ),,,,plai1258,crk,cre
-dagb1246,Dagbani (BJ),,,,dagb1246,dag,dgb
-daha1245,Dahalo (BJ),,,,daha1245,dal,dah
-daas1238,Dhaasanac (BJ),,,,daas1238,dsh,dha
-baya1257,Dharumbal (BJ),,,,baya1257,bjy,dhb
-dhiv1236,Dhivehi (BJ),,,,dhiv1236,div,dhi
-dyaa1242,Djabugay (BJ),,,,dyaa1242,dyy,dja
-jaru1254,Djaru (BJ),,,,jaru1254,ddj,djr
-bang1363,Dogon (BJ),,,,bang1363,dba,dog
-doya1240,Doyayo (BJ),,,,doya1240,dow,doy
-dehu1237,Drehu (BJ),,,,dehu1237,dhv,dre
-dual1243,Duala (BJ),,,,dual1243,dua,dua
-gaww1239,Dullay (Gollango) (BJ),,,,gaww1239,gwd,dug
-efik1245,Efik (BJ),,,,efik1245,efi,efi
-epen1239,Epena Pedee (BJ),,,,epen1239,sja,epe
-siee1239,Erromangan (BJ),,,,siee1239,erg,err
-ewon1239,Ewondo (BJ),,,,ewon1239,ewo,ewo
-fiji1243,Fijian (BJ),,,,fiji1243,fij,fij
-stan1290,French (BJ),,,,stan1290,fra,fre
-fyam1238,Fyem (BJ),,,,fyam1238,pym,fye
-gamo1244,Gamo (BJ),,,,gamo1244,gmo,gam
-gapa1238,Gapapaiwa (BJ),,,,gapa1238,pwg,gap
-gola1255,Gola (BJ),,,,gola1255,gol,gol
-goon1238,Gooniyandi (BJ),,,,goon1238,gni,goo
-barc1235,Grebo (BJ),,,,barc1235,gry,grb
-para1311,Guaraní (BJ),,,,para1311,gug,gua
-gudu1252,Guduf (BJ),,,,gudu1252,gdf,gdf
-kumb1268,Gumbaynggir (BJ),,,,kumb1268,kgs,gum
-gura1252,Gurr-goni (BJ),,,,gura1252,gge,grg
-gugu1255,Guugu Yimidhirr (BJ),,,,gugu1255,kky,guu
-haidabj,Haida (BJ),,,,,,hai
-hata1243,Hatam (BJ),,,,hata1243,had,hat
-haus1257,Hausa (BJ),,,,haus1257,hau,hau
-wayu1241,Hayu (BJ),,,,wayu1241,vay,hay
-hdii1240,Hdi (BJ),,,,hdii1240,xed,hdi
-hebr1245,Hebrew (Modern) (BJ),,,,hebr1245,heb,heb
-hind1269,Hindi (BJ),,,,hind1269,hin,hin
-hmar1241,Hmar (BJ),,,,hmar1241,hmr,hma
-hmon1338,Hmong Njua (BJ),,,,hmon1338,blu,hmo
-hoav1238,Hoava (BJ),,,,hoav1238,hoa,hoa
-hunz1247,Hunzib (BJ),,,,hunz1247,huz,hzb
-nucl1417,Igbo (BJ),,,,nucl1417,ibo,igb
-ikkk1242,Ik (BJ),,,,ikkk1242,ikx,ik
-imon1245,Imonda (BJ),,,,imon1245,imn,imo
-ingu1240,Ingush (BJ),,,,ingu1240,inh,ing
-iraq1241,Iraqw (BJ),,,,iraq1241,irk,irq
-itza1241,Itzaj (BJ),,,,itza1241,itz,itz
-yabe1254,Jabêm (BJ),,,,yabe1254,jae,jab
-djam1255-2,Jaminjung (BJ),,,,djam1255,djd,jam
-jelibj,Jeli (BJ),,,,,,jel
-kach1280,Jingpho (BJ),,,,kach1280,kac,jng
-juho1239,Ju|'hoan (BJ),,,,juho1239,ktz,juh
-kair1263,Kairiru (BJ),,,,kair1263,kxa,krr
-kala1377,Kala Lagaw Ya (BJ),,,,kala1377,mwp,kly
-kalk1246,Kalkatungu (BJ),,,,kalk1246,ktg,kgu
-kama1373,Kamaiurá (BJ),,,,kama1373,kay,kma
-kamb1299-2,Kambera (BJ),,,,kamb1299,xbr,kam
-kanabj,Kana (BJ),,,,,,kan
-nucl1305,Kannada (BJ),,,,nucl1305,kan,knd
-karo1304,Karok (BJ),,,,karo1304,kyh,krk
-kate1253,Kâte (BJ),,,,kate1253,kmg,kat
-east2342,Kayah Li (Eastern) (BJ),,,,east2342,eky,kyl
-qima1242,Kemant (BJ),,,,qima1242,ahg,kem
-kera1255,Kera (BJ),,,,kera1255,ker,ker
-kett1243-2,Ket (BJ),,,,kett1243,ket,ket
-halh1238,Khalkha (BJ),,,,halh1238,khk,kha
-khas1269,Khasi (BJ),,,,khas1269,kha,khs
-cent1989,Khmer (BJ),,,,cent1989,khm,khm
-khmu1256,Khmu' (BJ),,,,khmu1256,kjg,kmu
-kili1267,Kilivila (BJ),,,,kili1267,kij,klv
-gilb1244,Kiribati (BJ),,,,gilb1244,gil,krb
-klam1254,Klamath (BJ),,,,klam1254,kla,klm
-kobo1249,Kobon (BJ),,,,kobo1249,kpw,kob
-koda1255,Kodava (BJ),,,,koda1255,kfa,kod
-kombaibj,Kombai (BJ),,,,,,kmb
-kond1295,Konda (BJ),,,,kond1295,kfc,kda
-koon1244,Kongo (BJ),,,,koon1244,kng,kon
-kork1243,Korku (BJ),,,,kork1243,kfq,kku
-koro1298-2,Koromfe (BJ),,,,koro1298,kfz,kfe
-korowaibj,Korowai (BJ),,,,,,krw
-kron1241,Krongo (BJ),,,,kron1241,kgo,kro
-kuku1280,Kugu Nganhcara (BJ),,,,kuku1280,uwa,knc
-bari1284,Kukú (BJ),,,,bari1284,bfa,kuk
-kuku1273,Kuku-Yalanji (BJ),,,,kuku1273,gvn,kya
-kuna1268,Kunama (BJ),,,,kuna1268,kun,knm
-kute1249,Kutenai (BJ),,,,kute1249,kut,kut
-kwai1243,Kwaio (BJ),,,,kwai1243,kwd,kwa
-lada1244,Ladakhi (BJ),,,,lada1244,lbj,lad
-lakk1252,Lak (BJ),,,,lakk1252,lbe,lak
-lama1288,Lamang (BJ),,,,lama1288,hia,lmg
-latv1249,Latvian (BJ),,,,latv1249,lav,lat
-lepc1244,Lepcha (BJ),,,,lepc1244,lep,lep
-lezg1247,Lezgian (BJ),,,,lezg1247,lez,lez
-lill1248,Lillooet (BJ),,,,lill1248,lil,lil
-nucl1327,Limilngan (BJ),,,,nucl1327,lmc,lml
-ling1263,Lingala (BJ),,,,ling1263,lin,lin
-lisu1250,Lisu (BJ),,,,lisu1250,lis,lis
-long1395,Longgu (BJ),,,,long1395,lgu,lgu
-loni1238,Loniu (BJ),,,,loni1238,los,lon
-lund1266,Lunda,,,,lund1266,lun,lbu
-madi1260,Ma'di (BJ),,,,madi1260,mhi,mad
-male1284,Maale (BJ),,,,male1284,mdy,mle
-macu1259,Macushi (BJ),,,,macu1259,mbc,mac
-nucl1460,Madurese (BJ),,,,nucl1460,mad,mdr
-maipurebj,Maipure (BJ),,,,,,mpr
-mait1250,Maithili (BJ),,,,mait1250,mai,mai
-maka1318,Makah (BJ),,,,maka1318,myh,mak
-mamc1234,Mam (BJ),,,,mamc1234,mvc,mam
-mang1381,Mangarrayi (BJ),,,,mang1381,mpc,myi
-tuuu1240,Mangghuer (BJ),,,,tuuu1240,mjg,mgg
-maor1246,Maori (BJ),,,,maor1246,mri,mao
-mara1386,Maranungku (BJ),,,,mara1386,zmr,mku
-mara1378,Marathi (BJ),,,,mara1378,mar,mhi
-marquesanbj,Marquesan (BJ),,,,,,mrq
-mati1255,Matis (BJ),,,,mati1255,mpq,mts
-mats1244,Matsés (BJ),,,,mats1244,mcf,myr
-maib1239,Maybrat (BJ),,,,maib1239,ayz,may
-mbabarambj,Mbabaram (BJ),,,,,,mbb
-mbay1241,Mbay (BJ),,,,mbay1241,myb,mby
-bamb1266,Mbili (BJ),,,,bamb1266,baw,mbi
-mend1266,Mende (BJ),,,,mend1266,men,mde
-sanm1295,Mixtec (Chalcatongo) (BJ),,,,sanm1295,mig,mxc
-miya1266,Miya (BJ),,,,miya1266,mkf,miy
-moco1246,Mocoví (BJ),,,,moco1246,moc,mcv
-mono1275,Mono (in United States) (BJ),,,,mono1275,mnr,mno
-nucl1458,Monumbo (BJ),,,,nucl1458,mxk,mbo
-mose1249,Mosetén (BJ),,,,mose1249,cas,mos
-siwa1245,Motuna (BJ),,,,siwa1245,siw,mot
-mund1325,Mundang (BJ),,,,mund1325,mua,mdg
-mund1339,Mundari (BJ),,,,mund1339,muw,mun
-mwag1236,Mupun (BJ),,,,mwag1236,sur,mup
-murl1244,Murle (BJ),,,,murl1244,mur,mrl
-musg1254,Musgu (BJ),,,,musg1254,mug,mgu
-muss1246,Mussau (BJ),,,,muss1246,emi,mus
-naba1256,Nabak (BJ),,,,naba1256,naf,nab
-yale1246,Nagatman (BJ),,,,yale1246,nce,nag
-tete1251,Nahuatl (Tetelcingo) (BJ),,,,tete1251,nhg,nht
-sout2994,Nambikuára (BJ),,,,sout2994,nab,nmb
-nava1243,Navajo (BJ),,,,nava1243,nav,nav
-sout2808,Ndebele (in South Africa) (BJ),,,,sout2808,nbl,ndb
-djee1236,Ndjébbana (BJ),,,,djee1236,djj,ndj
-nepa1252-2,Nepali (BJ),,,,nepa1252,nep,nep
-ngal1293,Ngalakan (BJ),,,,ngal1293,nig,ngl
-wang1291,Ngiyambaa (BJ),,,,wang1291,wyb,ngi
-nhandabj,Nhanda (BJ),,,,,,nha
-nias1242,Nias (BJ),,,,nias1242,nia,nia
-nisg1240,Nisgha (BJ),,,,nisg1240,ncg,nsg
-niue1239,Niuean (BJ),,,,niue1239,niu,niu
-gily1242,Nivkh (BJ),,,,gily1242,niv,niv
-chig1238,Nkore-Kiga (BJ),,,,chig1238,cgg,nko
-nuaulubj,Nuaulu (BJ),,,,,,nua
-kenu1236,Nubian (Dongolese) (BJ),,,,kenu1236,kzh,nbd
-kenu1236-2,Nubian (Kunuz) (BJ),,,,kenu1236,kzh,nku
-noot1239,Nuuchahnulth (BJ),,,,noot1239,noo,nuu
-toho1245,O'odham (BJ),,,,toho1245,ood,ood
-obol1243,Obolo (BJ),,,,obol1243,ann,obo
-east2652,Oromo (Harar) (BJ),,,,east2652,hae,orh
-orya1242,Orya (BJ),,,,orya1242,ury,ory
-mezq1235,Otomí (Mezquital) (BJ),,,,mezq1235,ote,otm
-paam1238,Paamese (BJ),,,,paam1238,pma,pms
-paez1247,Páez (BJ),,,,paez1247,pbb,pae
-dumb1241,Paita (BJ),,,,dumb1241,duf,pta
-paiw1248,Paiwan (BJ),,,,paiw1248,pwn,pai
-pala1344,Palauan (BJ),,,,pala1344,pau,pal
-pany1241,Panyjima (BJ),,,,pany1241,pnw,pny
-male1292-2,Passamaquoddy-Maliseet (BJ),,,,male1292,pqm,psm
-patt1248,Pattani (BJ),,,,patt1248,lae,ptt
-pero1241,Pero (BJ),,,,pero1241,pip,per
-pila1245,Pilagá (BJ),,,,pila1245,plg,pga
-pira1253,Pirahã (BJ),,,,pira1253,myp,prh
-pitj1243,Pitjantjatjara (BJ),,,,pitj1243,pjt,pit
-pitt1247,Pitta Pitta (BJ),,,,pitt1247,pit,ppi
-pure1242,Purépecha (BJ),,,,pure1242,tsz,pur
-afar1241,Qafar (BJ),,,,afar1241,aar,qaf
-huam1248,Quechua (Huallaga) (BJ),,,,huam1248,qvh,qhu
-rama1270,Rama (BJ),,,,rama1270,rma,ram
-rapa1244,Rapanui (BJ),,,,rapa1244,rap,rap
-rawa1265,Rawang (BJ),,,,rawa1265,raw,raw
-tani1257,Retuarã (BJ),,,,tani1257,tnc,ret
-ronn1241,Ron (BJ),,,,ronn1241,cla,ron
-nort2671,Saami (Northern) (BJ),,,,nort2671,sme,sno
-salt1242,Salt-Yui (BJ),,,,salt1242,sll,syu
-sang1328,Sango (BJ),,,,sang1328,sag,san
-sang1333,Sangu (BJ),,,,sang1333,snq,sgu
-sanu1240,Sanuma (BJ),,,,sanu1240,xsu,snm
-sapu1248,Sapuan (BJ),,,,sapu1248,spu,sap
-seda1262,Sedang (BJ),,,,seda1262,sed,sed
-selk1253,Selkup (BJ),,,,selk1253,sel,skp
-shos1248-2,Shoshone (BJ),,,,shos1248,shh,sho
-sina1266,Sinaugoro (BJ),,,,sina1266,snc,sng
-slavebj,Slave (BJ),,,,,,sla
-sooo1256,So (BJ),,,,sooo1256,teu,so
-soma1255,Somali (BJ),,,,soma1255,som,som
-pedi1238,Sotho (Northern) (BJ),,,,pedi1238,nso,stn
-stan1288,Spanish (BJ),,,,stan1288,spa,spa
-sude1239,Sudest (BJ),,,,sude1239,tgo,sud
-suen1241,Suena (BJ),,,,suen1241,sue,sue
-sund1252,Sundanese (BJ),,,,sund1252,sun,sun
-east2440,Taba (BJ),,,,east2440,mky,tab
-taga1270,Tagalog (BJ),,,,taga1270,tgl,tag
-tamangbj,Tamang (BJ),,,,,,tam
-tara1313,Tarao (BJ),,,,tara1313,tro,tao
-tauy1241,Tauya (BJ),,,,tauy1241,tya,tau
-nort2959,Tepehuan (Northern) (BJ),,,,nort2959,ntp,tpn
-sout2976,Tepehuan (Southeastern) (BJ),,,,sout2976,stp,tps
-teri1250,Teribe (BJ),,,,teri1250,tfr,trb
-tern1247,Ternate (BJ),,,,tern1247,tft,trt
-tetu1245,Tetun (BJ),,,,tetu1245,tet,ttn
-tibe1272,Tibetan (Standard Spoken) (BJ),,,,tibe1272,bod,tib
-tido1248,Tidore (BJ),,,,tido1248,tvo,tid
-tigr1271,Tigrinya (BJ),,,,tigr1271,tir,tig
-tika1246,Tikar (BJ),,,,tika1246,tik,tik
-tiri1258,Tinrin (BJ),,,,tiri1258,cir,tin
-tiwi1244,Tiwi (BJ),,,,tiwi1244,tiw,tiw
-toba1266,Tobati (BJ),,,,toba1266,tti,tbt
-rata1244,Toratán (BJ),,,,rata1244,rth,tor
-torw1241,Torwali (BJ),,,,torw1241,trw,trw
-trum1247,Trumai (BJ),,,,trum1247,tpy,tru
-tsat1238,Tsat (BJ),,,,tsat1238,huq,tst
-dido1241,Tsez (BJ),,,,dido1241,ddo,tsz
-tsha1245,Tshangla (BJ),,,,tsha1245,tsj,tgl
-nucl1649,Tsimshian (Coast) (BJ),,,,nucl1649,tsi,tsi
-tugu1245,Tugun (BJ),,,,tugu1245,tzn,tgn
-tune1241,Tunen (BJ),,,,tune1241,baz,tnn
-turk1308,Turkana (BJ),,,,turk1308,tuv,tna
-nucl1301,Turkish (BJ),,,,nucl1301,tur,tur
-tzut1248,Tzutujil (BJ),,,,tzut1248,tzj,tzu
-udmu1245,Udmurt (BJ),,,,udmu1245,udm,udm
-uppe1438,Upper Kuskokwim (BJ),,,,uppe1438,kuu,uku
-urub1250,Urubu-Kaapor (BJ),,,,urub1250,urb,urk
-usan1239,Usan (BJ),,,,usan1239,wnu,usa
-viet1252,Vietnamese (BJ),,,,viet1252,vie,vie
-walm1241,Walmatjari (BJ),,,,walm1241,wmt,wlm
-wamb1258,Wambaya (BJ),,,,wamb1258,wmb,wam
-wara1303,Warao (BJ),,,,wara1303,wba,wra
-wara1290,Waray (in Australia) (BJ),,,,wara1290,wrz,wry
-ward1246,Wardaman (BJ),,,,ward1246,wrr,wrd
-ware1253,Warembori (BJ),,,,ware1253,wsa,wrm
-warr1255,Warrgamay (BJ),,,,warr1255,wgy,wrg
-wira1260,Wirangu (BJ),,,,wira1260,wiw,wir
-xamm1241,/Xam (BJ),,,,xamm1241,xam,xam
-yagu1244,Yagua (BJ),,,,yagu1244,yad,yag
-yany1243,Yanyuwa (BJ),,,,yany1243,jao,yny
-yoku1256,Yawelmani (BJ),,,,yoku1256,yok,ywl
-yawu1244,Yawuru (BJ),,,,yawu1244,ywr,ywr
-yidi1250,Yidiny (BJ),,,,yidi1250,yii,yid
-yima1243,Yimas (BJ),,,,yima1243,yee,yim
-ying1247,Yingkarta (BJ),,,,ying1247,yia,yng
-yiry1245,Yir Yiront (BJ),,,,yiry1245,yiy,yir
-nort2745,Yukaghir (Tundra) (BJ),,,,nort2745,ykg,ytu
-cent2127-2,Yup'ik (Central) (BJ),,,,cent2127,esu,ypk
-sant1451,Zapotec (Quiegolani) (BJ),,,,sant1451,zpi,zaq
-zays1235,Zayse (BJ),,,,zays1235,zay,zay
-diml1238,Zazaki (BJ),,,,diml1238,diq,zaz
-chim1300,Zoque (Chimalapa) (BJ),,,,chim1300,zoh,zch
-jingulubj,Jingulu (BJ),,,,,,jgl
-chinesekunmingbj,Chinese (Kunming) (BJ),,,,,,
-cinsengabj,Cinsenga (BJ),,,,,,
-dargibj,Dargi (BJ),,,,,,
-cambodianbj,Cambodian (BJ),,,,,,
-kiku1240,Gikuyu (BJ),,,,kiku1240,kik,
-kapaubj,Kapau (BJ),,,,,,
-mapuchebj,Mapuche (BJ),,,,,,
-nishnaabemwinbj,Nishnaabemwin (BJ),,,,,,
-west2618,Central Arctic Inuktitut,,,,west2618,ikt,
-sril1245,Sri Lanka Malay,,,,sril1245,sci,
+huic1243,Huichol,,,,huic1243,,
+udih1248,Udihe,,,,udih1248,,
+gama1251,Kham,,,,gama1251,,
+mala1464,Malayalam,,,,mala1464,,
+gaga1251,Gaagudju,,,,gaga1251,,
+even1260,Even,,,,even1260,,
+kwaz1243,Kwaza,,,,kwaz1243,,
+stan1295,German,,,,stan1295,,
+finn1318,Finnish,,,,finn1318,,
+tari1256,Tariana,,,,tari1256,,
+mode1248,Modern Greek,,,,mode1248,,
+lele1276,Lele,,,,lele1276,,
+thai1261,Thai,,,,thai1261,,
+cavi1250,Cavineña,,,,cavi1250,,
+kiny1244,Kinyarwanda,,,,kiny1244,,
+umat1237,Sahaptin,,,,umat1237,,
+nucl1302,Georgian,,,,nucl1302,,
+mana1295,Manam,,,,mana1295,,
+ship1254,Shipibo-Konibo,,,,ship1254,,
+even1259,Evenki,,,,even1259,,
+tami1289,Tamil,,,,tami1289,,
+wari1268,Wari’,,,,wari1268,,
+abkh1244,Abkhaz,,,,abkh1244,,
+ainu1240,Ainu,,,,ainu1240,,
+akan1250,Akan,,,,akan1250,,
+akha1245,Akha,,,,akha1245,,
+alam1246,Alamblak,,,,alam1246,,
+aleu1260,Aleut,,,,aleu1260,,
+amel1241,Amele,,,,amel1241,,
+amha1245,Amharic,,,,amha1245,,
+arak1252,Araki,,,,arak1252,,
+indo1317,Bajau,,,,indo1317,,
+basq1248,Basque,,,,basq1248,,
+baou1238,Baule,,,,baou1238,,
+yuec1235,Cantonese,,,,yuec1235,,
+cash1254,Cashinahua,,,,cash1254,,
+cham1312,Chamorro,,,,cham1312,,
+soch1239,Sochiapan Chinantec,,,,soch1239,,
+crow1244,Crow,,,,crow1244,,
+dier1241,Diyari,,,,dier1241,,
+djin1251,Jingulu,,,,djin1251,,
+dyir1250,Dyirbal,,,,dyir1250,,
+stan1293,English,,,,stan1293,,
+ewee1241,Ewe,,,,ewee1241,,
+fonn1241,Fongbe,,,,fonn1241,,
+mesk1242,Meskwaki,,,,mesk1242,,
+garo1247,Garo,,,,garo1247,,
+halk1245,Halkomelem,,,,halk1245,,
+hixk1239,Hixkaryana,,,,hixk1239,,
+hupa1239,Hupa,,,,hupa1239,,
+arhu1242,Ika,,,,arhu1242,,
+ital1282,Italian,,,,ital1282,,
+itel1242,Itelmen,,,,itel1242,,
+iton1250,Itonama,,,,iton1250,,
+popt1235,Jakaltek,,,,popt1235,,
+djam1255,Jaminjung,,,,djam1255,,
+nucl1643,Japanese,,,,nucl1643,,
+jara1245,Jarawa (in Andamans),,,,jara1245,,
+kamb1299,Kambera,,,,kamb1299,,
+kash1277,Kashmiri,,,,kash1277,,
+kaza1248,Kazakh,,,,kaza1248,,
+kett1243,Ket,,,,kett1243,,
+khan1273,Khanty,,,,khan1273,,
+nama1264,Khoekhoe,,,,nama1264,,
+khva1239,Khwarshi,,,,khva1239,,
+koas1236,Koasati,,,,koas1236,,
+kore1280,Korean,,,,kore1280,,
+koro1298,Koromfe,,,,koro1298,,
+koyr1240,Koyra Chiini,,,,koyr1240,,
+koyr1242,Koyraboro Senni,,,,koyr1242,,
+lako1247,Lakhota,,,,lako1247,,
+lang1324,Lango,,,,lang1324,,
+lavu1241,Lavukaleve,,,,lavu1241,,
+lazz1240,Laz,,,,lazz1240,,
+malt1254,Maltese,,,,malt1254,,
+mand1415,Mandarin Chinese,,,,mand1415,,
+mapu1245,Mapudungun,,,,mapu1245,,
+mari1440,Maricopa,,,,mari1440,,
+mart1255,Martuthunira,,,,mart1255,,
+mori1278,Mauritian Creole,,,,mori1278,,
+movi1243,Movima,,,,movi1243,,
+nepa1252,Nepali,,,,nepa1252,,
+newa1246,Dolakha Newari,,,,newa1246,,
+east2542,Eastern Ojibwe,,,,east2542,,
+olut1240,Olutec,,,,olut1240,,
+nucl1284,Oriya,,,,nucl1284,,
+panj1256,Panjabi,,,,panj1256,,
+male1292,Passamaquoddy-Maliseet,,,,male1292,,
+west2369,Persian,,,,west2369,,
+nort2966,Northern Pomo,,,,nort2966,,
+nort2722,Qiang,,,,nort2722,,
+imba1240,Imbabura Quechua,,,,imba1240,,
+sali1295,Saliba (in PNG),,,,sali1295,,
+seme1247,Semelai,,,,seme1247,,
+seri1257,Seri,,,,seri1257,,
+supy1237,Supyire,,,,supy1237,,
+swah1253,Swahili,,,,swah1253,,
+swat1243,Swati,,,,swat1243,,
+tehu1242,Tehuelche,,,,tehu1242,,
+teop1238,Teop,,,,teop1238,,
+kumi1248,Tiipay (Jamul),,,,kumi1248,,
+trio1238,Tiriyo,,,,trio1238,,
+sout2961,Tiwa (Southern),,,,sout2961,,
+acat1239,Tlapanec,,,,acat1239,,
+yecu1235,Totonac (Misantla),,,,yecu1235,,
+tuka1249,Tukang Besi,,,,tuka1249,,
+pana1305,Tümpisa Shoshone,,,,pana1305,,
+tzot1262,Tzotzil,,,,tzot1262,,
+vafs1240,Vafsi,,,,vafs1240,,
+wapp1239,Wappo,,,,wapp1239,,
+nucl1347,Wolof,,,,nucl1347,,
+kung1261,!Xun (Ekoka),,,,kung1261,,
+yaqu1251,Yaqui,,,,yaqu1251,,
+yoru1245,Yoruba,,,,yoru1245,,
+sout2750,Yukaghir (Kolyma),,,,sout2750,,
+cent2127,Yup'ik (Central),,,,cent2127,,
+yura1255,Yuracare,,,,yura1255,,
+zarm1239,Zarma,,,,zarm1239,,
+zulu1248,Zulu,,,,zulu1248,,
+puma1239,Puma,,,,puma1239,,
+leti1246,Leti,,,,leti1246,,
+kaya1319,Kayardild,,,,kaya1319,,
+hung1274,Hungarian,,,,hung1274,,
+emai1241,Emai,,,,emai1241,,
+haka1240,Lai,,,,haka1240,,
+nort2954,Paiute (Northern),,,,nort2954,,
+indo1316,Indonesian,,,,indo1316,,
+yalu1240,Jalonke,,,,yalu1240,,
+mani1292,Meithei,,,,mani1292,,
+nuuu1241,N|uu,,,,nuuu1241,,
+kala1399,Greenlandic (West),,,,kala1399,,
+band1340,Jóola Banjal,,,,band1340,,
+chal1275,Neo-Aramaic (Telkepe),,,,chal1275,,
+mian1256,Mian,,,,mian1256,,
+tima1241,Tima,,,,tima1241,,
+teiw1235,Teiwa,,,,teiw1235,,
+chhi1245,Chintang,,,,chhi1245,,
+donn1238,Donno So,,,,donn1238,,
+anci1242,Ancient Greek,,,,anci1242,,
+abun1252,Abun,,,,abun1252,,
+akaw1239,Akawaio,,,,akaw1239,,
+lala1268,Ala'ala,,,,lala1268,,
+alya1239,Alyawarra,,,,alya1239,,
+east2443,Ambae (Lolovoli Northeast),,,,east2443,,
+nung1282,Anong (BJ),,,,nung1282,,
+apur1254,Apurinã,,,,apur1254,,
+egyp1253,Egyptian Arabic (BJ),,,,egyp1253,,
+arao1248,Araona (BJ),,,,arao1248,,
+araw1276,Arawak (BJ),,,,araw1276,,
+nucl1235,Eastern Armenian (BJ),,,,nucl1235,,
+arop1243,Arop-Lokep (BJ),,,,arop1243,,
+east2379,Eastern Arrernte (BJ),,,,east2379,,
+veng1238,Babungo (BJ),,,,veng1238,,
+badi1246,Badimaya (BJ),,,,badi1246,,
+bagi1246,Bagirmi (BJ),,,,bagi1246,,
+cent2004,Bai (BJ),,,,cent2004,,
+indo1317-2,Bajau (BJ),,,,indo1317,,
+baka1272,Baka (in Cameroon) (BJ),,,,baka1272,,
+bann1247,Banoni (BJ),,,,bann1247,,
+bara1380,Barasano (BJ),,,,bara1380,,
+bare1276,Baré (BJ),,,,bare1276,,
+bauz1241,Bauzi (BJ),,,,bauz1241,,
+bawm1236,Bawm (BJ),,,,bawm1236,,
+belh1239,Belhare (BJ),,,,belh1239,,
+cent2194,Berber (Middle Atlas) (BJ),,,,cent2194,,
+bert1248,Berta (BJ),,,,bert1248,,
+bhoj1244,Bhojpuri (BJ),,,,bhoj1244,,
+gunw1252,Bininj Gun-Wok (BJ),,,,gunw1252,,
+biri1256,Biri (BJ),,,,biri1256,,
+bisu1244,Bisu (BJ),,,,bisu1244,,
+siks1238,Blackfoot (BJ),,,,siks1238,,
+tiey1235,Bozo (Tigemaxo) (BJ),,,,tiey1235,,
+brok1247,Brokskat (BJ),,,,brok1247,,
+tean1237,Teanu (BJ),,,,tean1237,,
+buru1296,Burushaski (BJ),,,,buru1296,,
+busa1253,Busa (BJ),,,,busa1253,,
+byan1241,Byansi (BJ),,,,byan1241,,
+ramk1239,Canela-Krahô (BJ),,,,ramk1239,,
+chan1310,Chantyal (BJ),,,,chan1310,,
+cher1273,Cherokee (BJ),,,,cher1273,,
+leal1235,Chinantec (Lealao) (BJ),,,,leal1235,,
+choc1279,Chocho (BJ),,,,choc1279,,
+choc1276,Choctaw (BJ),,,,choc1276,,
+chuk1273,Chukchi (BJ),,,,chuk1273,,
+coma1245,Comanche (BJ),,,,coma1245,,
+coos1249,Coos (Hanis) (BJ),,,,coos1249,,
+copt1239,Coptic (BJ),,,,copt1239,,
+plai1258,Cree (Plains) (BJ),,,,plai1258,,
+dagb1246,Dagbani (BJ),,,,dagb1246,,
+daha1245,Dahalo (BJ),,,,daha1245,,
+daas1238,Dhaasanac (BJ),,,,daas1238,,
+baya1257,Dharumbal (BJ),,,,baya1257,,
+dhiv1236,Dhivehi (BJ),,,,dhiv1236,,
+dyaa1242,Djabugay (BJ),,,,dyaa1242,,
+jaru1254,Djaru (BJ),,,,jaru1254,,
+bang1363,Dogon (BJ),,,,bang1363,,
+doya1240,Doyayo (BJ),,,,doya1240,,
+dehu1237,Drehu (BJ),,,,dehu1237,,
+dual1243,Duala (BJ),,,,dual1243,,
+gaww1239,Dullay (Gollango) (BJ),,,,gaww1239,,
+efik1245,Efik (BJ),,,,efik1245,,
+epen1239,Epena Pedee (BJ),,,,epen1239,,
+siee1239,Erromangan (BJ),,,,siee1239,,
+ewon1239,Ewondo (BJ),,,,ewon1239,,
+fiji1243,Fijian (BJ),,,,fiji1243,,
+stan1290,French (BJ),,,,stan1290,,
+fyam1238,Fyem (BJ),,,,fyam1238,,
+gamo1244,Gamo (BJ),,,,gamo1244,,
+gapa1238,Gapapaiwa (BJ),,,,gapa1238,,
+gola1255,Gola (BJ),,,,gola1255,,
+goon1238,Gooniyandi (BJ),,,,goon1238,,
+sout2826,Grebo (BJ),,,,sout2826,,
+para1311,Guaraní (BJ),,,,para1311,,
+gudu1252,Guduf (BJ),,,,gudu1252,,
+kumb1268,Gumbaynggir (BJ),,,,kumb1268,,
+gura1252,Gurr-goni (BJ),,,,gura1252,,
+gugu1255,Guugu Yimidhirr (BJ),,,,gugu1255,,
+haid1248,Haida (BJ),,,,haid1248,,
+hata1243,Hatam (BJ),,,,hata1243,,
+haus1257,Hausa (BJ),,,,haus1257,,
+wayu1241,Hayu (BJ),,,,wayu1241,,
+hdii1240,Hdi (BJ),,,,hdii1240,,
+hebr1245,Hebrew (Modern) (BJ),,,,hebr1245,,
+hind1269,Hindi (BJ),,,,hind1269,,
+hmar1241,Hmar (BJ),,,,hmar1241,,
+hmon1264,Hmong Njua (BJ),,,,hmon1264,,
+hoav1238,Hoava (BJ),,,,hoav1238,,
+hunz1247,Hunzib (BJ),,,,hunz1247,,
+nucl1417,Igbo (BJ),,,,nucl1417,,
+ikkk1242,Ik (BJ),,,,ikkk1242,,
+imon1245,Imonda (BJ),,,,imon1245,,
+ingu1240,Ingush (BJ),,,,ingu1240,,
+iraq1241,Iraqw (BJ),,,,iraq1241,,
+itza1241,Itzaj (BJ),,,,itza1241,,
+yabe1254,Jabêm (BJ),,,,yabe1254,,
+djam1255-2,Jaminjung (BJ),,,,djam1255,,
+jeri1242,Jeli (BJ),,,,jeri1242,,
+kach1280,Jingpho (BJ),,,,kach1280,,
+juho1239,Ju|'hoan (BJ),,,,juho1239,,
+kair1263,Kairiru (BJ),,,,kair1263,,
+kala1377,Kala Lagaw Ya (BJ),,,,kala1377,,
+kalk1246,Kalkatungu (BJ),,,,kalk1246,,
+kama1373,Kamaiurá (BJ),,,,kama1373,,
+kamb1299-2,Kambera (BJ),,,,kamb1299,,
+khan1278,Kana (BJ),,,,khan1278,,
+nucl1305,Kannada (BJ),,,,nucl1305,,
+karo1304,Karok (BJ),,,,karo1304,,
+kate1253,Kâte (BJ),,,,kate1253,,
+east2342,Kayah Li (Eastern) (BJ),,,,east2342,,
+qima1242,Kemant (BJ),,,,qima1242,,
+kera1255,Kera (BJ),,,,kera1255,,
+kett1243-2,Ket (BJ),,,,kett1243,,
+halh1238,Khalkha (BJ),,,,halh1238,,
+khas1269,Khasi (BJ),,,,khas1269,,
+cent1989,Khmer (BJ),,,,cent1989,,
+khmu1256,Khmu' (BJ),,,,khmu1256,,
+kili1267,Kilivila (BJ),,,,kili1267,,
+gilb1244,Kiribati (BJ),,,,gilb1244,,
+klam1254,Klamath (BJ),,,,klam1254,,
+kobo1249,Kobon (BJ),,,,kobo1249,,
+koda1255,Kodava (BJ),,,,koda1255,,
+ndei1235,Kombai (BJ),,,,ndei1235,,
+kond1295,Konda (BJ),,,,kond1295,,
+koon1244,Kongo (BJ),,,,koon1244,,
+kork1243,Korku (BJ),,,,kork1243,,
+koro1298-2,Koromfe (BJ),,,,koro1298,,
+koro1312,Korowai (BJ),,,,koro1312,,
+kron1241,Krongo (BJ),,,,kron1241,,
+kuku1280,Kugu Nganhcara (BJ),,,,kuku1280,,
+bari1284,Kukú (BJ),,,,bari1284,,
+kuku1273,Kuku-Yalanji (BJ),,,,kuku1273,,
+kuna1268,Kunama (BJ),,,,kuna1268,,
+kute1249,Kutenai (BJ),,,,kute1249,,
+kwai1243,Kwaio (BJ),,,,kwai1243,,
+lada1244,Ladakhi (BJ),,,,lada1244,,
+lakk1252,Lak (BJ),,,,lakk1252,,
+lama1288,Lamang (BJ),,,,lama1288,,
+latv1249,Latvian (BJ),,,,latv1249,,
+lepc1244,Lepcha (BJ),,,,lepc1244,,
+lezg1247,Lezgian (BJ),,,,lezg1247,,
+lill1248,Lillooet (BJ),,,,lill1248,,
+nucl1327,Limilngan (BJ),,,,nucl1327,,
+ling1263,Lingala (BJ),,,,ling1263,,
+lisu1250,Lisu (BJ),,,,lisu1250,,
+long1395,Longgu (BJ),,,,long1395,,
+loni1238,Loniu (BJ),,,,loni1238,,
+lund1266,Lunda,,,,lund1266,,
+madi1260,Ma'di (BJ),,,,madi1260,,
+male1284,Maale (BJ),,,,male1284,,
+macu1259,Macushi (BJ),,,,macu1259,,
+nucl1460,Madurese (BJ),,,,nucl1460,,
+maip1247,Maipure (BJ),,,,maip1247,,
+mait1250,Maithili (BJ),,,,mait1250,,
+maka1318,Makah (BJ),,,,maka1318,,
+mamc1234,Mam (BJ),,,,mamc1234,,
+mang1381,Mangarrayi (BJ),,,,mang1381,,
+tuuu1240,Mangghuer (BJ),,,,tuuu1240,,
+maor1246,Maori (BJ),,,,maor1246,,
+mara1386,Maranungku (BJ),,,,mara1386,,
+mara1378,Marathi (BJ),,,,mara1378,,
+nort2845,Marquesan (BJ),,,,nort2845,,
+mati1255,Matis (BJ),,,,mati1255,,
+mats1244,Matsés (BJ),,,,mats1244,,
+maib1239,Maybrat (BJ),,,,maib1239,,
+mbab1239,Mbabaram (BJ),,,,mbab1239,,
+mbay1241,Mbay (BJ),,,,mbay1241,,
+bamb1266,Mbili (BJ),,,,bamb1266,,
+mend1266,Mende (BJ),,,,mend1266,,
+sanm1295,Mixtec (Chalcatongo) (BJ),,,,sanm1295,,
+miya1266,Miya (BJ),,,,miya1266,,
+moco1246,Mocoví (BJ),,,,moco1246,,
+mono1275,Mono (in United States) (BJ),,,,mono1275,,
+nucl1458,Monumbo (BJ),,,,nucl1458,,
+mose1249,Mosetén (BJ),,,,mose1249,,
+siwa1245,Motuna (BJ),,,,siwa1245,,
+mund1325,Mundang (BJ),,,,mund1325,,
+mund1320,Mundari (BJ),,,,mund1320,,
+mwag1236,Mupun (BJ),,,,mwag1236,,
+murl1244,Murle (BJ),,,,murl1244,,
+musg1254,Musgu (BJ),,,,musg1254,,
+muss1246,Mussau (BJ),,,,muss1246,,
+naba1256,Nabak (BJ),,,,naba1256,,
+yale1246,Nagatman (BJ),,,,yale1246,,
+tete1251,Nahuatl (Tetelcingo) (BJ),,,,tete1251,,
+sout2994,Nambikuára (BJ),,,,sout2994,,
+nava1243,Navajo (BJ),,,,nava1243,,
+sout2808,Ndebele (in South Africa) (BJ),,,,sout2808,,
+djee1236,Ndjébbana (BJ),,,,djee1236,,
+nepa1252-2,Nepali (BJ),,,,nepa1252,,
+ngal1293,Ngalakan (BJ),,,,ngal1293,,
+wang1291,Ngiyambaa (BJ),,,,wang1291,,
+nhan1238,Nhanda (BJ),,,,nhan1238,,
+nias1242,Nias (BJ),,,,nias1242,,
+nisg1240,Nisgha (BJ),,,,nisg1240,,
+niue1239,Niuean (BJ),,,,niue1239,,
+gily1242,Nivkh (BJ),,,,gily1242,,
+chig1238,Nkore-Kiga (BJ),,,,chig1238,,
+sout2895,Nuaulu (BJ),,,,sout2895,,
+kenu1236,Nubian (Dongolese) (BJ),,,,kenu1236,,
+kenu1236-2,Nubian (Kunuz) (BJ),,,,kenu1236,,
+noot1239,Nuuchahnulth (BJ),,,,noot1239,,
+toho1245,O'odham (BJ),,,,toho1245,,
+obol1243,Obolo (BJ),,,,obol1243,,
+east2652,Oromo (Harar) (BJ),,,,east2652,,
+orya1242,Orya (BJ),,,,orya1242,,
+mezq1235,Otomí (Mezquital) (BJ),,,,mezq1235,,
+paam1238,Paamese (BJ),,,,paam1238,,
+paez1247,Páez (BJ),,,,paez1247,,
+dumb1241,Paita (BJ),,,,dumb1241,,
+paiw1248,Paiwan (BJ),,,,paiw1248,,
+pala1344,Palauan (BJ),,,,pala1344,,
+pany1241,Panyjima (BJ),,,,pany1241,,
+male1292-2,Passamaquoddy-Maliseet (BJ),,,,male1292,,
+patt1248,Pattani (BJ),,,,patt1248,,
+pero1241,Pero (BJ),,,,pero1241,,
+pila1245,Pilagá (BJ),,,,pila1245,,
+pira1253,Pirahã (BJ),,,,pira1253,,
+pitj1243,Pitjantjatjara (BJ),,,,pitj1243,,
+pitt1247,Pitta Pitta (BJ),,,,pitt1247,,
+pure1242,Purépecha (BJ),,,,pure1242,,
+afar1241,Qafar,,,,afar1241,,
+huam1248,Quechua (Huallaga) (BJ),,,,huam1248,,
+rama1270,Rama (BJ),,,,rama1270,,
+rapa1244,Rapanui (BJ),,,,rapa1244,,
+rawa1265,Rawang (BJ),,,,rawa1265,,
+tani1257,Retuarã (BJ),,,,tani1257,,
+ronn1241,Ron (BJ),,,,ronn1241,,
+nort2671,Saami (Northern) (BJ),,,,nort2671,,
+salt1242,Salt-Yui (BJ),,,,salt1242,,
+sang1328,Sango (BJ),,,,sang1328,,
+sang1333,Sangu (BJ),,,,sang1333,,
+sanu1240,Sanuma (BJ),,,,sanu1240,,
+sapu1248,Sapuan (BJ),,,,sapu1248,,
+seda1262,Sedang (BJ),,,,seda1262,,
+selk1253,Selkup (BJ),,,,selk1253,,
+shos1248,Shoshone (BJ),,,,shos1248,,
+sina1266,Sinaugoro (BJ),,,,sina1266,,
+slav1253,Slave (BJ),,,,slav1253,,
+sooo1256,So (BJ),,,,sooo1256,,
+soma1255,Somali (BJ),,,,soma1255,,
+pedi1238,Sotho (Northern) (BJ),,,,pedi1238,,
+stan1288,Spanish (BJ),,,,stan1288,,
+sude1239,Sudest (BJ),,,,sude1239,,
+suen1241,Suena (BJ),,,,suen1241,,
+sund1252,Sundanese (BJ),,,,sund1252,,
+east2440,Taba (BJ),,,,east2440,,
+taga1270,Tagalog (BJ),,,,taga1270,,
+east2347,Tamang (BJ),,,,east2347,,
+tara1313,Tarao (BJ),,,,tara1313,,
+tauy1241,Tauya (BJ),,,,tauy1241,,
+nort2959,Tepehuan (Northern) (BJ),,,,nort2959,,
+sout2976,Tepehuan (Southeastern) (BJ),,,,sout2976,,
+teri1250,Teribe (BJ),,,,teri1250,,
+tern1247,Ternate (BJ),,,,tern1247,,
+tetu1245,Tetun (BJ),,,,tetu1245,,
+tibe1272,Tibetan (Standard Spoken) (BJ),,,,tibe1272,,
+tido1248,Tidore (BJ),,,,tido1248,,
+tigr1271,Tigrinya (BJ),,,,tigr1271,,
+tika1246,Tikar (BJ),,,,tika1246,,
+tiri1258,Tinrin (BJ),,,,tiri1258,,
+tiwi1244,Tiwi (BJ),,,,tiwi1244,,
+toba1266,Tobati (BJ),,,,toba1266,,
+rata1244,Toratán (BJ),,,,rata1244,,
+torw1241,Torwali (BJ),,,,torw1241,,
+trum1247,Trumai (BJ),,,,trum1247,,
+tsat1238,Tsat (BJ),,,,tsat1238,,
+dido1241,Tsez (BJ),,,,dido1241,,
+tsha1245,Tshangla (BJ),,,,tsha1245,,
+nucl1649,Tsimshian (Coast) (BJ),,,,nucl1649,,
+tugu1245,Tugun (BJ),,,,tugu1245,,
+tune1241,Tunen (BJ),,,,tune1241,,
+turk1308,Turkana (BJ),,,,turk1308,,
+nucl1301,Turkish (BJ),,,,nucl1301,,
+tzut1248,Tzutujil (BJ),,,,tzut1248,,
+udmu1245,Udmurt (BJ),,,,udmu1245,,
+uppe1438,Upper Kuskokwim (BJ),,,,uppe1438,,
+urub1250,Urubu-Kaapor (BJ),,,,urub1250,,
+usan1239,Usan (BJ),,,,usan1239,,
+viet1252,Vietnamese (BJ),,,,viet1252,,
+walm1241,Walmatjari (BJ),,,,walm1241,,
+wamb1258,Wambaya (BJ),,,,wamb1258,,
+wara1303,Warao (BJ),,,,wara1303,,
+wara1290,Waray (in Australia) (BJ),,,,wara1290,,
+ward1246,Wardaman (BJ),,,,ward1246,,
+ware1253,Warembori (BJ),,,,ware1253,,
+warr1255,Warrgamay (BJ),,,,warr1255,,
+wira1260,Wirangu (BJ),,,,wira1260,,
+xamm1241,/Xam (BJ),,,,xamm1241,,
+yagu1244,Yagua (BJ),,,,yagu1244,,
+yany1243,Yanyuwa (BJ),,,,yany1243,,
+yoku1256,Yawelmani (BJ),,,,yoku1256,,
+yawu1244,Yawuru (BJ),,,,yawu1244,,
+yidi1250,Yidiny (BJ),,,,yidi1250,,
+yima1243,Yimas (BJ),,,,yima1243,,
+ying1247,Yingkarta (BJ),,,,ying1247,,
+yiry1245,Yir Yiront (BJ),,,,yiry1245,,
+nort2745,Yukaghir (Tundra) (BJ),,,,nort2745,,
+cent2127-2,Yup'ik (Central) (BJ),,,,cent2127,,
+sant1451,Zapotec (Quiegolani) (BJ),,,,sant1451,,
+zays1235,Zayse (BJ),,,,zays1235,,
+diml1238,Zazaki (BJ),,,,diml1238,,
+chim1300,Zoque (Chimalapa) (BJ),,,,chim1300,,
+djin1251-2,Jingulu (BJ),,,,djin1251,,
+kunm1234,Chinese (Kunming) (BJ),,,,kunm1234,,
+nsen1242,Cinsenga (BJ),,,,nsen1242,,
+darg1241,Dargwa (BJ),,,,darg1241,,
+cent1989-2,Cambodian (BJ),,,,cent1989,,
+kiku1240,Gikuyu (BJ),,,,kiku1240,,
+east2542-2,Nishnaabemwin (BJ),,,,east2542,,
+west2618,Central Arctic Inuktitut,,,,west2618,,
+sril1245,Sri Lanka Malay,,,,sril1245,,
