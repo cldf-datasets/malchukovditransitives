@@ -31,6 +31,13 @@ class Dataset(BaseDataset):
 
         cldf_data = ditrans2cldf.excel2cldf(excel_data, config)
 
+        # for now drop the examples with missing language ids
+        # TODO: fix this upstream
+        cldf_data['examples'] = [
+            example
+            for example in cldf_data['examples']
+            if example.get('Language_ID')]
+
         ditrans2cldf.add_custom_columns(args.writer.cldf, config)
         args.writer.cldf.add_sources(
             ditrans2cldf.make_bibliography(cldf_data['references']))
