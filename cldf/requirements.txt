@@ -5,7 +5,7 @@ bibtexparser==2.0.0b7
 bs4==0.0.2
 certifi==2024.2.2
 cldfbench==1.14.0
--e git+https://github.com/cldf-datasets/malchukovditransitives@f80eff4f2fdfed9c4bb95fe09c2bf68bf8379934#egg=cldfbench_ditransitive
+-e git+https://github.com/cldf-datasets/malchukovditransitives@0c960a8d334e2f5caca6940d3ec220c9263cb176#egg=cldfbench_ditransitive
 cldfcatalog==1.5.1
 cldfzenodo==2.1.1
 clldutils==3.22.2
@@ -49,5 +49,6 @@ tqdm==4.66.2
 Unidecode==1.3.8
 uritemplate==4.1.1
 urllib3==2.2.1
+wcwidth==0.2.13
 zenodoclient==0.5.1
 zipp==3.18.1
