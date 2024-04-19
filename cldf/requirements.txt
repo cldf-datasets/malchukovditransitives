@@ -5,14 +5,14 @@ bibtexparser==2.0.0b7
 bs4==0.0.2
 certifi==2024.2.2
 cldfbench==1.14.0
--e git+https://github.com/cldf-datasets/malchukovditransitives@dc4b79456ae4000d15e6c6cb1c1f13c2a53822c2#egg=cldfbench_ditransitive
+-e git+https://github.com/cldf-datasets/malchukovditransitives@8f1a0bbbd626b9f9f8c514630af032a079704ea1#egg=cldfbench_ditransitive
 cldfcatalog==1.5.1
 cldfzenodo==2.1.1
 clldutils==3.22.2
 colorama==0.4.6
 colorlog==6.8.2
 csvw==3.3.0
--e git+ssh://git@github.com/cldf/ditrans2cldf@72cf06571b7bc2f272a28d33ce8c28a92e451444#egg=ditrans2cldf
+-e git+ssh://git@github.com/cldf/ditrans2cldf@c5a8a6879e84832acd308fe789f523404a09cd30#egg=ditrans2cldf
 exceptiongroup==1.2.0
 gitdb==4.0.11
 greenlet==3.0.3
