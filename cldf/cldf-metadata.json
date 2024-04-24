@@ -7,13 +7,13 @@
     ],
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
     "dc:source": "sources.bib",
-    "dc:title": "Ditransitives",
+    "dc:title": "Ditransitive constructions",
     "dcat:accessURL": "https://github.com/cldf-datasets/malchukovditransitives",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/cldf-datasets/malchukovditransitives",
             "rdf:type": "prov:Entity",
-            "dc:created": "8f1a0bb",
+            "dc:created": "40abfa8",
             "dc:title": "Repository"
         },
         {
@@ -38,7 +38,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ValueTable",
-            "dc:extent": 145,
+            "dc:extent": 157,
             "tableSchema": {
                 "columns": [
                     {
@@ -163,7 +163,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 451,
+            "dc:extent": 443,
             "tableSchema": {
                 "columns": [
                     {
@@ -239,7 +239,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 32,
+            "dc:extent": 15,
             "tableSchema": {
                 "columns": [
                     {
@@ -278,7 +278,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CodeTable",
-            "dc:extent": 151,
+            "dc:extent": 103,
             "tableSchema": {
                 "columns": [
                     {
@@ -468,7 +468,7 @@
             "url": "examples.csv"
         },
         {
-            "dc:extent": 614,
+            "dc:extent": 612,
             "tableSchema": {
                 "columns": [
                     {
@@ -547,7 +547,7 @@
             "url": "constructions.csv"
         },
         {
-            "dc:extent": 3304,
+            "dc:extent": 3160,
             "tableSchema": {
                 "columns": [
                     {
