@@ -6,99 +6,99 @@ lparam1-c4,lparam1,neutral,,4
 lparam1-c5,lparam1,secundative indexing,,5
 lparam1-c6,lparam1,secundative flagging,,6
 lparam1-c7,lparam1,mixed alignment,,7
-cparam6-c1,cparam6,either T or R,,1
-cparam6-c2,cparam6,neither R nor T,,2
-cparam6-c3,cparam6,only R,,3
-cparam6-c4,cparam6,only T,,4
-cparam5-c1,cparam5,...,,1
-cparam5-c2,cparam5,NEITHER,,2
-cparam5-c3,cparam5,R and T,,3
-cparam5-c4,cparam5,either T or R (but not both),,4
-cparam5-c5,cparam5,either T or R or both,,5
-cparam5-c6,cparam5,only R,,6
-cparam5-c7,cparam5,only T,,7
-cparam5-c8,cparam5,only T freely,,8
-cparam5-c9,cparam5,unclear,,9
-cparam4-c1,cparam4,No restrictions.,,1
-cparam4-c2,cparam4,R but not T,,2
-cparam4-c3,cparam4,R can be questioned,,3
-cparam4-c4,cparam4,"T, but not R",,4
-cparam4-c5,cparam4,THM (in one type of questions),,5
-cparam4-c6,cparam4,both R and T,,6
-cparam4-c7,cparam4,no restrictions,,7
-cparam4-c8,cparam4,no restrictions (apart from multiple questions),,8
-cparam4-c9,cparam4,no restrictions (except for multiple questions),,9
-cparam4-c10,cparam4,not restricted,,10
-cparam4-c11,cparam4,only R,,11
-cparam4-c12,cparam4,only T,,12
-cparam3-c1,cparam3,T or R,,1
-cparam3-c2,cparam3,neither R nor T,,2
-cparam3-c3,cparam3,only R,,3
-cparam3-c4,cparam3,only T,,4
-cparam3-c5,cparam3,see description,,5
-cparam2-c1,cparam2,either T or R,,1
-cparam2-c2,cparam2,either T or R (but not both),,2
-cparam2-c3,cparam2,only R,,3
-cparam2-c4,cparam2,only T,,4
-cparam2-c5,cparam2,unclear,,5
-cparam1-c1,cparam1,NEITHER,,1
-cparam1-c2,cparam1,REC and THM,,2
-cparam1-c3,cparam1,no restrictions,,3
-cparam1-c4,cparam1,only REC,,4
-cparam1-c5,cparam1,only THM,,5
-cparam7-c1,cparam7,dominant R > T,,1
-cparam7-c2,cparam7,dominant T > R,,2
-cparam7-c3,cparam7,either order,,3
-cparam7-c4,cparam7,strict R > T,,4
-cparam7-c5,cparam7,strict T > R,,5
-cparam7-c6,cparam7,unclear,,6
-cparam13-c1,cparam13,enclitic case,,1
-cparam13-c2,cparam13,no flagging,,2
-cparam13-c3,cparam13,possessive index,,3
-cparam13-c4,cparam13,postposition,,4
-cparam13-c5,cparam13,prefixal case,,5
-cparam13-c6,cparam13,preposition,,6
-cparam13-c7,cparam13,serial verb,,7
-cparam13-c8,cparam13,suffixal case,,8
-cparam12-c1,cparam12,enclitic case,,1
-cparam12-c2,cparam12,no flagging,,2
-cparam12-c3,cparam12,optional suffixal case,,3
-cparam12-c4,cparam12,postposition,,4
-cparam12-c5,cparam12,prefixal case,,5
-cparam12-c6,cparam12,preposition,,6
-cparam12-c7,cparam12,serial verb,,7
-cparam12-c8,cparam12,suffixal case,,8
-cparam12-c9,cparam12,zero case,,9
-cparam10-c1,cparam10,agreement,,1
-cparam10-c2,cparam10,enclitics,,2
-cparam10-c3,cparam10,no indexing,,3
-cparam10-c4,cparam10,possessive indexes,,4
-cparam10-c5,cparam10,prefixes,,5
-cparam10-c6,cparam10,proclitics,,6
-cparam10-c7,cparam10,proclitics and/or enclitics,,7
-cparam10-c8,cparam10,suffixes,,8
-cparam10-c9,cparam10,unclear,,9
-cparam11-c1,cparam11,clitics,,1
-cparam11-c2,cparam11,enclitics,,2
-cparam11-c3,cparam11,no indexing,,3
-cparam11-c4,cparam11,none or prefix,,4
-cparam11-c5,cparam11,prefixes,,5
-cparam11-c6,cparam11,prefixes and/or suffixes,,6
-cparam11-c7,cparam11,proclitics,,7
-cparam11-c8,cparam11,suffixes,,8
+cparam8-c1,cparam8,either T or R,,1
+cparam8-c2,cparam8,neither R nor T,,2
+cparam8-c3,cparam8,only R,,3
+cparam8-c4,cparam8,only T,,4
+cparam11-c1,cparam11,...,,1
+cparam11-c2,cparam11,NEITHER,,2
+cparam11-c3,cparam11,R and T,,3
+cparam11-c4,cparam11,either T or R (but not both),,4
+cparam11-c5,cparam11,either T or R or both,,5
+cparam11-c6,cparam11,only R,,6
+cparam11-c7,cparam11,only T,,7
+cparam11-c8,cparam11,only T freely,,8
 cparam11-c9,cparam11,unclear,,9
-cparam9-c1,cparam9,,,1
-cparam9-c2,cparam9,indirective,,2
-cparam9-c3,cparam9,neutral,,3
-cparam9-c4,cparam9,secundative,,4
-cparam8-c1,cparam8,Secundative,,1
-cparam8-c2,cparam8,accusative,,2
-cparam8-c3,cparam8,indirective,,3
-cparam8-c4,cparam8,mixed,,4
-cparam8-c5,cparam8,neutral,,5
-cparam8-c7,cparam8,neutral or maybe secundative,,7
-cparam8-c8,cparam8,neutral*,,8
-cparam8-c9,cparam8,no,,9
-cparam8-c10,cparam8,rather indirective,,10
-cparam8-c11,cparam8,rather secundative,,11
-cparam8-c12,cparam8,secundative,,12
+cparam12-c1,cparam12,No restrictions.,,1
+cparam12-c2,cparam12,R but not T,,2
+cparam12-c3,cparam12,R can be questioned,,3
+cparam12-c4,cparam12,"T, but not R",,4
+cparam12-c5,cparam12,THM (in one type of questions),,5
+cparam12-c6,cparam12,both R and T,,6
+cparam12-c7,cparam12,no restrictions,,7
+cparam12-c8,cparam12,no restrictions (apart from multiple questions),,8
+cparam12-c9,cparam12,no restrictions (except for multiple questions),,9
+cparam12-c10,cparam12,not restricted,,10
+cparam12-c11,cparam12,only R,,11
+cparam12-c12,cparam12,only T,,12
+cparam9-c1,cparam9,T or R,,1
+cparam9-c2,cparam9,neither R nor T,,2
+cparam9-c3,cparam9,only R,,3
+cparam9-c4,cparam9,only T,,4
+cparam9-c5,cparam9,see description,,5
+cparam10-c1,cparam10,either T or R,,1
+cparam10-c2,cparam10,either T or R (but not both),,2
+cparam10-c3,cparam10,only R,,3
+cparam10-c4,cparam10,only T,,4
+cparam10-c5,cparam10,unclear,,5
+cparam13-c1,cparam13,neither recipient nor theme,,1
+cparam13-c2,cparam13,no restrictions,,2
+cparam13-c3,cparam13,only recipient,,3
+cparam13-c4,cparam13,only theme,,4
+cparam13-c5,cparam13,recipient and theme,,5
+cparam1-c1,cparam1,dominant R > T,,1
+cparam1-c2,cparam1,dominant T > R,,2
+cparam1-c3,cparam1,either order,,3
+cparam1-c4,cparam1,strict R > T,,4
+cparam1-c5,cparam1,strict T > R,,5
+cparam1-c6,cparam1,unclear,,6
+cparam2-c1,cparam2,enclitic case,,1
+cparam2-c2,cparam2,no flagging,,2
+cparam2-c3,cparam2,possessive index,,3
+cparam2-c4,cparam2,postposition,,4
+cparam2-c5,cparam2,prefixal case,,5
+cparam2-c6,cparam2,preposition,,6
+cparam2-c7,cparam2,serial verb,,7
+cparam2-c8,cparam2,suffixal case,,8
+cparam3-c1,cparam3,enclitic case,,1
+cparam3-c2,cparam3,no flagging,,2
+cparam3-c3,cparam3,optional suffixal case,,3
+cparam3-c4,cparam3,postposition,,4
+cparam3-c5,cparam3,prefixal case,,5
+cparam3-c6,cparam3,preposition,,6
+cparam3-c7,cparam3,serial verb,,7
+cparam3-c8,cparam3,suffixal case,,8
+cparam3-c9,cparam3,zero case,,9
+cparam4-c1,cparam4,agreement,,1
+cparam4-c2,cparam4,enclitics,,2
+cparam4-c3,cparam4,no indexing,,3
+cparam4-c4,cparam4,possessive indexes,,4
+cparam4-c5,cparam4,prefixes,,5
+cparam4-c6,cparam4,proclitics,,6
+cparam4-c7,cparam4,proclitics and/or enclitics,,7
+cparam4-c8,cparam4,suffixes,,8
+cparam4-c9,cparam4,unclear,,9
+cparam5-c1,cparam5,clitics,,1
+cparam5-c2,cparam5,enclitics,,2
+cparam5-c3,cparam5,no indexing,,3
+cparam5-c4,cparam5,none or prefix,,4
+cparam5-c5,cparam5,prefixes,,5
+cparam5-c6,cparam5,prefixes and/or suffixes,,6
+cparam5-c7,cparam5,proclitics,,7
+cparam5-c8,cparam5,suffixes,,8
+cparam5-c9,cparam5,unclear,,9
+cparam6-c1,cparam6,,,1
+cparam6-c2,cparam6,indirective,,2
+cparam6-c3,cparam6,neutral,,3
+cparam6-c4,cparam6,secundative,,4
+cparam7-c1,cparam7,Secundative,,1
+cparam7-c2,cparam7,accusative,,2
+cparam7-c3,cparam7,indirective,,3
+cparam7-c4,cparam7,mixed,,4
+cparam7-c5,cparam7,neutral,,5
+cparam7-c7,cparam7,neutral or maybe secundative,,7
+cparam7-c8,cparam7,neutral*,,8
+cparam7-c9,cparam7,no,,9
+cparam7-c10,cparam7,rather indirective,,10
+cparam7-c11,cparam7,rather secundative,,11
+cparam7-c12,cparam7,secundative,,12

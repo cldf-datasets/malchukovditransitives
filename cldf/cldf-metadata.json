@@ -13,7 +13,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/malchukovditransitives",
             "rdf:type": "prov:Entity",
-            "dc:created": "36aa067",
+            "dc:created": "a4dc6bc",
             "dc:title": "Repository"
         },
         {
@@ -38,7 +38,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ValueTable",
-            "dc:extent": 157,
+            "dc:extent": 158,
             "tableSchema": {
                 "columns": [
                     {
@@ -547,7 +547,7 @@
             "url": "constructions.csv"
         },
         {
-            "dc:extent": 2548,
+            "dc:extent": 2550,
             "tableSchema": {
                 "columns": [
                     {
