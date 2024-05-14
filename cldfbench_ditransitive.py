@@ -19,6 +19,14 @@ class Dataset(BaseDataset):
         """
         pass
 
+    def cmd_readme(self, args):
+        section_header = (
+            'Ditransitrive Constructions\n'
+            '===========================\n'
+            '\n')
+        section_content = self.raw_dir.read('intro.md')
+        return f'{section_header}\n{section_content}'
+
     def cmd_makecldf(self, args):
         """
         Convert the raw data to a CLDF dataset.
