@@ -34,6 +34,10 @@ class Dataset(BaseDataset):
         >>> args.writer.objects['LanguageTable'].append(...)
         """
         config = ditrans2cldf.load_config_file(self.etc_dir / 'config.json')
+        map_icons = {
+            row['ID']: row
+            for row in self.etc_dir.read_csv('map-icons.csv', dicts=True)
+            if row.get('Map_Icon')}
 
         excel_data = ditrans2cldf.load_excel_data(self.raw_dir)
 
@@ -42,6 +46,15 @@ class Dataset(BaseDataset):
         ditrans2cldf.add_custom_columns(args.writer.cldf, config)
         args.writer.cldf.add_sources(
             ditrans2cldf.make_bibliography(cldf_data['references']))
+
+        # FIXME: I need a better story for map icons
+        for code in cldf_data['lcodes']:
+            if (map_icon := map_icons.get(code['ID'])):
+                assert map_icon['Name'] == code['Name'], 'map icon {}: code value has changed'.format(code['ID'])
+                assert map_icon['Parameter_ID'] == code['Parameter_ID'], 'map icon {}: code value has changed'.format(code['ID'])
+                code['Map_Icon'] = map_icon['Map_Icon']
+
+        args.writer.cldf.add_columns('CodeTable', 'Map_Icon')
 
         args.writer.objects['LanguageTable'] = cldf_data['languages']
         args.writer.objects['constructions.csv'] = cldf_data['constructions']
