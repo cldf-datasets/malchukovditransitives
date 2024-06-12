@@ -13,7 +13,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/malchukovditransitives",
             "rdf:type": "prov:Entity",
-            "dc:created": "a4dc6bc",
+            "dc:created": "2504623",
             "dc:title": "Repository"
         },
         {
@@ -313,6 +313,10 @@
                     {
                         "datatype": "integer",
                         "name": "Number"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Map_Icon"
                     }
                 ],
                 "foreignKeys": [
