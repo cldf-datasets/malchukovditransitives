@@ -13,7 +13,7 @@ setup(
     },
     install_requires=[
         'ditrans2cldf',
-        'cldfbench[glottolog]',
+        'cldfbench[glottolog,excel]',
     ],
     extras_require={
         'test': [

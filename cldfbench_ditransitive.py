@@ -17,7 +17,10 @@ class Dataset(BaseDataset):
 
         >>> self.raw_dir.download(url, fname)
         """
-        pass
+        for sheet_path in self.raw_dir.glob('*.xlsx'):
+            self.raw_dir.xlsx2csv(sheet_path.name)
+            self.raw_dir.joinpath(f'{sheet_path.stem}.Sheet1.csv').rename(
+                sheet_path.with_suffix('.csv'))
 
     def cmd_readme(self, args):
         section_header = (
@@ -39,9 +42,9 @@ class Dataset(BaseDataset):
             for row in self.etc_dir.read_csv('map-icons.csv', dicts=True)
             if row.get('Map_Icon')}
 
-        excel_data = ditrans2cldf.load_excel_data(self.raw_dir)
+        raw_data = ditrans2cldf.load_csv_data(self.raw_dir)
 
-        cldf_data = ditrans2cldf.excel2cldf(excel_data, config)
+        cldf_data = ditrans2cldf.make_cldf_tables(raw_data, config)
 
         ditrans2cldf.add_custom_columns(args.writer.cldf, config)
         args.writer.cldf.add_sources(

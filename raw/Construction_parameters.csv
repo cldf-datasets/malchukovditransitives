@@ -1,0 +1,14 @@
+Construction_parameter_ID,Construction_parameter_name,Description
+4,Word order,What is the order of R-argument and T-argument with respect to each other?
+5.1,Flagging of recipient,"Is the R-argument flagged, and if so, how?"
+5.2,Flagging of theme,"Is the T-argument flagged, and if so, how?"
+6.1,Indexing of recipient,"Is the R-argument indexed, and if so, how?"
+6.2,Indexing of theme,"Is the T-argument indexed, and if so, how?"
+7.1,Alignment of flagging,What is the ditransitive alignment of flagging (case or adpositional marking)?
+7.2,Alignment of indexing,What is the ditransitive alignment of indexing?
+10,Passivization,Which object can be come subject in a passive construction?
+14,Reflexivization,Which object can be reflexivized?
+15,Reciprocalization,Which object can be reciprocalized?
+11,Relativization,Which object can be relativized?
+12,Constituent questions,Which object can be questioned in a constituent question?
+19,Incorporation,"Which object can be incorporated, recipient or theme or either?"

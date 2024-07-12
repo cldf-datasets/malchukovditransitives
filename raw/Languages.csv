@@ -1,0 +1,444 @@
+Language_ID,Language_name,Glottocode
+1,Huichol,huic1243
+2,Udihe,udih1248
+3,Kham,gama1251
+4,Malayalam,mala1464
+6,Gaagudju,gaga1251
+7,Even,even1260
+9,Kwaza,kwaz1243
+11,German,stan1295
+12,Finnish,finn1318
+13,Tariana,tari1256
+14,Modern Greek,mode1248
+15,Lele,lele1276
+16,Thai,thai1261
+17,Cavineña,cavi1250
+18,Kinyarwanda,kiny1244
+19,Sahaptin,umat1237
+20,Georgian,nucl1302
+21,Manam,mana1295
+22,Shipibo-Konibo,ship1254
+23,Evenki,even1259
+24,Tamil,tami1289
+25,Wari’,wari1268
+34,Abkhaz,abkh1244
+62,Ainu,ainu1240
+70,Akan,akan1250
+72,Akha,akha1245
+79,Alamblak,alam1246
+83,Aleut,aleu1260
+103,Amele,amel1241
+105,Amharic,amha1245
+159,Araki,arak1252
+231,Bajau,indo1317
+275,Basque,basq1248
+292,Baule,baou1238
+422,Cantonese,yuec1235
+431,Cashinahua,cash1254
+449,Chamorro,cham1312
+483,Sochiapan Chinantec,soch1239
+537,Crow,crow1244
+597,Diyari,dier1241
+604,Jingulu,djin1251
+632,Dyirbal,dyir1250
+651,English,stan1293
+661,Ewe,ewee1241
+673,Fongbe,fonn1241
+676,Meskwaki,mesk1242
+714,Garo,garo1247
+815,Halkomelem,halk1245
+844,Hixkaryana,hixk1239
+866,Hupa,hupa1239
+889,Ika,arhu1242
+921,Italian,ital1282
+928,Itelmen,itel1242
+929,Itonama,iton1250
+943,Jakaltek,popt1235
+947,Japanese,nucl1643
+950,Jarawa (in Andamans),jara1245
+1052,Kashmiri,kash1277
+1071,Kazakh,kaza1248
+1088,Ket,kett1243
+1097,Khanty,khan1273
+1103,Khoekhoe,nama1264
+1106,Khwarshi,khva1239
+1133,Koasati,koas1236
+1166,Korean,kore1280
+1179,Koyra Chiini,koyr1240
+1180,Koyraboro Senni,koyr1242
+1241,Lakhota,lako1247
+1253,Lango,lang1324
+1263,Lavukaleve,lavu1241
+1264,Laz,lazz1240
+1371,Maltese,malt1254
+1387,Mandarin Chinese,mand1415
+1407,Mapudungun,mapu1245
+1426,Martuthunira,mart1255
+1439,Mauritian Creole,mori1278
+1556,Movima,movi1243
+1657,Dolakha Newari,newa1246
+1755,Eastern Ojibwe,east2542
+1763,Olutec,olut1240
+1776,Oriya,nucl1284
+1817,Panjabi,panj1256
+1839,Persian,west2369
+1871,Northern Pomo,nort2966
+1893,Qiang,nort2722
+1903,Imbabura Quechua,imba1240
+1972,Saliba (in PNG),sali1295
+2012,Semelai,seme1247
+2020,Seri,seri1257
+2110,Supyire,supy1237
+2115,Swahili,swah1253
+2116,Swati,swat1243
+2181,Tehuelche,tehu1242
+2191,Teop,teop1238
+2225,Tiipay (Jamul),kumi1248
+2234,Tiriyo,trio1238
+2239,Tiwa (Southern),sout2961
+2241,Tlapanec,acat1239
+2264,Totonac (Misantla),yecu1235
+2293,Tukang Besi,tuka1249
+2298,Tümpisa Shoshone,pana1305
+2323,Tzotzil,tzot1262
+2359,Vafsi,vafs1240
+2384,Wappo,wapp1239
+2433,Wolof,nucl1347
+2447,!Xun (Ekoka),kung1261
+2471,Yaqui,yaqu1251
+2502,Yoruba,yoru1245
+2507,Yukaghir (Kolyma),sout2750
+2521,Yuracare,yura1255
+2539,Zarma,zarm1239
+2552,Zulu,zulu1248
+2556,Puma,puma1239
+2558,Leti,leti1246
+2559,Kayardild,kaya1319
+2560,Hungarian,hung1274
+2561,Emai,emai1241
+2562,Lai,haka1240
+2563,Paiute (Northern),nort2954
+2564,Indonesian,indo1316
+2565,Jalonke,yalu1240
+2566,Meithei,mani1292
+2567,N|uu,nuuu1241
+2568,Greenlandic (West),kala1399
+2573,Jóola Banjal,band1340
+2574,Neo-Aramaic (Telkepe),chal1275
+2575,Mian,mian1256
+2576,Tima,tima1241
+2577,Teiwa,teiw1235
+2578,Chintang,chhi1245
+2579,Donno So,donn1238
+2582,Ancient Greek,anci1242
+2587,Abun,abun1252
+2590,Akawaio,akaw1239
+2592,Ala'ala,lala1268
+2593,Alyawarra,alya1239
+2594,Ambae (Lolovoli Northeast),east2443
+2595,Anong,nung1282
+2596,Apurinã,apur1254
+2597,Egyptian Arabic,egyp1253
+2598,Araona,arao1248
+2599,Arawak,araw1276
+2600,Eastern Armenian,nucl1235
+2601,Arop-Lokep,arop1243
+2602,Eastern Arrernte,east2379
+2603,Babungo,veng1238
+2604,Badimaya,badi1246
+2605,Bagirmi,bagi1246
+2606,Bai,cent2004
+2608,Baka (in Cameroon),baka1272
+2609,Banoni,bann1247
+2610,Barasano,bara1380
+2611,Baré,bare1276
+2612,Bauzi,bauz1241
+2613,Bawm,bawm1236
+2614,Belhare,belh1239
+2615,Berber (Middle Atlas),cent2194
+2616,Berta,bert1248
+2617,Bhojpuri,bhoj1244
+2618,Bininj Gun-Wok,gunw1252
+2619,Biri,biri1256
+2620,Bisu,bisu1244
+2621,Blackfoot,siks1238
+2622,Bozo (Tigemaxo),tiey1235
+2624,Brokskat,brok1247
+2626,Teanu,tean1237
+2629,Burushaski,buru1296
+2630,Busa,busa1253
+2631,Byansi,byan1241
+2632,Canela-Krahô,ramk1239
+2633,Chantyal,chan1310
+2634,Cherokee,cher1273
+2635,Chinantec (Lealao),leal1235
+2636,Chocho,choc1279
+2637,Choctaw,choc1276
+2638,Chukchi,chuk1273
+2639,Comanche,coma1245
+2640,Coos (Hanis),coos1249
+2641,Coptic,copt1239
+2642,Cree (Plains),plai1258
+2643,Dagbani,dagb1246
+2644,Dahalo,daha1245
+2646,Dhaasanac,daas1238
+2647,Dharumbal,baya1257
+2648,Dhivehi,dhiv1236
+2649,Djabugay,dyaa1242
+2650,Djaru,jaru1254
+2651,Dogon,bang1363
+2652,Doyayo,doya1240
+2653,Drehu,dehu1237
+2654,Duala,dual1243
+2655,Dullay (Gollango),gaww1239
+2656,Efik,efik1245
+2657,Epena Pedee,epen1239
+2658,Erromangan,siee1239
+2659,Ewondo,ewon1239
+2660,Fijian,fiji1243
+2661,French,stan1290
+2662,Fyem,fyam1238
+2663,Gamo,gamo1244
+2664,Gapapaiwa,gapa1238
+2665,Gola,gola1255
+2666,Gooniyandi,goon1238
+2667,Grebo,sout2826
+2668,Guaraní,para1311
+2669,Guduf,gudu1252
+2670,Gumbaynggir,kumb1268
+2671,Gurr-goni,gura1252
+2672,Guugu Yimidhirr,gugu1255
+2673,Haida,haid1248
+2674,Hatam,hata1243
+2675,Hausa,haus1257
+2676,Hayu,wayu1241
+2677,Hdi,hdii1240
+2678,Hebrew (Modern),hebr1245
+2679,Hindi,hind1269
+2680,Hmar,hmar1241
+2681,Hmong Njua,hmon1264
+2682,Hoava,hoav1238
+2683,Hunzib,hunz1247
+2684,Igbo,nucl1417
+2685,Ik,ikkk1242
+2686,Imonda,imon1245
+2687,Ingush,ingu1240
+2688,Iraqw,iraq1241
+2689,Itzaj,itza1241
+2690,Jabêm,yabe1254
+2691,Jaminjung,djam1255
+2692,Jeli,jeri1242
+2693,Jingpho,kach1280
+2694,Ju|'hoan,juho1239
+2695,Kairiru,kair1263
+2696,Kala Lagaw Ya,kala1377
+2697,Kalkatungu,kalk1246
+2698,Kamaiurá,kama1373
+2699,Kambera,kamb1299
+2700,Kana,khan1278
+2701,Kannada,nucl1305
+2702,Karok,karo1304
+2703,Kâte,kate1253
+2704,Kayah Li (Eastern),east2342
+2705,Kemant,qima1242
+2706,Kera,kera1255
+2707,Ket,kett1243
+2708,Khalkha,halh1238
+2709,Khasi,khas1269
+2710,Khmer,cent1989
+2711,Khmu',khmu1256
+2712,Kilivila,kili1267
+2713,Kiribati,gilb1244
+2714,Klamath,klam1254
+2715,Kobon,kobo1249
+2716,Kodava,koda1255
+2717,Kombai,ndei1235
+2718,Konda,kond1295
+2719,Kongo,koon1244
+2720,Korku,kork1243
+2721,Koromfe,koro1298
+2722,Korowai,koro1312
+2723,Krongo,kron1241
+2724,Kugu Nganhcara,kuku1280
+2725,Kukú,bari1284
+2726,Kuku-Yalanji,kuku1273
+2727,Kunama,kuna1268
+2728,Kutenai,kute1249
+2729,Kwaio,kwai1243
+2730,Ladakhi,lada1244
+2731,Lak,lakk1252
+2732,Lamang,lama1288
+2733,Latvian,latv1249
+2734,Lepcha,lepc1244
+2735,Lezgian,lezg1247
+2736,Lillooet,lill1248
+2737,Limilngan,nucl1327
+2738,Lingala,ling1263
+2739,Lisu,lisu1250
+2740,Longgu,long1395
+2741,Loniu,loni1238
+2742,Lunda,lund1266
+2743,Ma'di,madi1260
+2744,Maale,male1284
+2745,Macushi,macu1259
+2746,Madurese,nucl1460
+2747,Maipure,maip1247
+2748,Maithili,mait1250
+2749,Makah,maka1318
+2750,Mam,mamc1234
+2751,Mangarrayi,mang1381
+2752,Mangghuer,tuuu1240
+2753,Maori,maor1246
+2754,Maranungku,mara1386
+2755,Marathi,mara1378
+2756,Maricopa,mari1440
+2757,Marquesan,nort2845
+2758,Matis,mati1255
+2759,Matsés,mats1244
+2760,Maybrat,maib1239
+2761,Mbabaram,mbab1239
+2762,Mbay,mbay1241
+2763,Mbili,bamb1266
+2764,Mende,mend1266
+2765,Mixtec (Chalcatongo),sanm1295
+2766,Miya,miya1266
+2767,Mocoví,moco1246
+2768,Mono (in United States),mono1275
+2769,Monumbo,nucl1458
+2770,Mosetén,mose1249
+2771,Motuna,siwa1245
+2772,Mundang,mund1325
+2773,Mundari,mund1320
+2774,Mupun,mwag1236
+2775,Murle,murl1244
+2776,Musgu,musg1254
+2777,Mussau,muss1246
+2778,Nabak,naba1256
+2779,Nagatman,yale1246
+2780,Nahuatl (Tetelcingo),tete1251
+2781,Nambikuára,sout2994
+2782,Navajo,nava1243
+2783,Ndebele (in South Africa),sout2808
+2784,Ndjébbana,djee1236
+2785,Nepali,nepa1252
+2786,Ngalakan,ngal1293
+2787,Ngiyambaa,wang1291
+2788,Nhanda,nhan1238
+2789,Nias,nias1242
+2790,Nisgha,nisg1240
+2791,Niuean,niue1239
+2792,Nivkh,gily1242
+2793,Nkore-Kiga,chig1238
+2794,Nuaulu,sout2895
+2795,Nubian (Dongolese),kenu1236
+2796,Nubian (Kunuz),kenu1236
+2797,Nuuchahnulth,noot1239
+2798,O'odham,toho1245
+2799,Obolo,obol1243
+2800,Oromo (Harar),east2652
+2801,Orya,orya1242
+2802,Otomí (Mezquital),mezq1235
+2803,Paamese,paam1238
+2804,Páez,paez1247
+2805,Paita,dumb1241
+2806,Paiwan,paiw1248
+2807,Palauan,pala1344
+2808,Panyjima,pany1241
+2809,Passamaquoddy-Maliseet,male1292
+2810,Pattani,patt1248
+2811,Pero,pero1241
+2812,Pilagá,pila1245
+2813,Pirahã,pira1253
+2814,Pitjantjatjara,pitj1243
+2815,Pitta Pitta,pitt1247
+2816,Purépecha,pure1242
+2817,Qafar,afar1241
+2818,Quechua (Huallaga),huam1248
+2819,Rama,rama1270
+2820,Rapanui,rapa1244
+2821,Rawang,rawa1265
+2822,Retuarã,tani1257
+2823,Ron,ronn1241
+2824,Saami (Northern),nort2671
+2825,Salt-Yui,salt1242
+2826,Sango,sang1328
+2827,Sangu,sang1333
+2828,Sanuma,sanu1240
+2829,Sapuan,sapu1248
+2830,Sedang,seda1262
+2831,Selkup,selk1253
+2832,Shoshone,shos1248
+2833,Sinaugoro,sina1266
+2834,Slave,slav1253
+2835,So,sooo1256
+2836,Somali,soma1255
+2837,Sotho (Northern),pedi1238
+2838,Spanish,stan1288
+2839,Sudest,sude1239
+2840,Suena,suen1241
+2841,Sundanese,sund1252
+2842,Taba,east2440
+2843,Tagalog,taga1270
+2844,Tamang,east2347
+2845,Tarao,tara1313
+2846,Tauya,tauy1241
+2847,Tepehuan (Northern),nort2959
+2848,Tepehuan (Southeastern),sout2976
+2849,Teribe,teri1250
+2850,Ternate,tern1247
+2851,Tetun,tetu1245
+2852,Tibetan (Standard Spoken),tibe1272
+2853,Tidore,tido1248
+2854,Tigrinya,tigr1271
+2855,Tikar,tika1246
+2856,Tinrin,tiri1258
+2857,Tiwi,tiwi1244
+2858,Tobati,toba1266
+2859,Toratán,rata1244
+2860,Torwali,torw1241
+2861,Trumai,trum1247
+2862,Tsat,tsat1238
+2863,Tsez,dido1241
+2864,Tshangla,tsha1245
+2865,Tsimshian (Coast),nucl1649
+2866,Tugun,tugu1245
+2867,Tunen,tune1241
+2868,Turkana,turk1308
+2869,Turkish,nucl1301
+2870,Tzutujil,tzut1248
+2871,Udmurt,udmu1245
+2872,Upper Kuskokwim,uppe1438
+2873,Urubu-Kaapor,urub1250
+2874,Usan,usan1239
+2875,Vietnamese,viet1252
+2876,Walmatjari,walm1241
+2877,Wambaya,wamb1258
+2878,Warao,wara1303
+2879,Waray (in Australia),wara1290
+2880,Wardaman,ward1246
+2881,Warembori,ware1253
+2882,Warrgamay,warr1255
+2883,Wirangu,wira1260
+2884,/Xam,xamm1241
+2885,Yagua,yagu1244
+2886,Yanyuwa,yany1243
+2887,Yawelmani,yoku1256
+2888,Yawuru,yawu1244
+2889,Yidiny,yidi1250
+2890,Yimas,yima1243
+2891,Yingkarta,ying1247
+2892,Yir Yiront,yiry1245
+2893,Yukaghir (Tundra),nort2745
+2894,Central Alaskan Yupik,cent2127
+2895,Zapotec (Quiegolani),sant1451
+2896,Zayse,zays1235
+2897,Zazaki,diml1238
+2898,Zoque (Chimalapa),chim1300
+2900,Chinese (Kunming),kunm1234
+2901,Cinsenga,nsen1242
+2902,Dargwa,darg1241
+2903,Cambodian,cent1989
+2904,Gikuyu,kiku1240
+2907,Nishnaabemwin,east2542
+5388536538,Central Arctic Inuktitut,west2618
+16152612577,Sri Lanka Malay,sril1245
