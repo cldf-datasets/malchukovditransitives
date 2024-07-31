@@ -13,7 +13,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/malchukovditransitives",
             "rdf:type": "prov:Entity",
-            "dc:created": "a0f59cd",
+            "dc:created": "03a4827",
             "dc:title": "Repository"
         },
         {
@@ -103,10 +103,6 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#exampleReference",
                         "separator": ";",
                         "name": "Example_IDs"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Description"
                     }
                 ],
                 "foreignKeys": [
@@ -604,10 +600,6 @@
                         ],
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#value",
                         "name": "Value"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Description"
                     }
                 ],
                 "foreignKeys": [

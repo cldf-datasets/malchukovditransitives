@@ -10,7 +10,7 @@ property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF StructureDataset](http://cldf.clld.org/v1.0/terms.rdf#StructureDataset)
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/cldf-datasets/malchukovditransitives
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/cldf-datasets/malchukovditransitives/tree/a0f59cd">cldf-datasets/malchukovditransitives a0f59cd</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.0">Glottolog v5.0</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/cldf-datasets/malchukovditransitives/tree/03a4827">cldf-datasets/malchukovditransitives 03a4827</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.0">Glottolog v5.0</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>python</strong>: 3.8.19</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | ditransitive
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
@@ -36,7 +36,6 @@ Name/Property | Datatype | Description
 [Comment](http://cldf.clld.org/v1.0/terms.rdf#comment) | `string` | 
 [Source](http://cldf.clld.org/v1.0/terms.rdf#source) | list of `string` (separated by `;`) | References [sources.bib::BibTeX-key](./sources.bib)
 [Example_IDs](http://cldf.clld.org/v1.0/terms.rdf#exampleReference) | list of `string`<br>Regex: `[a-zA-Z0-9_\-]+` (separated by `;`) | References [examples.csv::ID](#table-examplescsv)
-`Description` | `string` | 
 
 ## <a name="table-languagescsv"></a>Table [languages.csv](./languages.csv)
 
@@ -159,5 +158,4 @@ Name/Property | Datatype | Description
 [Example_IDs](http://cldf.clld.org/v1.0/terms.rdf#exampleReference) | list of `string`<br>Regex: `[a-zA-Z0-9_\-]+` (separated by `;`) | References [examples.csv::ID](#table-examplescsv)
 [Source](http://cldf.clld.org/v1.0/terms.rdf#source) | list of `string` (separated by `;`) | References [sources.bib::BibTeX-key](./sources.bib)
 [Value](http://cldf.clld.org/v1.0/terms.rdf#value) | `string` | 
-`Description` | `string` | 
 
