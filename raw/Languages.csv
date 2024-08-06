@@ -172,7 +172,6 @@ Language_ID,Language_name,Glottocode
 2633,Chantyal,chan1310
 2634,Cherokee,cher1273
 2635,Chinantec (Lealao),leal1235
-2636,Chocho,choc1279
 2637,Choctaw,choc1276
 2638,Chukchi,chuk1273
 2639,Comanche,coma1245
@@ -186,7 +185,7 @@ Language_ID,Language_name,Glottocode
 2648,Dhivehi,dhiv1236
 2649,Djabugay,dyaa1242
 2650,Djaru,jaru1254
-2651,Dogon,bang1363
+2651,Dogon,tomm1242
 2652,Doyayo,doya1240
 2653,Drehu,dehu1237
 2654,Duala,dual1243
@@ -237,8 +236,6 @@ Language_ID,Language_name,Glottocode
 2699,Kambera,kamb1299
 2700,Kana,khan1278
 2701,Kannada,nucl1305
-2702,Karok,karo1304
-2703,Kâte,kate1253
 2704,Kayah Li (Eastern),east2342
 2705,Kemant,qima1242
 2706,Kera,kera1255
@@ -252,7 +249,6 @@ Language_ID,Language_name,Glottocode
 2715,Kobon,kobo1249
 2716,Kodava,koda1255
 2717,Kombai,ndei1235
-2718,Konda,kond1295
 2719,Kongo,koon1244
 2720,Korku,kork1243
 2721,Koromfe,koro1298
@@ -266,7 +262,6 @@ Language_ID,Language_name,Glottocode
 2729,Kwaio,kwai1243
 2730,Ladakhi,lada1244
 2731,Lak,lakk1252
-2732,Lamang,lama1288
 2733,Latvian,latv1249
 2734,Lepcha,lepc1244
 2735,Lezgian,lezg1247
@@ -309,7 +304,6 @@ Language_ID,Language_name,Glottocode
 2772,Mundang,mund1325
 2773,Mundari,mund1320
 2774,Mupun,mwag1236
-2775,Murle,murl1244
 2776,Musgu,musg1254
 2777,Mussau,muss1246
 2778,Nabak,naba1256
@@ -408,11 +402,9 @@ Language_ID,Language_name,Glottocode
 2871,Udmurt,udmu1245
 2872,Upper Kuskokwim,uppe1438
 2873,Urubu-Kaapor,urub1250
-2874,Usan,usan1239
 2875,Vietnamese,viet1252
 2876,Walmatjari,walm1241
 2877,Wambaya,wamb1258
-2878,Warao,wara1303
 2879,Waray (in Australia),wara1290
 2880,Wardaman,ward1246
 2881,Warembori,ware1253
@@ -421,7 +413,6 @@ Language_ID,Language_name,Glottocode
 2884,/Xam,xamm1241
 2885,Yagua,yagu1244
 2886,Yanyuwa,yany1243
-2887,Yawelmani,yoku1256
 2888,Yawuru,yawu1244
 2889,Yidiny,yidi1250
 2890,Yimas,yima1243
