@@ -1,5 +1,5 @@
 ID,Name,Description,ColumnSpec
-lparam1,dominant ditransitive construction,Which is the dominent alignment type?,
+lparam1,dominant ditransitive construction,Which is the dominant alignment type?,
 cparam1,Word order,What is the order of R-argument and T-argument with respect to each other?,
 cparam2,Flagging of recipient,"Is the R-argument flagged, and if so, how?",
 cparam3,Flagging of theme,"Is the T-argument flagged, and if so, how?",

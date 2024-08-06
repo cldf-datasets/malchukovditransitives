@@ -13,7 +13,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/malchukovditransitives",
             "rdf:type": "prov:Entity",
-            "dc:created": "03a4827",
+            "dc:created": "ed1dc60",
             "dc:title": "Repository"
         },
         {
@@ -38,7 +38,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ValueTable",
-            "dc:extent": 171,
+            "dc:extent": 382,
             "tableSchema": {
                 "columns": [
                     {
@@ -159,7 +159,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 440,
+            "dc:extent": 431,
             "tableSchema": {
                 "columns": [
                     {
@@ -336,7 +336,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ExampleTable",
-            "dc:extent": 2084,
+            "dc:extent": 2079,
             "tableSchema": {
                 "columns": [
                     {
@@ -468,7 +468,7 @@
             "url": "examples.csv"
         },
         {
-            "dc:extent": 609,
+            "dc:extent": 599,
             "tableSchema": {
                 "columns": [
                     {
@@ -547,7 +547,7 @@
             "url": "constructions.csv"
         },
         {
-            "dc:extent": 2549,
+            "dc:extent": 2554,
             "tableSchema": {
                 "columns": [
                     {
@@ -600,6 +600,11 @@
                         ],
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#value",
                         "name": "Value"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
+                        "name": "Comment"
                     }
                 ],
                 "foreignKeys": [

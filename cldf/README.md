@@ -10,7 +10,7 @@ property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF StructureDataset](http://cldf.clld.org/v1.0/terms.rdf#StructureDataset)
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/cldf-datasets/malchukovditransitives
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/cldf-datasets/malchukovditransitives/tree/03a4827">cldf-datasets/malchukovditransitives 03a4827</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.0">Glottolog v5.0</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/cldf-datasets/malchukovditransitives/tree/ed1dc60">cldf-datasets/malchukovditransitives ed1dc60</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.0">Glottolog v5.0</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>python</strong>: 3.8.19</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | ditransitive
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
@@ -21,7 +21,7 @@ property | value
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF ValueTable](http://cldf.clld.org/v1.0/terms.rdf#ValueTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 171
+[dc:extent](http://purl.org/dc/terms/extent) | 382
 
 
 ### Columns
@@ -42,7 +42,7 @@ Name/Property | Datatype | Description
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF LanguageTable](http://cldf.clld.org/v1.0/terms.rdf#LanguageTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 440
+[dc:extent](http://purl.org/dc/terms/extent) | 431
 
 
 ### Columns
@@ -99,7 +99,7 @@ Name/Property | Datatype | Description
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF ExampleTable](http://cldf.clld.org/v1.0/terms.rdf#ExampleTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 2084
+[dc:extent](http://purl.org/dc/terms/extent) | 2079
 
 
 ### Columns
@@ -125,7 +125,7 @@ Name/Property | Datatype | Description
 
 property | value
  --- | ---
-[dc:extent](http://purl.org/dc/terms/extent) | 609
+[dc:extent](http://purl.org/dc/terms/extent) | 599
 
 
 ### Columns
@@ -144,7 +144,7 @@ Name/Property | Datatype | Description
 
 property | value
  --- | ---
-[dc:extent](http://purl.org/dc/terms/extent) | 2549
+[dc:extent](http://purl.org/dc/terms/extent) | 2554
 
 
 ### Columns
@@ -158,4 +158,5 @@ Name/Property | Datatype | Description
 [Example_IDs](http://cldf.clld.org/v1.0/terms.rdf#exampleReference) | list of `string`<br>Regex: `[a-zA-Z0-9_\-]+` (separated by `;`) | References [examples.csv::ID](#table-examplescsv)
 [Source](http://cldf.clld.org/v1.0/terms.rdf#source) | list of `string` (separated by `;`) | References [sources.bib::BibTeX-key](./sources.bib)
 [Value](http://cldf.clld.org/v1.0/terms.rdf#value) | `string` | 
+[Comment](http://cldf.clld.org/v1.0/terms.rdf#comment) | `string` | 
 
