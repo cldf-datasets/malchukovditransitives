@@ -53,8 +53,12 @@ class Dataset(BaseDataset):
         # FIXME: I need a better story for map icons
         for code in cldf_data['lcodes']:
             if (map_icon := map_icons.get(code['ID'])):
-                assert map_icon['Name'] == code['Name'], 'map icon {}: code value has changed'.format(code['ID'])
-                assert map_icon['Parameter_ID'] == code['Parameter_ID'], 'map icon {}: code value has changed'.format(code['ID'])
+                assert map_icon['Name'] == code['Name'], (
+                    'map icon {}: code value changed from {} to {}'.format(
+                        code['ID'], map_icon['Name'], code['Name']))
+                assert map_icon['Parameter_ID'] == code['Parameter_ID'], (
+                    'map icon {}: parameter changed from {} to {}'.format(
+                        code['ID'], map_icon['Parameter_ID'], code['Parameter_ID']))
                 code['Map_Icon'] = map_icon['Map_Icon']
 
         args.writer.cldf.add_columns('CodeTable', 'Map_Icon')

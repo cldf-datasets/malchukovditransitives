@@ -1,8 +1,8 @@
 ID,Parameter_ID,Name,Map_Colour,Map_Icon
 lparam1-c1,lparam1,indirective flagging,red,cdd0000
-lparam1-c2,lparam1,mixed alignment,grey,ccccccc
-lparam1-c3,lparam1,multiple constructions,black,c000000
+lparam1-c2,lparam1,multiple constructions,black,c000000
+lparam1-c3,lparam1,mixed alignment,grey,ccccccc
 lparam1-c4,lparam1,neutral,yellow,cffff00
 lparam1-c5,lparam1,secundative indexing,blue,c0000dd
 lparam1-c6,lparam1,secundative flagging,light blue,c00ffff
-lparam1-c7,lparam1,(not yet clear),white,cffffff
+lparam1-c7,lparam1,indirective indexing,white,cffffff
