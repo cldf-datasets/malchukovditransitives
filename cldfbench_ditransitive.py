@@ -18,7 +18,7 @@ class Dataset(BaseDataset):
         >>> self.raw_dir.download(url, fname)
         """
         for sheet_path in self.raw_dir.glob('*.xlsx'):
-            self.raw_dir.xlsx2csv(sheet_path.name)
+            self.raw_dir.xlsx2csv(sheet_path.name, outdir=self.raw_dir / 'csv')
             self.raw_dir.joinpath(f'{sheet_path.stem}.Sheet1.csv').rename(
                 sheet_path.with_suffix('.csv'))
 
@@ -42,7 +42,7 @@ class Dataset(BaseDataset):
             for row in self.etc_dir.read_csv('map-icons.csv', dicts=True)
             if row.get('Map_Icon')}
 
-        raw_data = ditrans2cldf.load_csv_data(self.raw_dir)
+        raw_data = ditrans2cldf.load_csv_data(self.raw_dir / 'csv')
 
         cldf_data = ditrans2cldf.make_cldf_tables(raw_data, config)
 
