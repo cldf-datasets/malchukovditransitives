@@ -13,7 +13,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/malchukovditransitives",
             "rdf:type": "prov:Entity",
-            "dc:created": "497dd1a",
+            "dc:created": "b16f7b9",
             "dc:title": "Repository"
         },
         {
@@ -38,7 +38,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ValueTable",
-            "dc:extent": 366,
+            "dc:extent": 0,
             "tableSchema": {
                 "columns": [
                     {
@@ -159,7 +159,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 431,
+            "dc:extent": 422,
             "tableSchema": {
                 "columns": [
                     {
@@ -274,7 +274,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CodeTable",
-            "dc:extent": 103,
+            "dc:extent": 86,
             "tableSchema": {
                 "columns": [
                     {
@@ -336,7 +336,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ExampleTable",
-            "dc:extent": 2079,
+            "dc:extent": 2068,
             "tableSchema": {
                 "columns": [
                     {
@@ -468,7 +468,7 @@
             "url": "examples.csv"
         },
         {
-            "dc:extent": 599,
+            "dc:extent": 588,
             "tableSchema": {
                 "columns": [
                     {
@@ -547,7 +547,7 @@
             "url": "constructions.csv"
         },
         {
-            "dc:extent": 2554,
+            "dc:extent": 2556,
             "tableSchema": {
                 "columns": [
                     {
