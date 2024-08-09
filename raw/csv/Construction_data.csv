@@ -42,8 +42,7 @@ Note that in the (b) example the resumptive pronoun and preposition are optional
 56,11,,,No explicit discussion; apparently all noun phrases in a simple sentence are relativizable.,,,
 57,11,1,either T or R (but not both),Relativization is postnominal finite (at least not nominalized or participial). It also often uses resumptive pronoun to refer to the head of the relative clause. Both subjects and objects including obliques can be relativized. Agreement marking on the verb as in the main clause.,57,145,555 ff.
 58,11,1,either T or R (but not both),"RCs postnominal participial. Both T and R can be relativized.
-Also in internal RCs which relativizes on S/P, both T and R of ditransitives can be relativized:
-(42b) Tsoma-n joni koríki meni-a]-ra jawen pisha-n iki. [Tsoma-ERG man:ABS money:ABS give-PP2]-EV POSS.3SG bag-LOC COP ‘The money that Tsoma gave to the man is in his bag.’",58,239,530
+Also in internal RCs which relativizes on S/P, both T and R of ditransitives can be relativized: (42b) Tsoma-n joni koríki meni-a]-ra jawen pisha-n iki. [Tsoma-ERG man:ABS money:ABS give-PP2]-EV POSS.3SG bag-LOC COP] ‘The money that Tsoma gave to the man is in his bag.’",58,239,530
 ,,,,,307,,
 59,11,,,"Either by means of nominalization (e.g. resultative nominalization) in which case arguments will additionally take a special “associating” case, or by finite (non-nominalized) subordinate clauses, in 
 which case the verb takes complementizing case (except for cases when the relativized noun is subject in both clauses).
@@ -51,12 +50,9 @@ An example of resultative nominalization is: 11-63 (p. 479).
 An example of a finite relativization of object through the use of complementazing case is: p. 489/ ex. 12-4
 In resultative construction only objects; finite relativization to objects (and obliques in nominal cases), but not verbal cases (se dative).",,211,
 61,11,,,In any case (p. 180) verbal datives (and other verbal cases) cannot be relativized on or be a pivot in a complex construction. Not clear for oblique non-verbal cases (apparently relativization possible).,,211,180
-64,11,1,either T or R (but not both),"RCs are either participial postnominal or finite (with a relative pronoun). 
-In participial relative clauses, objects (P,T) can be relativized. Indirect object can only be relativized by a finite (“conjunctive”) RC (with a relative pronoun).",64,240,
+64,11,1,either T or R (but not both),"RCs are either participial postnominal or finite (with a relative pronoun).  – In participial relative clauses, objects (P,T) can be relativized. Indirect object can only be relativized by a finite (“conjunctive”) RC (with a relative pronoun).",64,240,
 ,,,,,313,,
-65,11,1,either T or R (but not both),"Postnominal finite relativization. Both T (76) and R (15) can be relativized. 
-NB only constituents which are cross-referenced by VIC (AGR) can be relativized. 
-NB there is a rule of “anti-agreement”: if the object is moved (focused/relativized) object agreement is lost (see (125d))",65,230,88
+65,11,1,either T or R (but not both),Postnominal finite relativization. Both T (76) and R (15) can be relativized. Note: only constituents which are cross-referenced by VIC (AGR) can be relativized. Note: there is a rule of “anti-agreement”: if the object is moved (focused/relativized) object agreement is lost (see (125d)),65,230,88
 ,,,,,314,,
 70,11,,,"Normally prenominal participial. 
 R can be relativized along with other objects; but even obliques can be relativized
@@ -240,7 +236,7 @@ p. 96; In ditransitive constructions, Rs like Ps can be directly extracted/relat
 By contrast, T cannot be extracted/relativized directly; see the ungrammatical (50) p. 102; in this case the nominalization should be used: (56) p. 103. This is an oblique like behavior, but the nominalizer involved is different!.",186,366,60
 ,,,,,435,,
 187,11,4,only R,"Relative clauses are postverbal, the verb is nonfinite, taking the “relative prefix” in agreement with the subordinate subject (in some types of relative clause the verb also takes a relative suffix -yo). 
-When P arguments are relativized, they are represented on the participial verb by an object agreement prefix (see (6), p. 28); the same holds for R (see (46), p. 190). T, however, is relativized with a pronoun retention strategy (see (7), p. 28). The same strategy is generally used for obliques.",187,387,
+When P arguments are relativized, they are represented on the participial verb by an object agreement prefix (see (6), p. 28); the same holds for R (see (46), p. 190). T, however, is relativized with a pronoun retention strategy (see (7), p. 28). The same strategy is generally used for obliques.",187,,
 ,,,,,436,,
 189,11,1,either T or R (but not both),"Participial clauses, with participles (also used as gerunds and nominalizations) in –a and –iba. The -a form is rather perfective/resultative, and is used to relativize S/P (as resultatives do). The –iba form is rather imperfective, although can be attached to different aspectual forms including perfect. It can any case seems to relativize on both subjects (S/A), objects, and even obliques. See (4) for R-relativization.",189,368,391
 190,11,2,only T,"Relative clauses are postnominal gapping. They are frequently introduced by a demonstrative determiner and/or complementizer (neither is obligatory but one of them usually present). The verb remains finite insofar as it shows the same forms (direct, inverse, animate, ditransitive etc). Importantly, both objects can be relativized by the basic gapping strategy from a ditransitive construction (see Ditransitive Inanimate construction), but only T can be relativized from a monotransitive construction by gapping. 
@@ -271,7 +267,7 @@ There is also an internal relativization strategy, that allows to relativize on 
 202,11,2,only T,"R can be relativized only by means of the finite strategy, which makes use of a relative pronoun. The finite strategy can relativize any argument/adjunct. An alternative participial strategy (apparently, this pertains to all participial forms, both present and past), applies only to subject and direct object (P/T), but not to indirect bject (R): cf. P-relativization in (184a) and the ungrammatical (185a).",,391,59-61
 204,11,1,either T or R (but not both),"Relativization involves topicalization: the relativized noun is fronted and marked with the topic marker –dan, the rest of the clausal structure is maintained. That is, the relativization strategy is postnominal, finite, gapping. Both R and T can be relativized in this way (like P):",204,397,
 ,,,,,453,,
-205,11,,,"Relative clauses are prenominal and verb-final. The relativizer na is placed just before the verb. The verb is finite. Objects (P,T) can be relativized in that way. It is not clear whether Rs can be also relativized, but apparently it is possible since oblique arguments can be relativized.",454,399,
+205,11,,,"Relative clauses are prenominal and verb-final. The relativizer na is placed just before the verb. The verb is finite. Objects (P,T) can be relativized in that way. It is not clear whether Rs can be also relativized, but apparently it is possible since oblique arguments can be relativized.",454,,
 207,11,1,either T or R (but not both),"Relativization of core argument through a postnominal gapping nominalization strategy. In the basic ditransiotive construction both R and T can be relativized by the gapping strategy:
 i)	relativization of T; 672 (ex. 9a)
 ii)	relativization of R;",456,398,672
@@ -350,9 +346,9 @@ An example of Indirect Object-questioning in (295c); cf. Object-questioning in (
 114,12,14,both R and T,,,,
 115,12,,,"No information on R vs. T, but no reason to suspect that not both would be possible.",,287,92-94
 116,12,,,"No details, just one example.",3414,,
-123,12,13,not restricted,by WH-words; mostly in situ. No restrictions,,294,149
-124,12,13,not restricted,,,,
-125,12,13,not restricted,,,,
+123,12,9,no restrictions,by WH-words; mostly in situ. No restrictions,,294,149
+124,12,9,no restrictions,,,,
+125,12,9,no restrictions,,,,
 130,12,14,both R and T,"The facts are fully parallel to the facts of relativization: When the R is questioned, a resumptive pronoun is left behind (also with dative-marked arguments of intransitive/applicativized verbs); when the T is questioned, no resumptive pronoun is left behind. (Collins 2004:193: “The fact that a resumptive pronoun needs to be left behind suggests that the dative -a is a clitic. As a clitic, dative -a must combine with a preceding DP.”)",3428,256,193
 132,12,14,both R and T,By wh-words in situ; no restrictions.,,,
 133,12,14,both R and T,By wh-words in situ; no restrictions.,,,
@@ -391,7 +387,7 @@ In applicative construction, however, applied object (BEN) can be questioned, bu
 160,12,9,no restrictions,"U&U, 4459ff. Both WH-words and more generally focal NPs are placed in the preverbal position. Apparently no restrictions on questioning R and T of ditransitives. 
 However S (p. 7) notes that clefting disfavors dative NPs (see (??(46a)) even though clefting of ergative and absolutive NPs, as well as obliques is allowed..",,,
 161,12,9,no restrictions,,,,
-162,12,18,No restrictions.,,,,
+162,12,9,no restrictions,,,,
 164,12,,,Constituent questions are formed by fronting a WH-word. Apparently no restrictions. Ditransitive constructions not discussed.,,353,
 167,12,,,Constituent questions are formed by fronting Wh-word. No restrictions noted.,,354,
 169,12,9,no restrictions,By wh-words (fronted?). Apparently no restrictions.,,356,214
@@ -401,7 +397,7 @@ However S (p. 7) notes that clefting disfavors dative NPs (see (??(46a)) even th
 175,12,14,both R and T,,,,
 176,12,14,both R and T,,,,
 177,12,14,both R and T,,,,
-178,12,21,no restrictions (except for multiple questions),"Generally, both R and T may be questioned; cf. (49a), (50a). But restrictions on multiple questions
+178,12,22,no restrictions (apart from multiple questions),"Generally, both R and T may be questioned; cf. (49a), (50a). But restrictions on multiple questions
 
 with multiple questions (‘Who did you show what?’) superiority effects, as in English, R fronted with T in situ rather than the other way round ((51a,b).)",3248,189,89
 ,,,,,3476,,
@@ -434,7 +430,7 @@ what-ACC who-DAT see-CAUS-PST-2SG
 200,12,14,both R and T,WH-words by relative pronouns in combination with a clause final question particle. The interrogative/relative pronoun is normally fronted. Indirect/oblique object is fronted with the corresponding postposition. Cf. T-questioning in (35b) and R questioning in (35d). (see under Dative Prepositional Construction),3270,390,p. 534.
 ,,,,,3498,,
 202,12,14,both R and T,No restrictions on questioning NP-constituents.,,391,12-13
-203,12,9,no restrictions,No restrictions on questioning R and T.,3273,399,
+203,12,9,no restrictions,No restrictions on questioning R and T.,3273,,
 ,,,,,3501,,
 204,12,9,no restrictions,Questions by fronting; no restrictions on questioning of R and T.,3274,,
 ,,,,,3502,,
@@ -464,8 +460,7 @@ WH-questions with the NI copula. Both T and R can be questioned. Questions from 
 225,12,11,only T,"Questions involve the use of a special (“relative”) non-finite form of the verb, with relative pronominal markers replacing the person agreement markers. Since relative markers distinguish between absolutive vs. ergative-oblique markers, the question formation is indirective: one marker for questioning S/P/T another for questioning A/R/Obl. No ditransitive examples are given though.",,406,15
 226,12,9,no restrictions,WH-questions by fronting the interrogative word; no restrictions on questioning NP-constituents,3296,407,11
 227,12,9,no restrictions,WH-questions by fronting the interrogative word; no restrictions on questioning NP-constituents. Cf. the postpositional R-questioning in (22a.ii).,,407,11
-228,12,26,THM (in one type of questions),"One of the strategies involving question formation involves the focus marker heo (see Other constructions on Focus formation). In constructions with the sentence final focus only core arguments can be focussed; cf. example of T-questioning in (451). Only very rarely, may an adjunct be in-focus in the sentence final construction; cf. examples of focused PPs in p. 296. No ditransitive examples are given. 
-With  ‘sentence-internal’ focus-construction, where the focus immediately follows the focused constituent; there are  no restrictions on constituents questioned. Thus, S-internal focus constructions can also apply to postpositional phrases; see (484), although no ditransitive examples are given (p. 292).",3526,409,311
+228,12,11,only T,"One of the strategies involving question formation involves the focus marker heo. In constructions with the sentence final focus only core arguments can be focussed; cf. example of T-questioning in (451). Only very rarely, may an adjunct be in-focus in the sentence final construction; cf. examples of focused PPs in p. 296. No ditransitive examples are given.  – With  ‘sentence-internal’ focus-construction, where the focus immediately follows the focused constituent; there are  no restrictions on constituents questioned. Thus, S-internal focus constructions can also apply to postpositional phrases; see (484), although no ditransitive examples are given (p. 292).",3526,409,311
 5,13,,,"R-marking is always retained in deverbal nouns; T-marking is either retained (always on participial/gerundive nominalizations), or as possessor/genitive (subject is always put into GEN).",1254,,
 38,13,,,Only the T of the verb can become the genitive of the nominalization.,1287,,
 40,13,,,Both the T and the R can become the genitive of the action nominal.,1289,,
@@ -540,7 +535,7 @@ Deverbal nouns (often of Sino-Japanese origin) may take P in the genitive form (
 197,13,,,"Nominalization of the double possessive type (p.10). Both A and P are genitivized, appear with the connective (that agrees with the head in CL; gerund nominalization is formally of CL15). (Thus, of the type: cleaning it-of  Ahmed it-of room) No ditransitive examples given.",,389,10
 198,13,,,Action nominals (different from the verb in that they are marked with a low tone). Not clear whether arguments are genitivized in this construction. (It is difficult to tell since the possessive nouns/pronouns are distinguished solely by the tonal change).,,390,p. 109.
 204,13,,,no action nominalizations.,,,
-205,13,28,only THM,Verbal nouns are formed with the suffix -u and its allomorphs. Only P/T arguments can genitivize in this construction.,1454,399,
+205,13,28,only THM,Verbal nouns are formed with the suffix -u and its allomorphs. Only P/T arguments can genitivize in this construction.,1454,,
 211,13,28,only THM,"There is gerundive nominalization formed by a partial reduplication:
 fún GIVE --> fi-fun ‘giving’, rà BUY --> ri-ra ‘buying’, etc. These are used in 
 an emphatic construction such as:
@@ -671,7 +666,7 @@ Order determined by general topicality considerations: T more topicsal than R.",
 108,4,30,strict R > T,"R precedes T in a shifted construction.
 Order determined by general topicality considerations: R more topicsal than T.",,,
 109,4,30,strict R > T,,1583,283,
-110,4,31,dominant R > T,"T and R can be preposed, in which case corresponding clitic pronouns are required - but check on this. As full nominals, the order of T and R can apparently be changed, but this needs checking. As suffixed pronouns, the order thm-rec is fixed",,,
+110,4,31,dominant R > T,"T and R can be preposed, in which case corresponding clitic pronouns are required - but check on this. As full nominals, the order of T and R can apparently be changed, but this needs checking. As suffixed pronouns, the order thm-rec is fixed.",,,
 111,4,31,dominant R > T,"p. 85; 221: Usually: A R/loc P V,  but may be changed.",,285,
 112,4,31,dominant R > T,p. 85; 221: Usually: A R/gen P V but may be changed.,,,
 113,4,29,dominant T > R,"SOV ~ OVS (if S is new).
@@ -980,7 +975,7 @@ NB p. 185. If IO (R) is postverbal case (OBJ) is optional",,286,185
 P and R are marked by object case (ACC=DAT); the same for pronouns.
 
 NB p. 185. If the R is postverbal, object case is optional: 
-(30) I dress/obj bought-APL Angie(obj)",29699752100,286,185
+(30) I dress/obj bought-APL Angie(obj)",,286,185
 115,5.1,43,suffixal case,“Dative case” -thu,,287,
 118,5.1,44,postposition,general locative postposition,,,
 119,5.1,51,no flagging,,,,
@@ -1343,7 +1338,7 @@ Not clear what would be the case if pronominal (ERG?, ACC?).",,,
 7,6.1,83,suffixes,,,,
 8,6.1,84,no indexing,Indirective,,,
 9,6.1,83,suffixes,Secundative,1483,,
-10,6.1,84,no indexing,Indirective/neutral?,,,
+10,6.1,84,no indexing,indirective/neutral?,,,
 11,6.1,83,suffixes,"directional suffixes, indirectively aligned",1485,,
 12,6.1,84,no indexing,,,,
 13,6.1,295,possessive indexes,,,,
@@ -1931,7 +1926,6 @@ cf. examples below (6781 & 6782)",6781,280,249 f.
 107,8,,,"Many verbs taking a recipient or addressee as a third argument, including canonical ditransitives (GIVE, SHOW), but also other tri-valent verbs (p. 129): SEND, LEND, SELL, SAY.",1581,283,248
 109,8,,,"Only GIVE and SHOW allow for the Double Object pattern; exceptionally also SEND.
 Note, however, that few derived ditransitives like FEED and TEACH  (ngaa-ndi eat-CAUS; bey-ndi ‘know-caus), and can also take a double O construction (see Causatives).",,283,248
-110,8,,,"[Needs to be checked in more detail, including fieldwork, including suffixed pronoun for R in absence of suffixed pronoun for T.]",,,
 111,8,,,"Verbs with Goal arguments:  SELL, TELL, TEACH (also GIVE ?, although usually in the genitive construction)
 
 Some verbs like MARRY-of-to (3.113), both Dative and Genitive construction (p. 87).
@@ -2337,7 +2331,7 @@ The benefactive version is used to promote a variety of roles including: benefic
 204,9.1,,,Benefactive is formed by the applicative suffix   -ʂun. Benefactive forms of transitives form a double object conastruction.,2362,,
 205,9.1,,,"The benefactive version is used in a ditransitive construction with the secundative alignment. Flagging remains indirective though, that is the beneficiary/recipient remains in the dative. In the o-version of the ditransitive verbs the alignment is indirective in both flagging and indexing: that is T is indexed through the object agreement. The o-version must be used (for those verbs which have it) in case when T is higher or equal to R on the animacy/person hierarchy. Yet, unlike the benefactive version, the o-version is non-productive; most ditransitive verbs, including GIVE, lack it (Rene Lacroix, p.c.).
 
-The benefactive version is used to promote a variety of roles including: beneficiary, ‘deputative beneficiary’ (for X = instead of X), malefactive-external possessor.",,399,
+The benefactive version is used to promote a variety of roles including: beneficiary, ‘deputative beneficiary’ (for X = instead of X), malefactive-external possessor.",,,
 207,9.1,,,"Several applicative forms, including the general applicative in –ja:y?. Except for the GIVE verb, the construction with the Recipient-Beneficiary (also addressee, malefactive, external possessor) must be marked with the applicative. There is no dative case in Olutec (p. 678). The interpretation of the applied object (recipient, beneficiary, experiencer, goal) depends on the verb class (682-4): with SELL/SEND-verbs it is Recipient, with BUY or creation verbs – Ben, and with affect-type verbs (steal, take away) a melefactive-experiencer. Derived ditransitives forms a neutral constructions with the secundative syntactic characteristics.",2365,398,
 210,9.1,,,The verb de GIVE is grammaticalized into the benefactive auxiliary . (With intransitive verbs it “marks overt action” (p. 253). cf. 761) ‘He cried overtly’: Apparently an aspectual function.,2368,391,253
 211,9.1,,,GIVE fún  can be also used in an auxiliary function in the benefactive serial verbs construction (See benefactive serial verbs construction). It is a serial verb rather than a preposition since it allows for a pronominal object (this is not possible with genuine prepositions).,2369,402,
@@ -2522,7 +2516,7 @@ NB TEACH is causative. Another TEACH verb is also derived; (298b) CAUS-be.adept 
 198,9.2,,,Morphological causatives are unproductive (no causatives from transitives mentioned). eriphrastic causatives by means of manipulative verbs. GIVE can be also used together with other manipulative verbs in a causative ‘let’ function. The subordinate subject (“causee”) is usually represented by a coreferential pronoun. In the latter function it can also appear both in indirective (29b) and secundative patterns.,2584,390,p. 435.
 200,9.2,,,Morphological causatives are unproductive (no causatives from transitives mentioned). eriphrastic causatives by means of manipulative verbs. GIVE can be also used together with other manipulative verbs in a causative ‘let’ function. The subordinate subject (“causee”) is usually represented by a coreferential pronoun. In the latter function it can also appear both in indirective and secundative pattern (31) .,2586,390,p. 435.
 202,9.2,,,"Causatives are formed by the suffixes -aa- and -vaa-.With causatives of transitives, the causee is in the dative (see 713a). When formed by ditransitives though the ‘mediating causee’ is put into the instrumental (apparently to avoid dative doubling).",,391,239
-203,9.2,,,"The causative suffix -ap applied to intransitive and transitive verbs. Causatives of transitives form a dative construction, like basic ditransitives.",2589,401,
+203,9.2,,,"The causative suffix -ap applied to intransitive and transitive verbs. Causatives of transitives form a dative construction, like basic ditransitives.",2589,,
 204,9.2,,,"The causative marker -ma, increasing the valency of both intransitives and transitives. Causatives of transitives form a double object construction, although some verbs also permit the base object in the instrumental.",2590,,
 207,9.2,,,"There are two causative markers: the causative of intransitives yak-, and causatives of transitives in ta:k-. EX. (158b); 790. Causatives of transitives form a secundative double object constructions like applicatives: only the causee can be passivized (160; 791) or inverted ((159a); 791).",2593,398,791
 210,9.2,,,"Causatives are formed by the suffixes -aa- and -vaa-.With causatives of transitives, the causee is in the dative (see 713a). When formed by ditransitives though the ‘mediating causee’ is put into the instrumental (apparently to avoid dative doubling).",2596,391,239
@@ -2895,8 +2889,7 @@ ex. (297a) ‘The parrot can be eaten’.",3068,407,133
 227,10,132,only T,"p. 62. ‘Pseudopassives’ (also reflexives and reciprocals) by “detransitivizing prefixes” e-, os-, ot-, etc. Apparently, only direct object (T/P) can be promoted (p. 141 ‘The children taught themselves/each other/were taught’.) p. 133. Alternatively, a stative passive can be formed by a combination of converbial markers ti-..-so from transitive verbs:
 ex. (297a) ‘The parrot can be eaten’.",,407,133
 228,10,132,only T,p. 362. There is no passive. Instead there is a detransitivization by means of the intransive suffix –a. It is restricted to transitives (with intransitives the meaning is rather intensive). p. 364 Another is an “impersonal” construction which (exceptionally) lacks object agreement with ditransitive verbs. Generally it seems to be a sort of astative passive or anticausative. In both case only objects are ‘passivized’ 9no ditransitive examples are given though).,,409,362
-3,14,,,"Oh & Zubizarreta citing Barss & Lasnik: In DOC, R is higher than (c-commanding)  T
-a) R can bind T but not vice versa (5)",3529,,
+3,14,,,"Oh & Zubizarreta citing Barss & Lasnik: In DOC, R is higher than (c-commanding)  T (a) R can bind T but not vice versa (5)",3529,,
 ,,,,,3757,,
 5,14,,,Reflexive pronouns are controlled by subjects only.,,,
 19,14,,,Nominal reflexives have only subject antecedents.,,259,166
@@ -4163,7 +4156,6 @@ p. 311. Fcus constructions used in questions or emphatic contexts use markers he
 14,7.1,166,neutral,,,261,
 15,7.1,167,indirective,,,235,
 16,7.1,167,indirective,,,,
-17,7.1,165,,please check,,,
 18,7.1,167,indirective,,,,
 19,7.1,167,indirective,,,,
 20,7.1,167,indirective,,,,
@@ -4185,7 +4177,6 @@ p. 311. Fcus constructions used in questions or emphatic contexts use markers he
 36,7.1,166,neutral,,,,
 37,7.1,167,indirective,,,,
 38,7.1,167,indirective,,,,
-39,7.1,165,,please check,,,
 40,7.1,166,neutral,,,,
 41,7.1,166,neutral,,,,
 42,7.1,167,indirective,,,,
@@ -4198,7 +4189,6 @@ p. 311. Fcus constructions used in questions or emphatic contexts use markers he
 49,7.1,166,neutral,,,,
 50,7.1,167,indirective,,,,
 51,7.1,167,indirective,,,,
-53,7.1,165,,please check,,,
 54,7.1,167,indirective,,,,
 55,7.1,167,indirective,,,,
 56,7.1,167,indirective,,,,
@@ -4258,9 +4248,6 @@ p. 311. Fcus constructions used in questions or emphatic contexts use markers he
 112,7.1,167,indirective,,,,
 113,7.1,166,neutral,,,,
 114,7.1,166,neutral,,,,
-115,7.1,165,,please check,,,
-116,7.1,165,,please check,,,
-117,7.1,165,,please check,,,
 118,7.1,167,indirective,,,,
 119,7.1,168,secundative,,,,
 120,7.1,168,secundative,,,,
@@ -4299,7 +4286,6 @@ p. 311. Fcus constructions used in questions or emphatic contexts use markers he
 154,7.1,166,neutral,,,,
 155,7.1,167,indirective,,,,
 156,7.1,167,indirective,,,,
-157,7.1,165,,please check,,,
 158,7.1,167,indirective,,,,
 159,7.1,167,indirective,,,,
 160,7.1,167,indirective,,,,
@@ -4325,7 +4311,6 @@ p. 311. Fcus constructions used in questions or emphatic contexts use markers he
 180,7.1,168,secundative,,,,
 181,7.1,167,indirective,,,,
 182,7.1,167,indirective,,,,
-183,7.1,165,,please check,,,
 184,7.1,166,neutral,,,,
 185,7.1,166,neutral,,,,
 186,7.1,168,secundative,,,,
@@ -4354,7 +4339,6 @@ p. 311. Fcus constructions used in questions or emphatic contexts use markers he
 210,7.1,167,indirective,,,,
 211,7.1,168,secundative,,,,
 212,7.1,168,secundative,,,,
-213,7.1,165,,please check,,,
 214,7.1,,,,,,
 215,7.1,166,neutral,,,,
 216,7.1,167,indirective,,,,
@@ -4377,7 +4361,7 @@ p. 311. Fcus constructions used in questions or emphatic contexts use markers he
 6,7.2,172,neutral,,,,
 7,7.2,173,secundative,,,,
 8,7.2,174,indirective,,,,
-9,7.2,197,Secundative,,,,
+9,7.2,197,secundative,,,,
 10,7.2,174,indirective,,,,
 11,7.2,174,indirective,,,,
 12,7.2,172,neutral,,,,
@@ -4392,28 +4376,28 @@ p. 311. Fcus constructions used in questions or emphatic contexts use markers he
 21,7.2,172,neutral,,,,
 22,7.2,172,neutral,,,,
 23,7.2,174,indirective,,,,
-24,7.2,197,Secundative,,,,
+24,7.2,173,secundative,,,,
 25,7.2,172,neutral,,,,
 26,7.2,172,neutral,,,,
-27,7.2,197,Secundative,,,,
+27,7.2,197,secundative,,,,
 28,7.2,174,indirective,,,,
 29,7.2,172,neutral,,,,
-30,7.2,197,Secundative,,,,
+30,7.2,197,secundative,,,,
 31,7.2,,,,,,
 32,7.2,,,,,,
 33,7.2,172,neutral,,,,
 34,7.2,172,neutral,,,,
 35,7.2,172,neutral,,,,
-36,7.2,176,neutral*,,,,
+36,7.2,176,neutral,,,,
 37,7.2,172,neutral,,,,
 38,7.2,174,indirective,,,,
 39,7.2,,,,,,
 40,7.2,,,,,,
-41,7.2,197,Secundative,,,,
+41,7.2,197,secundative,,,,
 42,7.2,174,indirective,,,,
 43,7.2,172,neutral,,,,
-44,7.2,177,no,,,,
-45,7.2,177,no,,,,
+44,7.2,177,none,,,,
+45,7.2,177,none,,,,
 46,7.2,172,neutral,,,,
 47,7.2,172,neutral,,,,
 48,7.2,172,neutral,,,,
@@ -4421,10 +4405,10 @@ p. 311. Fcus constructions used in questions or emphatic contexts use markers he
 50,7.2,174,indirective,,,,
 51,7.2,174,indirective,,,,
 53,7.2,,,,,,
-54,7.2,197,Secundative,,,,
-55,7.2,197,Secundative,,,,
+54,7.2,197,secundative,,,,
+55,7.2,197,secundative,,,,
 56,7.2,174,indirective,,,,
-57,7.2,197,Secundative,,,,
+57,7.2,197,secundative,,,,
 58,7.2,172,neutral,,,,
 59,7.2,172,neutral,,,,
 60,7.2,172,neutral,,,,
@@ -4432,14 +4416,14 @@ p. 311. Fcus constructions used in questions or emphatic contexts use markers he
 62,7.2,172,neutral,,,,
 63,7.2,172,neutral,,,,
 64,7.2,172,neutral,,,,
-65,7.2,197,Secundative,,,,
-66,7.2,197,Secundative,,,,
+65,7.2,197,secundative,,,,
+66,7.2,197,secundative,,,,
 67,7.2,172,neutral,,,,
 68,7.2,172,neutral,,,,
 69,7.2,172,neutral,,,,
 70,7.2,,,,,,
 71,7.2,174,indirective,,,,
-72,7.2,197,Secundative,,,,
+72,7.2,197,secundative,,,,
 73,7.2,172,neutral,,,,
 74,7.2,172,neutral,,,,
 75,7.2,172,neutral,,,,
@@ -4447,24 +4431,24 @@ p. 311. Fcus constructions used in questions or emphatic contexts use markers he
 77,7.2,174,indirective,,,,
 79,7.2,172,neutral,,,,
 80,7.2,,,,,,
-81,7.2,197,Secundative,,,,
+81,7.2,197,secundative,,,,
 82,7.2,172,neutral,,,,
 83,7.2,,,,,,
-84,7.2,197,Secundative,,,,
-85,7.2,197,Secundative,,,,
-86,7.2,197,Secundative,,,,
-87,7.2,197,Secundative,,,,
-88,7.2,197,Secundative,,,,
+84,7.2,197,secundative,,,,
+85,7.2,197,secundative,,,,
+86,7.2,197,secundative,,,,
+87,7.2,197,secundative,,,,
+88,7.2,197,secundative,,,,
 89,7.2,174,indirective,,,,
 90,7.2,174,indirective,,,,
-91,7.2,197,Secundative,,,,
-92,7.2,197,Secundative,,,,
+91,7.2,197,secundative,,,,
+92,7.2,197,secundative,,,,
 93,7.2,172,neutral,,,,
 94,7.2,172,neutral,,,,
-95,7.2,197,Secundative,,,,
+95,7.2,197,secundative,,,,
 96,7.2,174,indirective,,,,
 98,7.2,174,indirective,,,,
-99,7.2,197,Secundative,,,,
+99,7.2,197,secundative,,,,
 100,7.2,172,neutral,,,,
 101,7.2,172,neutral,,,,
 102,7.2,172,neutral,,,,
@@ -4476,8 +4460,8 @@ p. 311. Fcus constructions used in questions or emphatic contexts use markers he
 108,7.2,172,neutral,,,,
 109,7.2,172,neutral,,,,
 110,7.2,174,indirective,,,,
-111,7.2,197,Secundative,,,,
-112,7.2,197,Secundative,,,,
+111,7.2,197,secundative,,,,
+112,7.2,197,secundative,,,,
 113,7.2,172,neutral,,,,
 114,7.2,172,neutral,,,,
 115,7.2,,,,,,
@@ -4492,31 +4476,31 @@ p. 311. Fcus constructions used in questions or emphatic contexts use markers he
 124,7.2,172,neutral,,,,
 125,7.2,172,neutral,,,,
 126,7.2,174,indirective,,,,
-127,7.2,197,Secundative,,,,
-128,7.2,197,Secundative,,,,
+127,7.2,197,secundative,,,,
+128,7.2,197,secundative,,,,
 129,7.2,174,indirective,,,,
 130,7.2,,,,,,
-132,7.2,197,Secundative,,,,
+132,7.2,197,secundative,,,,
 133,7.2,174,indirective,,,,
 134,7.2,174,indirective,,,,
 135,7.2,174,indirective,,,,
 136,7.2,172,neutral,,,,
 137,7.2,174,indirective,,,,
-138,7.2,197,Secundative,,,,
+138,7.2,197,secundative,,,,
 139,7.2,173,secundative,,,,
 140,7.2,174,indirective,,,,
 141,7.2,174,indirective,,,,
-142,7.2,197,Secundative,,,,
-143,7.2,197,Secundative,,,,
-144,7.2,197,Secundative,,,,
+142,7.2,197,secundative,,,,
+143,7.2,197,secundative,,,,
+144,7.2,197,secundative,,,,
 145,7.2,174,indirective,,,,
 146,7.2,172,neutral,,,,
 147,7.2,,,,,,
 148,7.2,172,neutral,,,,
-149,7.2,197,Secundative,,,,
+149,7.2,197,secundative,,,,
 150,7.2,172,neutral,,,,
 151,7.2,174,indirective,,,,
-152,7.2,197,Secundative,,,,
+152,7.2,197,secundative,,,,
 153,7.2,172,neutral,,,,
 154,7.2,172,neutral,,,,
 155,7.2,172,neutral,,,,
@@ -4530,11 +4514,11 @@ p. 311. Fcus constructions used in questions or emphatic contexts use markers he
 163,7.2,172,neutral,,,,
 164,7.2,172,neutral,,,,
 165,7.2,172,neutral,,,,
-166,7.2,197,Secundative,,,,
-167,7.2,197,Secundative,,,,
-168,7.2,197,Secundative,,,,
+166,7.2,197,secundative,,,,
+167,7.2,197,secundative,,,,
+168,7.2,197,secundative,,,,
 169,7.2,172,neutral,,,356,
-170,7.2,197,Secundative,,,356,
+170,7.2,197,secundative,,,356,
 171,7.2,172,neutral,,,,
 172,7.2,172,neutral,,,,
 173,7.2,172,neutral,,,,
@@ -4548,29 +4532,29 @@ p. 311. Fcus constructions used in questions or emphatic contexts use markers he
 181,7.2,172,neutral,,,,
 182,7.2,,,,,,
 183,7.2,,,,,,
-184,7.2,197,Secundative,,,,
-185,7.2,197,Secundative,,,,
-186,7.2,197,Secundative,,,,
-187,7.2,197,Secundative,,,,
-188,7.2,197,Secundative,,,,
+184,7.2,197,secundative,,,,
+185,7.2,197,secundative,,,,
+186,7.2,197,secundative,,,,
+187,7.2,197,secundative,,,,
+188,7.2,197,secundative,,,,
 189,7.2,172,neutral,,,,
 190,7.2,,,,,,
 191,7.2,,,,,,
 192,7.2,,,,,,
-193,7.2,197,Secundative,,,,
+193,7.2,197,secundative,,,,
 194,7.2,,,,,,
 195,7.2,172,neutral,,,,
 196,7.2,172,neutral,,,,
-197,7.2,197,Secundative,,,,
+197,7.2,197,secundative,,,,
 198,7.2,172,neutral,,,,
 199,7.2,172,neutral,,,,
 200,7.2,172,neutral,,,,
 201,7.2,172,neutral,,,,
 202,7.2,172,neutral,,,,
-203,7.2,197,Secundative,,,,
+203,7.2,197,secundative,,,,
 204,7.2,172,neutral,,,,
 205,7.2,174,indirective,,,,
-206,7.2,197,Secundative,,,,
+206,7.2,197,secundative,,,,
 207,7.2,172,neutral,,,,
 209,7.2,172,neutral,,,,
 210,7.2,174,indirective,,,,
@@ -4578,9 +4562,9 @@ p. 311. Fcus constructions used in questions or emphatic contexts use markers he
 212,7.2,172,neutral,,,,
 213,7.2,,,,,,
 214,7.2,,,,,,
-215,7.2,197,Secundative,,,,
+215,7.2,197,secundative,,,,
 216,7.2,174,indirective,,,,
-217,7.2,197,Secundative,,,,
+217,7.2,197,secundative,,,,
 218,7.2,,,,,,
 219,7.2,174,indirective,,,,
 220,7.2,174,indirective,,,,
@@ -4608,7 +4592,7 @@ p. 311. Fcus constructions used in questions or emphatic contexts use markers he
 457,8,130,open class,"Ditransitive verbs used in a dative construction: noo GIVE, čebe SHOW, nee SAY, har TELL. Of these GIVE and SHOW can also appear in DOC.",,414,160
 457,10,,,"The suffix –andi (that performs the causative function with intransitives) is used in the mediopassive function with transitives. In this case P/T can appear as the subject.
 There is another detransitivizing derivation in –a, which can have either mediopassive or unspecified object function, or both čin-a  ‘be built; be bulding (houses)’. No ditransitive examples are given.",6421,414,167
-457,11,,,"Relative clauses are postnominal, introduced by the relativizer ka(ŋ); the syntax of relative construction is reminiscent of syntax of focus construction insofar as relativization of (preverbal or postverbal) P involves the use of a resumptibve pronoun. In case of relativization of Rs (and other PPs), there is no resumptive pronoun, while postposition is extracted and follows ka(ŋ, cf. relativization of R (addressee of TELL) in (335a).",6422,414,244-5
+457,11,,,"Relative clauses are postnominal, introduced by the relativizer ka(ŋ); the syntax of relative construction is reminiscent of syntax of focus construction insofar as relativization of (preverbal or postverbal) P involves the use of a resumptibve pronoun. In case of relativization of Rs (and other PPs), there is no resumptive pronoun, while postposition is extracted and follows ka(ŋ, cf. relativization of R (addressee of TELL) in (335a).",,414,244-5
 457,40.1,,,No restrictions noted.,,414,285
 463,4,32,strict T > R,Postpositional R like other PPs and adverbials appears postverbally.,,,
 463,5.1,44,postposition,R is introduced by the postposition se/še.,,414,
@@ -4660,7 +4644,7 @@ Williamson, however, notes example of applicative constructions with both object
 Additionally there is a possessive mediopassive (for me)  that is not valency reducing as it indicates coreferentiality of A with the possessor of P.",,178,66
 464,11,5,either T or R or both,"Relative clauses are postnominal, the head s followed by an indefinite article functioning as a relativizer, and is resumed in the matrix clause by the definite (or idefinite article. Thus, relativization seems to be rather of the correlative type. Cf. (88a) woman DET he-sees-her DET ‘the woman he saw’. All arguments (including postpositional obliques) can be relativized; see an example of R (addressee) relativization in (105).",6445,178,53ff
 ,,,,,6446,,
-464,12,18,No restrictions.,WH-questions are formed by question words (identical to indefinite pronouns) in combination with the clause final particle he.  WH-words are retained in situ. No ditransitive examples are cited but apparently no restrictions.,,419,256
+464,12,9,no restrictions,WH-questions are formed by question words (identical to indefinite pronouns) in combination with the clause final particle he.  WH-words are retained in situ. No ditransitive examples are cited but apparently no restrictions.,,419,256
 464,14,138,T or R,"Verbal reflexives through the use of the reflexive pronominal -ic?i - in combination with the object pronouns. Interestingly, reflexive forms can refer to R/BEN arguments in the absence of the applicative forms (cf. W, 173). Thus, in the following example (59b; cf. also (59c)) reflexive form marks coreferentiality of A and R arguments, without support of the applicative prefix obligatory in non-reflexive constructions. (Van Valin)
 This however seems to be lexically restricted. Williamson (173) notes unmarked indirective reflexive constructions with some notional ditransitives (W cites SAY and BUY-for), but with some other notional ditransitives REFL predictably implies coreference with T (in the absence of applicative marking).
 In the reflexive construction only subject not an object can be an antecedent:  constructions like “I showed a man to himself’ are impossible. (Williamson: 193)
@@ -4743,9 +4727,7 @@ No ditransitive examples are given.",,422,63
 No ditransitive examples are given but apparently both R and T are relativized by a gapping strategy as they are not marked by the postposition.",,422,123f / 189
 472,12,9,no restrictions,WH-questions involve no movement. Apparently no restrictions.,,422,234
 472,14,138,T or R,"Reflexives are expressed by the verbal reflexive yay- ‘self’. It appears that it marks coreference with R with (at least some) ditransitives: yay-usi (REFL-attach) attach to oneself’. In other cases however reflexives of ditransitive verbs seem to be indirective (cf. example below (6478)). (Tamura 2000: 204)
-Note also in the following example (6479)  with a ditransitive derived by the applicative ko-, the reflexive indicates coreferentiality of A and the applied object/addressee: e-yay-ko-[u-epeke-re] tell a story to oneself > ‘think deeply, worry’.  (Refsing 1986: 183)
-
-Reflexives and reciprocals are verbal, and usually operate on secundative basis (A binds R). Yet it may be the result of the order/composition of the reflexive/reciprocal with the applicative in case of derived ditransitives. Since the reflexive/reciprocal markers precede the applicative prefix they expectedly mark A=R. However, they may also follow the applicative and in that case they apparently have indirective orientation (A=T).",6478,422,204
+Note also in the following example (6479)  with a ditransitive derived by the applicative ko-, the reflexive indicates coreferentiality of A and the applied object/addressee: e-yay-ko-[u-epeke-re] tell a story to oneself > ‘think deeply, worry’.  (Refsing 1986: 183) – Reflexives and reciprocals are verbal, and usually operate on secundative basis (A binds R). Yet it may be the result of the order/composition of the reflexive/reciprocal with the applicative in case of derived ditransitives. Since the reflexive/reciprocal markers precede the applicative prefix they expectedly mark A=R. However, they may also follow the applicative and in that case they apparently have indirective orientation (A=T).",6478,422,204
 ,,,,,6479,423,
 472,15,145,either T or R,"Reciprocals are marked by the verbal prefix u- . They seem to be mostly  A/R oriented (see example 6480 below). (Tamura 2000: 204)
 
@@ -4784,7 +4766,7 @@ No flagging on core arguments in either direct or inverse ditransitrive construc
 475,7.2,263,mixed,"Evidence for alignment in indexing is mixed. In the direct ditransitive construction (as in monotransitive) A is indexed through (person) prefixes and number suffixes. R (like P) is not indexed in the verb form, which is rather a secundative feature. On the other hand, the verb final suffix which registers (number of the obviative P in monotransitives registers number of T in ditransitives. This is then an indirective feature.
 Ditransitive constructions are secundative insofar as direct/inverse pattern signals the relations between A and R. Thus R is a primary object.",,426,48
 476,7.1,166,neutral,In terms of flagging the inverse construction is also neutral.,,426,48
-476,7.2,197,Secundative,"Indexing is clearly secundative, as R (like P) is indexed through (person) prefixes and number suffixes. The verb final suffix (which registers the number of the obviative A in inverse monotransitives) registers number of T in ditransitives.",6501,426,48
+476,7.2,197,secundative,"Indexing is clearly secundative, as R (like P) is indexed through (person) prefixes and number suffixes. The verb final suffix (which registers the number of the obviative A in inverse monotransitives) registers number of T in ditransitives.",6501,426,48
 476,5.1,51,no flagging,No flagging on core arguments in either direct or inverse ditransitrive construction.,,426,
 476,5.2,66,no flagging,No flagging on core arguments in either direct or inverse ditransitrive construction.,,426,
 475,5.2,66,no flagging,No flagging on core arguments in either direct or inverse ditransitrive construction.,,426,
@@ -4839,9 +4821,8 @@ No real passive, but two passive like constructions.
 The inchoative suffix ta-, which performs a resultative function with transitive verbs, specifically object resulative/stative passive ‘be cut’ etc. With ditransitives marginally acceptable, then T is the derived subject (see ex. 258 / 6692 below).
 There is an indefinite subject form (suffix –kan) which can be used in a passive sense; ‘smb built the church, the church was built’. It can be used with any verb classes including ditransitive verbs; cf. p. 274 ex. 358 / ex. 6693 below.",6692,428,235
 ,,,,,6693,441,332/271ff
-480,14,138,T or R,"MacKay & Trechsel (2008) only give examples of applicatives, but they claim that they behave just like basic ditransitive verbs.
-The suffix –kan which also marks the indefinite subject) can be used in the reflexive sense when there is an overt subject marker. In the later function it appears only with transitive and ditransitive verbs; with ditransitives it marks coreference with the R:
-p. 276; (370)/ex. 6698 below.",6512,428,245-249
+480,14,138,T or R,"MacKay & Trechsel (2008) only give examples of applicatives, but they claim that they behave just like basic ditransitive verbs. – The suffix -kan (which also marks the indefinite subject) can be used in the reflexive sense when there is an overt subject marker. In the later function it appears only with transitive and ditransitive verbs; with ditransitives it marks coreference with the R:
+p. 276; (370)",6512,428,245-249
 ,,,,,6698,441,275
 480,15,145,either T or R,"MacKay & Trechsel (2008) only give examples of applicatives, but they claim that they behave just like basic ditransitive verbs.
 The reflexive –kan can also be used in the reciprocal function, when the prefixes indicate plurality of subjects and objects.",6513,428,245-249
@@ -4878,8 +4859,7 @@ Two dative markers are permissible (as in the causative construction on ditransi
 483,10,135,neither R nor T,No Passive.,,437,
 483,11,5,either T or R or both,"Relativization is performed by the nominalizing suffixes, some of which are used to mark/relativize A, some other P. The only way to relativize a dative R/Beneficiary  is through forming a benefactive verbalization: p..574; (85g)./6532 Reletivization of T should be possible, but no ditransitive example is given.",6532,437,574
 483,12,9,no restrictions,Wh-questions involve wh-fronting. No restrictions on questioning are noted.,6532,437,560
-483,14,,,"Reflexives and reciprocals are marked by the verbal detransitivizing prefix ë(t)-. In addition to reflexive or reciprocal function (cf. ët-ënë ‘eat oneself/each other’), with some (creation) verbs it can bind a beneficiary: ëës-ë ‘cook food for oneself’)
-Usually it performs a reflexive (‘scratch oneself’), sometimes reciprocal.",,437,254 f
+483,14,144,see description,"Reflexives and reciprocals are marked by the verbal detransitivizing prefix ë(t)-. In addition to reflexive or reciprocal function (cf. ët-ënë ‘eat oneself/each other’), with some (creation) verbs it can bind a beneficiary: ëës-ë ‘cook food for oneself’). Usually it performs a reflexive (‘scratch oneself’), sometimes reciprocal.",,437,254 f
 483,15,,,"Reflexives and reciprocals are marked by the verbal detransitivizing prefix ë(t)-. In addition to reflexive or reciprocal function (cf. ët-ënë ‘eat oneself/each other’), with some (creation) verbs it can bind a beneficiary: ëës-ë ‘cook food for oneself’)
 Usually it performs a reflexive (‘scratch oneself’), sometimes reciprocal.",,437,254 f
 483,13,,,"There are different participant oriented nominalizations for A vs. S vs. P participants. For example, -ne is an agent nominalizer, while –hpë is the object nominalization. In addition (p.177-8).there are also event nominalizations/infinitives. In the unmarked infinitive/nominalization, P/S is represented by a possessive prefix, while A is marked by the dative case: see (132f??).",,437,504/177f
@@ -4927,7 +4907,7 @@ R-topicalization in (27c) / 6555 below",6554,438,
 ,,,,,6555,,
 486,8,277,closed class,"“Jóola Banjal has about ten ditransitive verbs” appearing in the double object construction; these are not limited to canonical transitives.  :
 e-sen ‘give’, e-nnom ‘buy’, e-gitten ‘tell’, e-kkúet ‘steal’, e-bo¯ ‘send’, e-ppégul ‘open’, e-fíren ‘forbid’, e-roren ‘ask’, e-ccam ‘pay’",,438,
-482,7.2,197,Secundative,,,439,
+482,7.2,197,secundative,,,439,
 482,6.1,88,prefixes,"Object agreement prefixes index R with ditransitives (if R is 1,2 person).",,439,
 482,4,35,either order,"In monotransitives the order is SOV, with ditransitives both A T R V and A R T V are common; see (75/6559 below) and (76/6560 below).",6559,439,197
 ,,,,,6560,,
@@ -4935,7 +4915,7 @@ e-sen ‘give’, e-nnom ‘buy’, e-gitten ‘tell’, e-kkúet ‘steal’, e
 482,11,1,either T or R (but not both),"Relative clauses are internally headed, although the relativized N (notional head) usually appears at the left edge of the RC. It is also commonly followed by the indefinite determiner. There are two basic types of relativizers, prefixed to the verb: subject relativizer is ak-, while non-subject relativizer is ala-. The latter is used to relativize different non-subject arguments: objects but also (bare) adverbials (locative, temporal, etc). In case of postpositional phrases, the postposition is retained. 
 p. 421; (10) (ex. 6562 below) illustrates T-relativization in a headed RC.",6562,439,222 ff
 482,12,9,no restrictions,"Information questions through the use of interrogative indefinite pronouns in combination with a clause-glottal stop. No WH-fronting is involved. Indefinite pronouns can be incorporated, which is frequent with sáapa ‘what(ever)’ (cf. ((17) on p. 422/ex. 6563 below).  No ditransitive examples are given but apparently no restrictions.",6563,439,421
-482,14,141,only R,"By a special set of reflexive agreement (differing for person) in the object agreement slot. bihchi-wah-kuxshi ‘I help myself’, dihchi-wah-kuxshi ‘you help yourself’, etc.
+482,14,144,see description,"By a special set of reflexive agreement (differing for person) in the object agreement slot. bihchi-wah-kuxshi ‘I help myself’, dihchi-wah-kuxshi ‘you help yourself’, etc.
 p. 201. Reflexive ihchi- is common on Ps of monotransitives but may also replace R of a ditransitive (p. 201, ex. 91 /ex. 6564 below).",6564,439,149/201
 482,15,278,unclear,"Reciprocals are marked by an invariant reciprocal pronominal bach- in the object prefix slot. 
 
@@ -4962,7 +4942,7 @@ Flagging is achieved either through inflectional suffixes, or encliticized 3rd p
 490,5.1,43,suffixal case,"Beneficiary is marked by the oblique case.
 In some other cases, Beneficiary is introduced by the postposition khe ‘for’ (but on  p. 174 khe is listed as a 1sg oblique).",6574,440,
 490,5.2,65,suffixal case,T optionally takes the P-case.,,440,
-490,14,,,"Verbal reflexive with the marker –a, which is usually accompanied by the pronominal reflexive k’aye. No ditransitive examples cited, but (47 / 6575 below) gives a example with beneficiary coreferential, kaye is followed by a benefactive postposition khe ‘for’.",6575,440,33/106
+490,14,144,see description,"Verbal reflexive with the marker –a, which is usually accompanied by the pronominal reflexive k’aye. No ditransitive examples cited, but (47 / 6575 below) gives a example with beneficiary coreferential, kaye is followed by a benefactive postposition khe ‘for’.",6575,440,33/106
 490,6.1,84,no indexing,,6574,440,
 490,6.2,114,no indexing,,6574,440,
 489,5.1,43,suffixal case,"Since inanimates are generally unmarked, P-marking seems to appear on R rather than T.",,440,
@@ -4979,7 +4959,7 @@ No examples of relativization from the ditransitive proper construction, but rel
 ,,,,,6578,,
 490,11,,,"No examples of relativization from the ditransitive proper construction, but relativization of T in a benefactive construction is exemplified in (ex. 22 / 6578 below).",6578,,
 489,12,,,"Questions involve the use of question (en)clitic =ta, also with WH-questions. Judging from the examples WH-phrase is normally fronted. Interestingly, there are restrictions on case-marking (with different group of intransitives), which suggest a pragmatic value of case-markers.",,440,315 ff
-489,14,,,"Verbal reflexive with the marker –a, which is usually accompanied by the pronominal reflexive k’aye. No ditransitive examples cited, but (47 / 6575 below) gives a example with beneficiary coreferential, kaye is followed by a benefactive postposition khe ‘for’.",6575,440,33/106
+489,14,144,see description,"Verbal reflexive with the marker –a, which is usually accompanied by the pronominal reflexive k’aye. No ditransitive examples cited, but (47 / 6575 below) gives a example with beneficiary coreferential, kaye is followed by a benefactive postposition khe ‘for’.",6575,440,33/106
 489,15,,,"Verbal reciprocal with the marker –moʔ, which is also reflexive plural, often in combination with a pronominal xol ‘each other’ (<’around’). No ditransitive examples cited.",,440,33/104
 489,16,,,"Some verbs show suppletion for number. The plural argument triggering suppletion “seems exclusively to bear the role of the theme” (p. 73), i.e. S/P argument in the examples. No ditransitive examples cited.
 (p. 58) There is also a “multiple event suffix –ta”, which can mean event plurality (iterative meaning) or argument plurality (distributive meaning). In the latter case distributive meaning can pertain to subject (S or A) or object. With GIVE distributive meaning apparently pertains to the theme (ex. 33 p. 99 / 6579 below).",6579,440,73 f/58/99
@@ -5054,7 +5034,7 @@ Note that with the applicative verbs the applicative –ng marker fuses wit the 
 500,5.1,51,no flagging,All the core arguments are unmarked for case.,,444,
 500,5.2,66,no flagging,All the core arguments are unmarked for case.,,444,
 500,7.1,166,neutral,All the core arguments are unmarked for case.,,444,
-500,7.2,197,Secundative,"Indexing is usually secundative, as object agreement prefixes refer to the applied object; yet when the T is pronominal, it would also be indexed by another object prefix.
+500,7.2,197,secundative,"Indexing is usually secundative, as object agreement prefixes refer to the applied object; yet when the T is pronominal, it would also be indexed by another object prefix.
 All ditransitives are derived, the applied object is coded as P by the object prefixes; these differ from the regular object prefixes only in the 3sg, which is zero for basic objects but ka- for the applied object.
 Indexing is usually secundative, as object agreement prefixes refer to the applied object.",,444,
 500,4,35,either order,"Main clauses are V-initial, but otherwise the order is pragmatically determined. Clause initial position is topical, however topics can also occur in clause final position. The immediate preverbal position is a focus position (e.g. WH-words occur in that position).",,444,284
@@ -5076,13 +5056,13 @@ Interestingly, an (intransitive) verb can take both benefactive and malefactive 
 502,7.1,166,neutral,Note that R is normally not expressed \(does not double indexing on the verb).,,445,
 502,6.1,83,suffixes,R (like P) is indexed by object agreement suffixes (in the first postverbal slot).,,445,
 502,6.2,114,no indexing,,,445,
-502,7.2,197,Secundative,,,445,
+502,7.2,197,secundative,,,445,
 503,5.1,41,preposition,R is introduced by the preposition ta.,6625,445,
 503,5.2,66,no flagging,,,445,
 503,6.1,83,suffixes,R (like P) is indexed by object agreement suffixes (in the first postverbal slot).,,445,
 503,6.2,114,no indexing,,,445,
 503,7.1,167,indirective,,,445,
-503,7.2,197,Secundative,The verbs agrees with the R.,,445,
+503,7.2,197,secundative,The verbs agrees with the R.,,445,
 504,5.1,41,preposition,R is introduced by the preposition ta.,,445,
 504,5.2,66,no flagging,,6626,445,
 504,6.1,84,no indexing,,,445,
@@ -5099,7 +5079,7 @@ Interestingly, an (intransitive) verb can take both benefactive and malefactive 
 506,5.2,,,T normally not expressed,,445,
 506,6.1,83,suffixes,R (like P) is indexed by object agreement suffixes (in the first postverbal slot).,6629,445,
 506,6.2,111,suffixes,"T (like R and P) is indexed by object agreement suffixes in the second postverbal slot, but it is introduced by the i-suffix which makes it look as a specialized T-agreement.",,445,
-506,7.2,287,rather secundative,"Rather secundative not only in the order of agreement suffixes, but also partially in form: the second T-agreement suffix is introduced by the i-suffix.",,445,
+506,7.2,287,secundative,"Rather secundative not only in the order of agreement suffixes, but also partially in form: the second T-agreement suffix is introduced by the i-suffix.",,445,
 506,40.2,288,possible except for 1st and 2nd person Ts,"This construction is used when both R and T are pronominal except fro cases when T is 1st-2nd person, in which case the indirective construction should be used.",,445,
 503,10,132,only T,"No regular passive, but the perfective  Qəl- verbs historically derive from passives.
 The promotion to this quasi-passive construction, is possible for themes from the indirective pattern; note that (pronominal) T is indexed in the subject slot in ex. 32 / 6633 below.
@@ -5110,7 +5090,7 @@ Thus, passivization is indirective, but in this dialect only 3rd person infixes 
 510,7.1,166,neutral,,,446,
 510,6.2,109,prefixes,"With basic ditransitives like GIVE, T is marked by classifier prefixes, also indexing  P of some monotransitives (verbs of handling and caused motion).",,446,
 510,6.1,83,suffixes,"R is marked by the recipient suffixes, which are similar to non-productive object prefixes of very few monotransitives, but differ from them in position, and slightly in form. Recipient suffixes differ somewhat for the perfective and imperfective GIVE in some forms 3sgM -a- vs. -ha-, etc (cf. the animate plural suffix -ye- in the example used in imperfective).",6636,446,
-510,7.2,289,rather indirective,"Indexing is indirective insofar as the T is marked by classifier prefixes as with monotransitives and, while R is marked by recipient suffixes. Note, however, that theme marking through classifiers is unproductive with monotransitives. Note further that recipient suffixes are similar in form with object prefixes found with some few monotransitives. Yet in terms of position the alignment is clearly rather indirective: T (like some Ps) is marked by prefixes, R is marked by suffixes. 
+510,7.2,289,indirective,"Indexing is indirective insofar as the T is marked by classifier prefixes as with monotransitives and, while R is marked by recipient suffixes. Note, however, that theme marking through classifiers is unproductive with monotransitives. Note further that recipient suffixes are similar in form with object prefixes found with some few monotransitives. Yet in terms of position the alignment is clearly rather indirective: T (like some Ps) is marked by prefixes, R is marked by suffixes. 
 Fedden (2008++) suggests that indirective indexing developed from a contraction of  a verb and auxiliary with an object prefix into  the single verb form: V + o-Aux-s -> o-V-r-s.",,446,
 511,5.1,51,no flagging,,,446,
 511,5.2,66,no flagging,,,446,
@@ -5143,7 +5123,7 @@ It is not clear whether the base object can be relativized (as it is normally no
 ,,,,,6645,,
 ,,,,,6646,,
 500,13,,,"There are a variety of non-finite verb forms, among which –ti can be used on embedded complements. Yet the subordinate form retains the verbal agreement markers (p. 310), as well as the arguments in the sentential form.",,444,319/310
-500,14,,,"The “middle voice” in –tA, which might perform an anticausative, but also a reflexive-reciprocal function. A reflexive form involving a monotransitive verb is given in (67b)/ex. 6647 below. No ditransitive examples are given.",6647,444,170
+500,14,144,see description,"The “middle voice” in –tA, which might perform an anticausative, but also a reflexive-reciprocal function. A reflexive form involving a monotransitive verb is given in (67b)/ex. 6647 below. No ditransitive examples are given.",6647,444,170
 500,15,,,"The “middle voice” in –tA, which might perform an anticausative, but also a reflexive-reciprocal function. A reciprocal use involving a monotransitive verb is given in (68b)/ex. 6648 below. No ditransitive examples are given.",6648,444,170
 500,90,,,"with pronominal Ts
 Pronominal Ts are possible, and result in a change of alignment: from secundative to neutral, insofar as both objects are indexed. When the T is pronominal, it would also be indexed by another object prefix following the object prefix referring to the applied object; see p. 167 (ex. 57)/ex. 6649 below.",6649,444,167
@@ -5180,9 +5160,9 @@ NB not clear what is the form of the verb: apparently no agreement.",6671,468,
 519,8,130,open class,"transitive (ergative-absolutive) verbs: including many caused motion verbs which take an (animate) T as absolutive P (i.e. agreement is absolutive) and prepositional Goal: ‘to offer’, ‘to bring’, ‘to buy’, ‘to send’, ‘to throw’, ‘to carry’, ‘to push’, and ‘to feed’",,468,
 518,10,132,only T,"Resultative passive: the perfective prefix ni- changes to wi-. With most ditransitives only T/P can be passivized. (It is not clear whether passive is personal or impersonal). Other ditransitives (like ‘to sell’, ‘show’) do not allow resultatives at all, and 'tell' allows exceptionally for both R and T to be passivized",,468,
 517,7.1,166,neutral,,,468,
-517,7.2,287,rather secundative,,,468,
+517,7.2,287,secundative,,,468,
 518,7.1,166,neutral,,,468,
-518,7.2,294,neutral or maybe secundative,"Is difficult to determine, since 1) it is A rather than R which is indexed (whether agreement is cumulative and P is marked) is not clear; 2) even if R is marked it is marked like less prototypical Ps rather than canonical Ps.",,468,
+518,7.2,294,secundative,"Is difficult to determine, since 1) it is A rather than R which is indexed (whether agreement is cumulative and P is marked) is not clear; 2) even if R is marked it is marked like less prototypical Ps rather than canonical Ps.",,468,
 519,5.2,66,no flagging,,,468,
 519,6.1,84,no indexing,,,468,
 519,6.2,111,suffixes,"T is indexed by the series of absolutive suffixes like regular Ps of monotransitives. Like with monotransitives, “absolutive” agreement switches to “ergative” (or rather antipassive) when P is inanimate: then A is marked.",,468,
@@ -5209,12 +5189,12 @@ NB not clear what is the form of the verb: apparently no agreement.",6671,468,
 525,5.1,51,no flagging,,,448,
 525,5.2,66,no flagging,,,448,
 525,7.1,166,neutral,,,448,
-525,7.2,197,Secundative,,,448,
+525,7.2,197,secundative,,,448,
 523,4,29,dominant T > R,Word order is V T R (if R is nominal) .,,448,
 524,4,30,strict R > T,"Word order is V r T. R is pronominal, since R is encliticized to the verbs.",,448,
 523,10,132,only T,"There is resultative passive (Dimmendaal’s “low transitivity” marker”). Apparently, only P/T can be passivized in this way (see Dimmendaal 2008++: ex. 4 / ex. 6683 below).
 There is another, suffixal passive in -ataŋ, again apparently only P/T can be passivized.",6683,448,
-523,14,140,only T,Reflexives maybe either verbal or (pro)nominal (based on the noun ‘body’). The verbal reflexives use a valency reducing “antipassive” marker. Apparently only direct objects can be reflexivized that way.,,448,
+523,14,144,see description,Reflexives maybe either verbal or (pro)nominal (based on the noun ‘body’). The verbal reflexives use a valency reducing “antipassive” marker. Apparently only direct objects can be reflexivized that way.,,448,
 523,13,27,NEITHER,"Nominalization by a noun class and a harmonizing –Vl suffix. In nominalizations from the dative construction, T is unmarked, and dative retains the dative marker. Note that dative encliticization is impossible in such cases (see Dimmendaal 2008++: ex. 52 / ex. 6684 below).",6684,448,
 524,13,27,NEITHER,"Nominalization by a noun class and a harmonizing –Vl suffix. In nominalizations from the dative construction, T is unmarked, and dative retains the dative marker. Note that dative encliticization is impossible in such cases (see Dimmendaal 2008++: ex. 52 / ex. 6684 below).",6684,448,
 525,13,28,only THM,"Nominalization by a noun class and a harmonizing –Vl suffix. In nominalizations from the dative construction, T is unmarked, and dative retains the dative marker. With GIVE however, the T should be introduced by the Genitive linker instead. It is not clear how R is expressed (see Dimmendaal 2008 ++: ex. 57 / ex. 6685 below).",6685,448,
@@ -5246,20 +5226,20 @@ With transitives  P is interpreted as a possessor of a body part, wity ditransit
 528,5.2,66,no flagging,There is no flagging of either R or T. If pronominal the arguments take an object form (‘nyip 1sg P vs. ‘nyaash 1sg A/S). Both R and T appear in the object form if pronominal; see the pronominal objects in the ditransitive causative construction p. 90. (29)  / ex. 6712 below.,6712,449,
 528,9.2,,,"There are several causative affixes, but they mostly apply to intransitives. There are only 5 causatives of transitives derived by a combination of a prefix (ch- or uu-) and the suffix –y, among them 2 FEED verbs ( uu-ma-y) and SHOW (chuuyoo-y- ‘make see’). Causatives of transitives also form a double object construction with secundative agreement. Note agreement with the pronominal R in reference to pronominal T (cf. p. 90. (29)  / ex. 6712 below).",6712,449,88ff
 528,7.1,166,neutral,,,449,
-528,7.2,197,Secundative,"Indexing is secundative  The verb agrees with the R (if 1,2 person; 3rd person agreement is zero). There is additionally a prefixal plural object marker nyi-; no ditransitive examples are given.",,449,148
+528,7.2,197,secundative,"Indexing is secundative  The verb agrees with the R (if 1,2 person; 3rd person agreement is zero). There is additionally a prefixal plural object marker nyi-; no ditransitive examples are given.",,449,148
 528,6.1,96,agreement,"The verb agrees with the R (if 1,2 person; 3rd person agreement is zero). There is additionally a prefixal plural object marker nyi-; no ditransitive examples are given.",,449,148
 528,4,35,either order,The basic order is SOV; in ditransitive sentences both A T R V and A R T V are common; the latter “is mildly preferred”.,6715,449,75f
 528,12,9,no restrictions,Question words are also used as indefinites; interpreted as interrogatives when interrogative suffix –ii is added. Apparently WH-words can stay in situ. No restrictions on questioning are noted. No ditransitive examples are given.,,449,60ff
 528,10,,,"Mediopassive suffix –v on transitive verbs with the resultative function (‘is lost’, etc). No ditransitive examples are given.",,449,83
 528,11,,,"Relative clauses distinguish between subject nominalization vs. non-subject nominalization. The former type include the relative marker (verbal prefix) kw-, the latter do not. Both types seem to be internally headed: the case of the (notional) head of the relative clause is indicated on the verb. When oblique arguments are relativized they retain their marking within the relative clause. When an object argument is relativized it is usually fronted to the beginning of the relative clause (but may also retain its position is it does not lead to ambiguity). Consider T relativization in the ditransitivwe construction in p. 261 ex. 129 / ex. 6718 below.",6718,449,255ff
-528,14,,,The verbal prefix –mat ( < iimat ‘body’) has both reflexive and reciprocal function. No ditransitive examples are given.,,449,65
+528,14,144,see description,The verbal prefix –mat ( < iimat ‘body’) has both reflexive and reciprocal function. No ditransitive examples are given.,,449,65
 528,15,,,The verbal prefix –mat ( < iimat ‘body’) has both reflexive and reciprocal function. No ditransitive examples are given.,,449,65
 528,13,,,"There are several nominalizers (one type of action nominal is zero marked). These nominalizers retain the structure of the clause (w.r.t object encoding/indexing), except for the absence of the nominative marker on the subject fo nominalization.",,449,230
 535,40.1,300,impossible,With animate Ts only the complex Serial Verbs Construction is used not the oblique ma.,6724,452,
 535,10,,,No passive: impersonal construction instead an impersonal construction with idefinite pronoun.,,452,
 535,11,5,either T or R or both,"No proper relative clauses, rather a topicalization (where topicalizer belongs (introduces) the head rather than the following clause). 
 An example of T-relativization/topicalization: note that ma is stranded in the relative clause",6725,452,
-535,14,,,By the reflexive pronoun exan ‘self’. No ditransitive examples found.,,452,
+535,14,144,see description,By the reflexive pronoun exan ‘self’. No ditransitive examples found.,,452,
 535,15,,,By the distributve prefix in place of object agreement. No ditransitive examples found.,,452,
 535,20,,,"Both T and R may be omitted, but T-omission is particularly common.
 In the corpus, clauses with an have R as the single object, leaving T is unexpressed/implied.",,452,
@@ -5292,7 +5272,7 @@ R-relativization with a preposition stranding: p. 208; (a) / ex. 6735 below.",67
 ,,,,,6738,,
 ,,,,,6739,,
 ,,,,,6740,,
-538,14,,,Reflexivization involves nominal reflexives based on the stem –ba in combination with the possessive prefixes; cf. p. 217 ex. 14 / ex. 6741 below. No ditransitive examples are given.,6741,454,217
+538,14,144,see description,Reflexivization involves nominal reflexives based on the stem –ba in combination with the possessive prefixes; cf. p. 217 ex. 14 / ex. 6741 below. No ditransitive examples are given.,6741,454,217
 538,15,,,Apparently the same reciprocal pronoun –ba can be used in the reciprocal sense as well. No ditransitive examples are given.,,454,217
 538,13,,,"One type of a nominalized complement clause, uses ergative-possessive indexing for S/A arguments, while P/T remains in the absolutive.
 Cf. p. 246 ex. 64 / ex. 6742 below.",6742,454,246
@@ -5385,19 +5365,19 @@ Other verbs take applicatives: TELL, SELL, BUY (hand-pay).",,460,
 550,6.1,83,suffixes,By object agreement suffixes.,6834,460,
 550,6.2,114,no indexing,,,460,
 550,7.1,166,neutral,,,460,
-550,7.2,197,Secundative,,,460,
+550,7.2,197,secundative,,,460,
 551,5.1,51,no flagging,,,460,
 551,5.2,66,no flagging,,6835,460,
 551,6.1,88,prefixes,"Agreement prefixes cross-reference R in inverse of ditransitives, while they cross-reference P with monotransitives (by object prefixes like P of inverse monotransitives).",6836,460,
 551,6.2,114,no indexing,,,460,
 551,7.1,166,neutral,,,460,
-551,7.2,197,Secundative,"Agreement prefixes cross-reference R in inverse of ditransitives, while they cross-reference P with monotransitives.",,460,
+551,7.2,197,secundative,"Agreement prefixes cross-reference R in inverse of ditransitives, while they cross-reference P with monotransitives.",,460,
 552,5.1,51,no flagging,,,460,
 552,5.2,66,no flagging,,6837,460,
 552,6.1,83,suffixes,"By object agreement suffixes; unlike the independent conjugation object markers are also available for 1,2 person R/Ps.",,460,
 552,6.2,114,no indexing,,,460,
 552,7.1,166,neutral,,,460,
-552,7.2,197,Secundative,Agreement suffixes index R (like P).,,460,
+552,7.2,197,secundative,Agreement suffixes index R (like P).,,460,
 557,4,35,either order,"“Notice that the order for the two object nominals in the actor voice forms is not fixed; pragmatic considerations will always differentiate the two, so the order is free.” (Donohue 1996:787)",6850,432,787
 ,,,,,6851,,
 557,5.1,51,no flagging,,6850,432,passim
@@ -5418,7 +5398,7 @@ Other verbs take applicatives: TELL, SELL, BUY (hand-pay).",,460,
 ,,,,,6905,,
 559,4,35,either order,,,480,
 559,11,,,"No dedicated relativization strategy, but rather a general subordinate clause (“adjoined relative clause”) which does not require an antecedent and does not impose restrictions on coreference between clauses.",,480,
-559,14,,,“Reflexives and reciprocals of morphologically transitive verbs are marked by the same suffix -ja (IPF)/-ji (elsewhere) and are only distinguished by the number of their argument.”,,480,
+559,14,144,see description,“Reflexives and reciprocals of morphologically transitive verbs are marked by the same suffix -ja (IPF)/-ji (elsewhere) and are only distinguished by the number of their argument.”,,480,
 559,15,146,only R,"“Reflexives and reciprocals of morphologically transitive verbs are marked by the same suffix -ja (IPF)/-ji (elsewhere) and are only distinguished by the number of their argument.”
 -ngarna- GIVE is also used in the meaning ‘talk/say to each other’, when combined with the reflexive/reciprocal marker cf. ex. 24 / ex. 6865 below.
 On the other hand, in the sense ‘give to each other’ –ngarna must appear as a part of a complex predicate with the coverb yirrginy/yulij ‘do something symmetrically or reciprocally’, cf. ex. 21 / ex 6903 below.",6865,480,
@@ -5500,7 +5480,7 @@ cf. ex. 10a / 6888 below and ex. 10b / 6889 below.",6888,469,
 562,5.1,51,no flagging,"A is in the ergative case, both R and T are unflagged (are in the unmarked NOM case).",,469,
 562,5.2,66,no flagging,"A is in the ergative case, both R and T are unflagged (are in the unmarked NOM case).",,469,
 562,7.1,,,"A is in the ergative case, both R and T are unflagged (are in the unmarked NOM case).",,469,
-562,7.2,197,Secundative,Indexing is secundative: the verb agrees with R through the regular object agreement suffixes (these can appear in different slots).,,469,
+562,7.2,197,secundative,Indexing is secundative: the verb agrees with R through the regular object agreement suffixes (these can appear in different slots).,,469,
 562,6.1,96,agreement,The verb agrees with R through the regular object agreement suffixes (these can appear in different slots).,,469,
 562,6.2,114,no indexing,The verb agrees with R through the regular object agreement suffixes (these can appear in different slots).,,469,
 567,4,280,unclear,"Three examples with T > R order (p. 108), one comment: “Note that the word order is not decisive” (p. 108). From this comment one can perhaps conclude that T > R is at least not rigid.",1475,232,108
@@ -5510,7 +5490,7 @@ There is a marginal kind of object marking: When a conjoined or numeral-modified
 567,6.1,88,prefixes,,,232,
 567,6.2,114,no indexing,,,232,
 567,7.1,166,neutral,,,232,
-567,7.2,197,Secundative,,,232,
+567,7.2,197,secundative,,,232,
 567,8,,,"tIkiitI ‘give’ (p. 107)
 ruzeiyastIa ‘show’ (p. 108)
 
@@ -5524,38 +5504,37 @@ Nee uukari uuki ne-puuzeiyastIa
 567,40.2,,,"The T cannot be 1st/2nd person:
 
 “It seems to be impossible to construct a sentence where the patient of the ditransitive verb is nonthird person, that is, a sentence of the type He showed me to you. Huichol sentences that I constructed on this model were judged ungrammatical, irrespective of which object I let control object agreement, and my attempts to elicit such sentences produced constructions translating literally as ‘He told you to see me’, ‘He told me to go to you’.” (p. 109)",,232,109
-559,7.2,197,Secundative,Indexing is secundative: object agreement prefixes (following the subject agreement prefixes) refer to R. (Note however that alignment can switch to indirective if T is animate; see animacy effects).,,480,
+559,7.2,197,secundative,Indexing is secundative: object agreement prefixes (following the subject agreement prefixes) refer to R. (Note however that alignment can switch to indirective if T is animate; see animacy effects).,,480,
 559,7.1,166,neutral,,,480,
 560,7.2,174,indirective,,,480,
 568,90,306,Only R,"In this construction, the inverse form reflects that R/P is higher on the Person/animacy hierarchy  than A.
 “The inverse voice is triggered when a third person acts upon a speech act participant (3>1 or 3>2) or a new topic is introduced into the discourse (3>3). The inverse marking in the case of the 3>1, 3>2, and 3>3 relationship is the relational suffix –e + the suffix 
-–(m)ew (Golluscio 2007)",6913,481,
-569,90,307,only THM,"In this construction, the inverse form reflects that P/T is higher than A on the person/animacy hierarchy.",,481,
-569,4,32,strict T > R,Word order seems to be Theme - Recipient also in the postpositional construction.,,481,
-568,4,32,strict T > R,In the direct construction the order is A V T R (inversion of the objects is ungrammatical). (It is not clear though if this also holds for the inverse variant of the double object construction).,6912,481,
+–(m)ew (Golluscio 2007)",6913,,
+569,90,307,only THM,"In this construction, the inverse form reflects that P/T is higher than A on the person/animacy hierarchy.",,,
+569,4,32,strict T > R,Word order seems to be Theme - Recipient also in the postpositional construction.,,,
+568,4,32,strict T > R,In the direct construction the order is A V T R (inversion of the objects is ungrammatical). (It is not clear though if this also holds for the inverse variant of the double object construction).,6912,,
 ,,,,,6918,,
-568,40.2,310,unclear,It is not clear whether secundative elu- ‘give’ can be used with a pronominal theme; it seems to be the case that monotransitive indirective wili- ‘give away’ is used instead.,,481,
-569,40.2,,,P animate and pronominal Themes are possible in this construction (and usually trigger use of inverse forms).,,481,
-568,10,136,only R,Passive construction with the suffix –nge-. In the Double Object Construction only R can be pasivized.,6920,481,
+568,40.2,310,unclear,It is not clear whether secundative elu- ‘give’ can be used with a pronominal theme; it seems to be the case that monotransitive indirective wili- ‘give away’ is used instead.,,,
+569,40.2,,,P animate and pronominal Themes are possible in this construction (and usually trigger use of inverse forms).,,,
+568,10,136,only R,Passive construction with the suffix –nge-. In the Double Object Construction only R can be pasivized.,6920,,
 ,,,,,6921,,
-569,10,132,only T,In the indirective construction by contrast only T/P can be passivized.,,481,
-568,11,1,either T or R (but not both),Relative clauses are formed by nonfinite verbal forms in -el and -etew and deverbal adjectives with –chi. The chi-form is used to relativize on subjects the other forms to relativize on objects. For ditransitives relativization of the primary object R and of the secondary object T seems to be possible.,6923,481,
-,,,,,6924,,
-568,20,162,only THM,R cannot be omitted in a double object construction.,6925,481,
+569,10,132,only T,In the indirective construction by contrast only T/P can be passivized.,,,
+568,11,1,either T or R (but not both),Relative clauses are formed by nonfinite verbal forms in -el and -etew and deverbal adjectives with –chi. The chi-form is used to relativize on subjects the other forms to relativize on objects. For ditransitives relativization of the primary object R and of the secondary object T seems to be possible.,6923,,
+568,20,162,only THM,R cannot be omitted in a double object construction.,6925,,
 ,,,,,6926,,
-568,8,,,"Only 2 basic ditransitives: elun ‘give’ and its antonym mïntun ‘take away, deprive’; in addition 3 other verbs  ramtun ‘ask for, request’; arelïn ‘lend’, aretun ‘borrow’,  ngillatun ‘pray, beg, request’ can be used ditransitively, this is also true for pi- ‘say, tell’ which however, also has intransitive (’dicide’) and monotransitive uses. In the latter case it may take an applicative to introduce R, but this is optional.",6927,481,
+568,8,,,"Only 2 basic ditransitives: elun ‘give’ and its antonym mïntun ‘take away, deprive’; in addition 3 other verbs  ramtun ‘ask for, request’; arelïn ‘lend’, aretun ‘borrow’,  ngillatun ‘pray, beg, request’ can be used ditransitively, this is also true for pi- ‘say, tell’ which however, also has intransitive (’dicide’) and monotransitive uses. In the latter case it may take an applicative to introduce R, but this is optional.",6927,,
 ,,,,,6928,,
-568,9.2,,,"There are two causative markers: in -(ï)m or with -(e)l. The first is used with non-agentive intransitives, the latter from agentive intransitives. -(e)l-causative is also used in the applicative sense.",6929,481,
-568,9.1,,,"There are several applicative formatives: -(e)l- (also used for causatives), –lel (probably a reduplicated form of applicative –(e)l), -ñma. The first two applicatives are used for both beneficiary, but also the experiencer/(external) possessor/affected argument. For –ñma also called malefactive applicative it is more typical to encode experiencer/malefactive source.",6930,481,
+568,9.2,,,"There are two causative markers: in -(ï)m or with -(e)l. The first is used with non-agentive intransitives, the latter from agentive intransitives. -(e)l-causative is also used in the applicative sense.",6929,,
+568,9.1,,,"There are several applicative formatives: -(e)l- (also used for causatives), –lel (probably a reduplicated form of applicative –(e)l), -ñma. The first two applicatives are used for both beneficiary, but also the experiencer/(external) possessor/affected argument. For –ñma also called malefactive applicative it is more typical to encode experiencer/malefactive source.",6930,,
 ,,,,,6931,,
 560,7.1,167,indirective,,,480,
 546,7.2,172,neutral,,,459,
 546,11,4,only R,"Relative clauses are pronominal, introduced by a relativizer. If an object is relativized, it can optionally be resumed by a resumptive pronoun. Only the first object R can be relativized in a Double Object Construction.
 To relativize T a SVC should be used.",,,
-568,7.2,197,Secundative,,,481,
-568,7.1,166,neutral,,,481,
-568,5.1,51,no flagging,,6912,481,
-568,5.2,66,no flagging,,6911,481,
+568,7.2,197,secundative,,,,
+568,7.1,166,neutral,,,,
+568,5.1,51,no flagging,,6912,,
+568,5.2,66,no flagging,,6911,,
 572,4,31,dominant R > T,,,,
 572,10,132,only T,"The passive is differentiated from active and middle through the choice of a special suffix and special inflection/conjugation (e.g., in aorist). (Passive and middle are not distinguished for many forms though; e.g., in the present tense). Only T can be passivized",,,
 573,10,133,either T or R,"The passive is differentiated from active and middle through the choice of a special suffix and special inflection/conjugation (e.g., in aorist). (Passive and middle are not distinguished for many forms though; e.g., in the present tense). Normally either T or R can be passivized; from tréphO ’feed’ however (also with ‘steal’) only R can be apparently passivized (can be due to the fact that it appears more often in the secundative genitive construction).",,,
@@ -5610,7 +5589,6 @@ by |-ɬɣ̇-|. The same holds for P-relativizer |-ɣaɣ̇-/ kɨ-/-kɨŋaɣ̇-|",
 582,11,2,only T,"Only absolutive arguments (S, P, R in the secundative construction, or T in the indirective construction) can be relativized through the use of the 
 by |-ɬɣ̇-|. The same holds for P-relativizer |-ɣaɣ̇-/ kɨ-/-kɨŋaɣ̇-|",6992,,
 581,14,141,only R,"Reflexivization through detranisitivization (change to intransitive inflection), in combination with the use of reflexive pronoun (in 1,2 persdon identical to personal pronouns). Interestingly the (absolutive) reflexive pronoun is demoted to ablative-modalis.In the secundative construction this reflexive pronoun in T.",6987,,
-581,14,140,only T,"Reflexivization through detranisitivization (change to intransitive inflection), in combination with the use of reflexive pronoun (in 1,2 persdon identical to personal pronouns). Interestingly the (absolutive) reflexive pronoun is demoted to ablative-modalis.In the secundative construction this reflexive pronoun in T.",6987,,
 581,15,146,only R,"Reciprocal formation is similar to reflexivization except for the use of a plural (or dual) reflexive pronoun. It also involves detransitivization of the verb, i combination with the demotion of the absolutive R. The reflexive R appears in the allative case.",6989,,
 582,15,318,only T,"Reciprocal formation is similar to reflexivization except for the use of a plural (or dual) reflexive pronoun. It also involves detransitivization of the verb, in combination with the demotion of the absolutive NP. In the indirective construction apparently only T can be replaced by the reflexive pronoun.",,,
 582,13,28,only THM,"Only ergative A and absolutive NP can be genitivized agreeing in number with the third-person possessed nominaliser. Thus, in the indirective pattern T is genitivized.",6991,,
@@ -5666,7 +5644,6 @@ by |-ɬɣ̇-|. The same holds for P-relativizer |-ɣaɣ̇-/ kɨ-/-kɨŋaɣ̇-|",
 220,40.1,,,T can be animate and pronominal.,,,
 221,40.1,,,T can be animate and pronominal.,,,
 598,4,31,dominant R > T,,,,
-615,5.1,,,"There is an oblique proform vai , which marks the patient of the verb ‘give’",,,
 625,4,31,dominant R > T,,,,
 626,6.1,88,prefixes,Only R is cross-indexed on the verb.,,,
 640,6.1,,,only R is indexed on the Verb,,,
@@ -5802,8 +5779,7 @@ both objs may be preceded by the set II enclitics
 may occur in either order
 both can be relativized",,711,
 879,96,,,neutral,,711,
-880,5.1,,,"mostly NOM, sometimes DAT
-may be indexed on the verb",,,
+880,5.1,,,"mostly NOM, sometimes DAT; may be indexed on the verb",,,
 880,6.1,,,either may be indexed on the verb,,,
 880,5.2,,,NOM,,,
 880,6.2,,,either may be indexed on the verb,,,
@@ -5812,10 +5788,6 @@ may be indexed on the verb",,,
 884,8,,,"the ditransitive verbs yinya- ‘give’ and th(r)la-l ‘give, put’ typically select two accusative objects",,576,56
 885,5.1,,,both T and R get ABS case,,519,27
 885,5.2,,,both T and R get ABS case,,519,27
-888,8,,,"trinominal bases_
-cikɣ̇- : cik·ɣ̇aa ‘he gives her (something)’
-tunə- : tunnaa ‘he gives it [to someone]’
-# only binominal?",,686,343
 891,8,,,ciʔ- ‘give’,,,
 893,8,,,other verbs BEN.APPL -si,,,
 896,96,,,"IO is marked by tɨ́ ‘to, for’
@@ -11271,33 +11243,6 @@ also ex. ‘say’, ‘show’ p. 32",,743,56
 614,91,,,,,,
 614,9.2,,,,,,
 614,96,,,,,,
-615,4,,,,,,
-615,5.2,,,,,,
-615,6.1,,,,,,
-615,6.2,,,,,,
-615,7.1,,,,,,
-615,7.2,,,,,,
-615,8,,,,,,
-615,9.1,,,,,,
-615,10,,,,,,
-615,14,,,,,,
-615,15,,,,,,
-615,11,,,,,,
-615,12,,,,,,
-615,13,,,,,,
-615,16,,,,,,
-615,17,,,,,,
-615,19,,,,,,
-615,18.1,,,,,,
-615,18.2,,,,,,
-615,20,,,,,,
-615,40.1,,,,,,
-615,40.3,,,,,,
-615,90,,,,,,
-615,40.2,,,,,,
-615,91,,,,,,
-615,9.2,,,,,,
-615,96,,,,,,
 616,4,,,,,,
 616,5.1,,,,,,
 616,5.2,,,,,,
@@ -11825,34 +11770,6 @@ also ex. ‘say’, ‘show’ p. 32",,743,56
 640,91,,,,,,
 640,9.2,,,,,,
 640,96,,,,,,
-641,4,,,,,,
-641,5.1,,,,,,
-641,5.2,,,,,,
-641,6.1,,,,,,
-641,6.2,,,,,,
-641,7.1,,,,,,
-641,7.2,,,,,,
-641,8,,,,,,
-641,9.1,,,,,,
-641,10,,,,,,
-641,14,,,,,,
-641,15,,,,,,
-641,11,,,,,,
-641,12,,,,,,
-641,13,,,,,,
-641,16,,,,,,
-641,17,,,,,,
-641,19,,,,,,
-641,18.1,,,,,,
-641,18.2,,,,,,
-641,20,,,,,,
-641,40.1,,,,,,
-641,40.3,,,,,,
-641,90,,,,,,
-641,40.2,,,,,,
-641,91,,,,,,
-641,9.2,,,,,,
-641,96,,,,,,
 642,4,,,,,,
 642,5.1,,,,,,
 642,5.2,,,,,,
@@ -15075,34 +14992,6 @@ also ex. ‘say’, ‘show’ p. 32",,743,56
 768,91,,,,,,
 768,9.2,,,,,,
 768,96,,,,,,
-769,4,,,,,,
-769,5.1,,,,,,
-769,5.2,,,,,,
-769,6.1,,,,,,
-769,6.2,,,,,,
-769,7.1,,,,,,
-769,7.2,,,,,,
-769,8,,,,,,
-769,9.1,,,,,,
-769,10,,,,,,
-769,14,,,,,,
-769,15,,,,,,
-769,11,,,,,,
-769,12,,,,,,
-769,13,,,,,,
-769,16,,,,,,
-769,17,,,,,,
-769,19,,,,,,
-769,18.1,,,,,,
-769,18.2,,,,,,
-769,20,,,,,,
-769,40.1,,,,,,
-769,40.3,,,,,,
-769,90,,,,,,
-769,40.2,,,,,,
-769,91,,,,,,
-769,9.2,,,,,,
-769,96,,,,,,
 770,4,,,,,,
 770,5.1,,,,,,
 770,5.2,,,,,,
@@ -15435,34 +15324,6 @@ also ex. ‘say’, ‘show’ p. 32",,743,56
 782,91,,,,,,
 782,9.2,,,,,,
 782,96,,,,,,
-783,4,,,,,,
-783,5.1,,,,,,
-783,5.2,,,,,,
-783,6.1,,,,,,
-783,6.2,,,,,,
-783,7.1,,,,,,
-783,7.2,,,,,,
-783,8,,,,,,
-783,9.1,,,,,,
-783,10,,,,,,
-783,14,,,,,,
-783,15,,,,,,
-783,11,,,,,,
-783,12,,,,,,
-783,13,,,,,,
-783,16,,,,,,
-783,17,,,,,,
-783,19,,,,,,
-783,18.1,,,,,,
-783,18.2,,,,,,
-783,20,,,,,,
-783,40.1,,,,,,
-783,40.3,,,,,,
-783,90,,,,,,
-783,40.2,,,,,,
-783,91,,,,,,
-783,9.2,,,,,,
-783,96,,,,,,
 784,4,,,,,,
 784,5.1,,,,,,
 784,5.2,,,,,,
@@ -15904,34 +15765,6 @@ also ex. ‘say’, ‘show’ p. 32",,743,56
 801,91,,,,,,
 801,9.2,,,,,,
 801,96,,,,,,
-802,4,,,,,,
-802,5.1,,,,,,
-802,5.2,,,,,,
-802,6.1,,,,,,
-802,6.2,,,,,,
-802,7.1,,,,,,
-802,7.2,,,,,,
-802,8,,,,,,
-802,9.1,,,,,,
-802,10,,,,,,
-802,14,,,,,,
-802,15,,,,,,
-802,11,,,,,,
-802,12,,,,,,
-802,13,,,,,,
-802,16,,,,,,
-802,17,,,,,,
-802,19,,,,,,
-802,18.1,,,,,,
-802,18.2,,,,,,
-802,20,,,,,,
-802,40.1,,,,,,
-802,40.3,,,,,,
-802,90,,,,,,
-802,40.2,,,,,,
-802,91,,,,,,
-802,9.2,,,,,,
-802,96,,,,,,
 803,5.1,,,,,,
 803,5.2,,,,,,
 803,6.1,,,,,,
@@ -16041,34 +15874,6 @@ also ex. ‘say’, ‘show’ p. 32",,743,56
 806,91,,,,,,
 806,9.2,,,,,,
 806,96,,,,,575,
-807,4,,,,,,
-807,5.1,,,,,,
-807,5.2,,,,,,
-807,6.1,,,,,,
-807,6.2,,,,,,
-807,7.1,,,,,,
-807,7.2,,,,,,
-807,8,,,,,,
-807,9.1,,,,,,
-807,10,,,,,,
-807,14,,,,,,
-807,15,,,,,,
-807,11,,,,,,
-807,12,,,,,,
-807,13,,,,,,
-807,16,,,,,,
-807,17,,,,,,
-807,19,,,,,,
-807,18.1,,,,,,
-807,18.2,,,,,,
-807,20,,,,,,
-807,40.1,,,,,,
-807,40.3,,,,,,
-807,90,,,,,,
-807,40.2,,,,,,
-807,91,,,,,,
-807,9.2,,,,,,
-807,96,,,,,,
 808,4,,,,,,
 808,5.1,,,,,,
 808,5.2,,,,,,
@@ -16453,12 +16258,12 @@ also ex. ‘say’, ‘show’ p. 32",,743,56
 821,9.2,,,,,,
 821,96,,,,,,
 822,4,,,,,,
-822,5.1,,,,,,
-822,5.2,,,,,,
+822,5.1,51,no flagging,,,,
+822,5.2,66,no flagging,,,,
 822,6.1,,,,,,
 822,6.2,,,,,,
-822,7.1,,,,,,
-822,7.2,,,,,,
+822,7.1,166,neutral,,,,
+822,7.2,172,neutral,,,,
 822,8,,,,,,
 822,9.1,,,,,,
 822,10,,,,,,
@@ -16916,34 +16721,6 @@ also ex. ‘say’, ‘show’ p. 32",,743,56
 838,91,,,,,,
 838,9.2,,,,,,
 838,96,,,,,,
-839,4,,,,,,
-839,5.1,,,,,,
-839,5.2,,,,,,
-839,6.1,,,,,,
-839,6.2,,,,,,
-839,7.1,,,,,,
-839,7.2,,,,,,
-839,8,,,,,,
-839,9.1,,,,,,
-839,10,,,,,,
-839,14,,,,,,
-839,15,,,,,,
-839,11,,,,,,
-839,12,,,,,,
-839,13,,,,,,
-839,16,,,,,,
-839,17,,,,,,
-839,19,,,,,,
-839,18.1,,,,,,
-839,18.2,,,,,,
-839,20,,,,,,
-839,40.1,,,,,,
-839,40.3,,,,,,
-839,90,,,,,,
-839,40.2,,,,,,
-839,91,,,,,,
-839,9.2,,,,,,
-839,96,,,,,,
 840,4,,,,,,
 840,6.1,,,,,,
 840,6.2,,,,,,
@@ -16996,34 +16773,6 @@ also ex. ‘say’, ‘show’ p. 32",,743,56
 841,91,,,,,,
 841,9.2,,,,,,
 841,96,,,,,,
-842,4,,,,,,
-842,5.1,,,,,,
-842,5.2,,,,,,
-842,6.1,,,,,,
-842,6.2,,,,,,
-842,7.1,,,,,,
-842,7.2,,,,,,
-842,8,,,,,,
-842,9.1,,,,,,
-842,10,,,,,,
-842,14,,,,,,
-842,15,,,,,,
-842,11,,,,,,
-842,12,,,,,,
-842,13,,,,,,
-842,16,,,,,,
-842,17,,,,,,
-842,19,,,,,,
-842,18.1,,,,,,
-842,18.2,,,,,,
-842,20,,,,,,
-842,40.1,,,,,,
-842,40.3,,,,,,
-842,90,,,,,,
-842,40.2,,,,,,
-842,91,,,,,,
-842,9.2,,,,,,
-842,96,,,,,,
 843,4,,,,,,
 843,5.1,51,no flagging,,,,
 843,5.2,66,no flagging,,,,
@@ -17995,34 +17744,6 @@ also ex. ‘say’, ‘show’ p. 32",,743,56
 880,91,,,,,,
 880,9.2,,,,,,
 880,96,,,,,,
-881,4,,,,,,
-881,5.1,,,,,,
-881,5.2,,,,,,
-881,6.1,,,,,,
-881,6.2,,,,,,
-881,7.1,,,,,,
-881,7.2,,,,,,
-881,8,,,,,,
-881,9.1,,,,,,
-881,10,,,,,,
-881,14,,,,,,
-881,15,,,,,,
-881,11,,,,,,
-881,12,,,,,,
-881,13,,,,,,
-881,16,,,,,,
-881,17,,,,,,
-881,19,,,,,,
-881,18.1,,,,,,
-881,18.2,,,,,,
-881,20,,,,,,
-881,40.1,,,,,,
-881,40.3,,,,,,
-881,90,,,,,,
-881,40.2,,,,,,
-881,91,,,,,,
-881,9.2,,,,,,
-881,96,,,,,635,
 882,4,,,,,,
 882,5.1,,,,,,
 882,5.2,,,,,,
@@ -18159,33 +17880,6 @@ also ex. ‘say’, ‘show’ p. 32",,743,56
 887,91,,,,,,
 887,9.2,,,,,,
 887,96,,,,,,
-888,4,,,,,,
-888,5.1,,,,,,
-888,5.2,,,,,,
-888,6.1,,,,,,
-888,6.2,,,,,,
-888,7.1,,,,,,
-888,7.2,,,,,,
-888,9.1,,,,,,
-888,10,,,,,,
-888,14,,,,,,
-888,15,,,,,,
-888,11,,,,,,
-888,12,,,,,,
-888,13,,,,,,
-888,16,,,,,,
-888,17,,,,,,
-888,19,,,,,,
-888,18.1,,,,,,
-888,18.2,,,,,,
-888,20,,,,,,
-888,40.1,,,,,,
-888,40.3,,,,,,
-888,90,,,,,,
-888,40.2,,,,,,
-888,91,,,,,,
-888,9.2,,,,,,
-888,96,,,,,,
 889,4,,,,,,
 889,5.1,,,,,,
 889,5.2,,,,,,
@@ -18777,34 +18471,6 @@ also ex. ‘say’, ‘show’ p. 32",,743,56
 910,91,,,,,,
 910,9.2,,,,,,
 910,96,,,,,,
-911,4,,,,,,
-911,5.1,,,,,,
-911,5.2,,,,,,
-911,6.1,,,,,,
-911,6.2,,,,,,
-911,7.1,,,,,,
-911,7.2,,,,,,
-911,8,,,,,,
-911,9.1,,,,,,
-911,10,,,,,,
-911,14,,,,,,
-911,15,,,,,,
-911,11,,,,,,
-911,12,,,,,,
-911,13,,,,,,
-911,16,,,,,,
-911,17,,,,,,
-911,19,,,,,,
-911,18.1,,,,,,
-911,18.2,,,,,,
-911,20,,,,,,
-911,40.1,,,,,,
-911,40.3,,,,,,
-911,90,,,,,,
-911,40.2,,,,,,
-911,91,,,,,,
-911,9.2,,,,,,
-911,96,,,,,,
 912,4,,,,,,
 912,5.1,,,,,,
 912,5.2,,,,,,
@@ -19112,3 +18778,16 @@ also ex. ‘say’, ‘show’ p. 32",,743,56
 16152620110,9.2,,,,,,
 16152620110,96,,,,,,
 69,5.1,44952445585,possessive index,possessive form if pronoun,,,
+46064943584,4,35,either order,,,,
+46064943584,7.1,167,indirective,,,,
+46064943584,7.2,172,neutral,,,,
+46064943584,12,14,both R and T,,,,
+46064943584,5.1,43,suffixal case,,,,
+46064943584,5.2,65,suffixal case,,,,
+46064943584,19,158,neither recipient nor theme,,,,
+46064943584,6.1,84,no indexing,,,,
+46064943584,6.2,114,no indexing,,,,
+46064943584,10,132,only T,,,,
+46064943584,15,,,,,,
+46064943584,11,1,either T or R (but not both),,,,
+46064943584,14,,,,,,

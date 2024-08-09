@@ -42,7 +42,7 @@ Example_ID,Language_ID,Example_type,Primary_text,Original_orthography,Gloss,Anal
 174,2447,,Mí má hŋ́ dàbē yīí-è bà kē |à’ā (yīí kē) g||ú.,,1SG TOP see children.N3 N3-REL 2SG PST give (N3 TR) water,Mí má hŋ́ dàbē yīí-è bà kē |à’ā (yīí kē) g||ú.,I see the children whom you gave water.,,,333,(ex.11a)
 178,673,,nyɔ́núi [ɖè Kɔ̀kú xɛ́lɛ́ xwé ɔ́ ti] ɔ́,,woman [that Koku show house DET Ø] DET,nyɔ́núi [ɖè Kɔ̀kú xɛ́lɛ́ xwé ɔ́ ti] ɔ́,the woman (to) whom Koku showed the house,,,189,89 (ex.49c)
 181,1657,,bisma haŋ-a kae,,Bisma say-NMLZ son,bisma haŋ-a kae,The son who is called Bisma,,,40,55 (ex.25)
-184,1755,,Eshkam znagad wii-debnaming iw CHANGE-wii=boodwe-m-g,,? ? ?-? that REL-FUT=burn-INDF-3.SBJ(C),Eshkam znagad wii-debnaming iw CHANGE-wii=boodwe-m-g,It’s getting increasingly difficult to get firewood. (lit. It’s getting increasingly difficult to get that wich one burns(as fuel).),,,362,15 (35c)
+184,1755,,Eshkam znagad wii-debnaming iw wii=boodwe-m-g,,X X X-X that REL.FUT=burn-INDF-3.SBJ(C),Eshkam znagad wii-debnaming iw CHANGE-wii=boodwe-m-g,It’s getting increasingly difficult to get firewood. (lit. It’s getting increasingly difficult to get that wich one burns(as fuel).),,,362,15 (35c)
 186,815,,swíwʔləs kwθə ni ʔám-əs-t-əs ʔə kwθə púkw,,boy DET AUX give-APPL-TR-3SG.SBJ OBL DET book,swíwʔləs kwθə ni ʔám-əs-t-əs ʔə kwθə púkw,It’s a boy that he gave the book to.,,,366,96 (ex.25)
 187,2552,,Izinsizwa [ubaba azinike incwadi] zisebenza kulelibhilidi,,young_men [my:father CRP:them:gave letter] they:work in:this:building,Izinsizwa [ubaba azinike incwadi] zisebenza kulelibhilidi,The young men to whom my father gave the letter work in this building,,,367,190 (ex.46)
 189,1776,,Mɔhesɔ ciṭhi lekh-i-th-iba lokɔ-ṭi-rɔ stri mɔr-i-gɔl-a.,,Mahésa letter write-CVB-AUX-INF person-ART-GEN wife die-CV-V2:go:PST-3SG,Mɔhesɔ ciṭhi lekh-i-th-iba lokɔ-ṭi-rɔ stri mɔr-i-gɔl-a.,The wife of the man whom Mahésa had written a letter died.,,,368,391 (ex.4)
@@ -100,7 +100,7 @@ Example_ID,Language_ID,Example_type,Primary_text,Original_orthography,Gloss,Anal
 420,422,,[ngoh sung keuih ge] go bun syu,,[I give he REL] that CLF book,[ngoh sung keuih ge] go bun syu,the book I gave him,,,8,108 (ex.8a)
 423,2447,,Mí má hŋ́ g||ú kā-è bà kē |à’ā (kā kē) dàbē.,,1SG TOP see water.N4 N4-REL 2SG PST give (N4 TR) children,Mí má hŋ́ g||ú kā-è bà kē |à’ā (kā kē) dàbē.,I see the water that you gave the children.,,,333,(ex.11b)
 427,673,,xwéi [ɖè Kɔ̀kú xɛ́lɛ́ ti Àsíbá] ɔ,,house [that Koku show Ø Asiba] DET,xwéi [ɖè Kɔ̀kú xɛ́lɛ́ ti Àsíbá] ɔ,the house that Koku showed Asiba,,,189,89 (ex.50c)
-433,1755,,akina giw CHANGE-wiij(i)=anokiim-Ø-ag-ig,,all those REL-with=work-AN-OBJ-1.SBJ(C)-3PL,akina giw CHANGE-wiij(i)=anokiim-Ø-ag-ig,... all of those I work with ...,,,362,15 (35b)
+433,1755,,akina giw wiij(i)=anokiim-Ø-ag-ig,,all those REL.with=work.AN-OBJ-1.SBJ(C)-3PL,akina giw wiij(i)=anokiim-Ø-ag-ig,... all of those I work with ...,,,362,15 (35b)
 435,815,,níɬ kwθə púkw ni s-ʔám-əs-t-s kwθə swíwʔləs,,3.EMPH DET book AUX NMLZ-give-ADV.A-TR-3.POSS DET boy,níɬ kwθə púkw ni s-ʔám-əs-t-s kwθə swíwʔləs,It’s a book that he gave the boy.,,,366,103 (ex.56)
 436,2552,,Indaba [obewungitshela yona] iliqiniso na?,,story [RC.on:were:me:tell it] it:(is):true INTER,Indaba [obewungitshela yona] iliqiniso na?,Is the story that you were telling me true?,,,367,28 (ex.7)
 440,483,,ʔíHmiiʔMH (ʔiL) kaL-kuéʔL (hã́uM) ieʔL míMŋiíL ø,,bread (COMP) PST-give.DI.3 (that.IN) elder pig ø,ʔíHmiiʔMH (ʔiL) kaL-kuéʔL (hã́uM) ieʔL míMŋiíL ø,(that) bread roll (that) the old man gave the pig,,,5379340125,314 (ex.965c)
@@ -530,7 +530,7 @@ Example_ID,Language_ID,Example_type,Primary_text,Original_orthography,Gloss,Anal
 2355,2115,,Badru a-li-mw-andik<i>a barua Ahmed,,Badru he-PST-to.him-write<DAT> letter Ahmed,Badru a-li-mw-andik<i>a barua Ahmed,Badru wrote a letter to Ahmed.,,,389,44 (ex.54b)
 2361,1264,,badi-k bere-s ar k’ai dolokun d-u-xen-u,,old.man-ERG boy-DAT one good garment PV-II3.APPL-make-AOR.I3S,badi-k bere-s ar k’ai dolokun d-u-xen-u,The old man made a nice garment for the boy.,,,393,2 (ex.6)
 2362,431,,ən mia hiwə wa-ʂun-ai,,I you house make-APPL-PRS,ən mia hiwə wa-ʂun-ai,I build you a house.,,,457,
-2365,1763,,ʔi=nükx-i=xü=k ta=tu:tʔ-aʔ-i=k nü:nüʔi=yoʔwe,,A.3(ABS)=go-COMD=EV=AN C.3(ERG)=put-APPL1-INCD=AN tortilla A.3(POSS)=husband,ʔi=nükx-i=xü=k ta=tu:tʔ-aʔ-i=k nü:nüʔi=yoʔwe,She went to take the tortillas to her husband.,,,398,664 (ex.1c)
+2365,1763,,ʔi=nükx-i=xü=k ta=tu:tʔ-aʔ-i=k nü:nüʔi=yoʔwe,,A.3(ABS)=go-COMD=EV=AN C.3(ERG)=put-APPL1-INCD=AN A.3(POSS)=husband,ʔi=nükx-i=xü=k ta=tu:tʔ-aʔ-i=k nü:nüʔi=yoʔwe,She went to take them (the tortillas) to her husband.,,,398,664 (ex.1c)
 2368,1817,,ó ne xat likh dittaa.,,he ERG letter write give:PST.M.SG,ó ne xat likh dittaa.,He wrote the letter (for someone).,,,391,253
 2369,2502,,Ó kó̩ ilé fún mi,,3SG.SBJ build house DON 1SG.OBJ,Ó kó̩ ilé fún mi,he built me a house.,,,850,153
 2373,1253,,dákô òtèddì lócə̀ rìŋó,,woman 3s:cook.BEN.PFV man meat,dákô òtèddì lócə̀ rìŋó,The woman cooked the meat for the man.,,,403,120 (ex.1b)
@@ -650,7 +650,7 @@ Example_ID,Language_ID,Example_type,Primary_text,Original_orthography,Gloss,Anal
 2844,921,,Un posto è stato offerto a Clelia (da Luca).,,a job has been offered to Clelia (by Luca),Un posto è stato offerto a Clelia (da Luca).,Clelia was offered a job (by Luca).,,,,...
 2845,651,,An umbrella was given my sister.,,an umbrella was given my sister,An umbrella was given my sister.,An umbrella was given my sister.,,,,...
 2847,7,,Turki bo-p-te-n.,,sleigh give-MED-AOR-3SG,Turki bo-p-te-n.,The sleigh was given away.,,,,
-2856,1387,,tāmen wèn-le wŏ xŭduō wènti,,they ask-PFV I many questions,tāmen wèn-le wŏ xŭduō wènti,They asked me many questions.,,(CORRESPONDING ACTIVE!),261,504
+2856,1387,,tāmen wèn-le wŏ xŭduō wènti,,they ask-PFV I many questions,tāmen wèn-le wŏ xŭduō wènti,They asked me many questions.,,This is the corresponding non-passive construction.,261,504
 2861,4,,ʈiiccaraal kuʈʈikǝ pustakam koʈukkappeʈʈu,,teacher:INS child:DAT book:NOM give:PASS:PST,ʈiiccaraal kuʈʈikǝ pustakam koʈukkappeʈʈu,The book was given to the child by the teacher.,,,259,269 (ex.1354b)
 2878,13,,kuphe ka-phi-kana-nihka di-a pi-na,,fish REL-sell-PASS-TAM(ANT+RECP.P.VIS) 3SG.NF-go 2SG-OBJ,kuphe ka-phi-kana-nihka di-a pi-na,Fish has been sold to you (or by you).,,,236,259
 2880,14,,Ta hrímata *?(tis) stálthikan tis Marías apó ton Pétro.,,the.NOM money.NOM her.GEN was.sent the.GEN Maria.GEN by the.ACC Petros.ACC,Ta hrímata *?(tis) stálthikan tis Marías apó ton Pétro.,The money was sent to Mary by Peter.,,,233,(ex.20)
@@ -983,7 +983,7 @@ Example_ID,Language_ID,Example_type,Primary_text,Original_orthography,Gloss,Anal
 6334,2225,,nyee-kaanáapa,,1/2-tell,nyee-kaanáapa,I told you.,,,78,141 (ex.11c)
 6335,2239,,te-shut-pe-ban.,,1SG+3PL-shirt-make-PST,te-shut-pe-ban.,I made shirts.,,,282,304 (ex.12)
 6338,2359,,æz in kelj-i ær-gir-om,,I.DIR this girl-OBL.F DU-take-1SG,æz in kelj-i ær-gir-om,I will marry this girl.,,,404,
-6341,2447,,"Kutx-aj l’wi k-haqani-knen, teļwe sәmt sato-ļ i-s-nen",,Kutx-PEJ very INF.III>-be.angry<INF.III even ground dig-INF.VI be PRS.3SG:3SG,"Kutx-aj l’wi k-haqani-knen, teļwe sәmt sato-ļ i-s-nen",Kutx was very angry and even dug up the ground.,,,333,(ex.61)
+6341,2447,,"Kutx-aj l'wi k-haqani-knen, teļwe sәmt sato-ļ i-snen.",,Kutx-PEJ very INF.III-be.angry-INF.III even ground dig-INF.VI be-PRS.3SG:3SG,"Kutx-aj l’wi k-haqani-knen, teļwe sәmt sato-ļ i-s-nen",Kutx was very angry and even dug up the ground.,,,333,(ex.61)
 6342,2471,,U Peo-Ø sota’i-ta jamta-k.,,the Pedro-NOM pot-ACC break-PST.PFV,U Peo-Ø sota’i-ta jamta-k.,Pedro broke the pot.,,,1,292 (ex.6a)
 6345,2552,,[Ngi-ya-m-bona] umuntu.,,[1SG:SC-LF-1.OC-see] person,[Ngi-ya-m-bona] umuntu.,I see the person.,,,372,73 (ex.6b)
 6348,2558,,na-vlalu=o,,3SG-hit=2SG,na-vlalu=o,He hits you.,,,229,192 (ex. 197a)
@@ -1022,7 +1022,6 @@ Example_ID,Language_ID,Example_type,Primary_text,Original_orthography,Gloss,Anal
 6418,1180,,a naey noo attey-oo,,3SG.SBJ TR:1SG.OBJ give tea-DEF.SG,a naey noo attey-oo,She gave me the tea.,,,414,285
 6419,1180,,a na attey-oo noo yane,,3SG.SBJ TR tea-DEF.SG give 1SG.DAT,a na attey-oo noo yane,She gave the tea to me.,,,414,285
 6421,1180,,noo-ndi,,give-PASS,noo-ndi,be given,,,414,167
-6422,1180,,isa-bor-ey,,"river-person-DEF.PL grandparent, REL DAT.3PL.SBJ IPFV say “Sii”",isa-bor-ey,"The ancestressX of the river people, to whomX they said (=whom they called) “Sii”.",,,414,245
 6423,1180,,wala [mey še] n bana?,,Q [who DAT] 2SG.SBJ pay,wala [mey še] n bana?,To whom did you pay (the fare)?,,,414,229
 6424,1180,,[mey še] a nai noo?,,[who DAT] 3SG.SBJ TR:3PL.OBJ give,[mey še] a nai noo?,To whom did she give them?,,,414,285
 6425,1180,,čin noa n-a noo mane?,,what FOC:3SG.SBJ TR-3SG.OBJ give 2SG.DAT,čin noa n-a noo mane?,What did he give you?,,,414,285
@@ -1040,7 +1039,6 @@ Example_ID,Language_ID,Example_type,Primary_text,Original_orthography,Gloss,Anal
 6438,1241,,John wo'wapi wã ophe’thũ.,,John book a buy,John wo'wapi wã ophe’thũ.,John bought a book.,,,178,6
 6441,1241,,Mary John oma'kilote.,,Mary John 3SG.A.borrow.PST.3SG.T.from.me,Mary John oma'kilote.,Mary borrowed John from me. (*Mary borrowed me from John.),,,178,17
 6442,1241,,Mary John etã' oma'lote.,,Mary John from she:borrowed:me,Mary John etã' oma'lote.,Mary borrowed me from John.,,,178,17
-6443,1241,,John wo'wapi wã ophe'thũ.,,John book a buy.,John wo'wapi wã ophe'thũ.,John bought a book.,,"NB here both arguments are 3rd person, hence not indexed.",178,6
 6444,1241,,maya'kte,,kill.2SG.A>1SG.P,maya'kte,You kill me.,,An example with indexing.,178,7
 6445,1241,,wicha’ŝa ki wī'yã wā xta'lehã wãyã'ke kihe wo'wapi ki kʔu',,man DET woman a yesterday 3SG.3SG.see DET book DET give,wicha’ŝa ki wī'yã wā xta'lehã wãyã'ke kihe wo'wapi ki kʔu',The man gave the book to the woman he saw yesterday .,,,178,47
 6446,1241,,wicha’ŝa wã xta'lehã wo'wakiyake kihe wĩ'yã ki wo'wapi ophe'kicathũ.,,man a yesterday 3SG.1SG.talk.to DET woman DET book 3SG.3SG.3SG.buy.for,wicha’ŝa wã xta'lehã wo'wakiyake kihe wĩ'yã ki wo'wapi ophe'kicathũ.,The man I talked to yesterday bought the woman a book .,,,178,57
@@ -1055,7 +1053,7 @@ Example_ID,Language_ID,Example_type,Primary_text,Original_orthography,Gloss,Anal
 6458,1241,,wa-ya’wa,,ANTIP-read,wa-ya’wa,read/study,,,178,14
 6459,1241,,w-i’gnu,,IND-mention,w-i’gnu,He mentions (unkind) things to him.,,,178,14
 6460,1241,,wa-w-i’gnu,,IND-IND-mention,wa-w-i’gnu,He mentions (unkind) things to people.,,,178,14
-6461,1241,,wa-ki'-pazo,,1SG-APPL-show,wa-ki'-pazo,I show it to him.,,–(ki)ci- applicative is exclusively benefactive,178,18
+6461,1241,,wa-ki'-pazo,,1SG-APPL-show,wa-ki'-pazo,I show it to him.,,-(ki)ci- applicative is exclusively benefactive,178,18
 6462,1241,,we'-ci-pazo,,1SG-APPL-show,we'-ci-pazo,I showed it for him. (I pointed it out for him.),,,178,18
 6463,1241,,kte ma+ya+ye.,,kill 1.OBJ+2.NOM+cause,kte ma+ya+ye.,You unintentionally made me kill him.,,,419,125
 1780,1426,,Nganaju yaan pawulu-ngara-a kampa-lalha murla-a.,,1SG.GEN wife child-PL-ACC cook-PST meat-ACC,Nganaju yaan pawulu-ngara-a kampa-lalha murla-a.,My wife cooked meat for the kids.,,,411,68
@@ -1065,7 +1063,7 @@ Example_ID,Language_ID,Example_type,Primary_text,Original_orthography,Gloss,Anal
 6470,1426,,Kartu marrari-i kuyil-yu mir.ta nhuura-ma-rninyji pawulu-ngara-a.,,2SG.NOM word-ACC bad-ACC not knowing-CAUS-FUT child-PL-ACC,Kartu marrari-i kuyil-yu mir.ta nhuura-ma-rninyji pawulu-ngara-a.,Don’t you teach the children bad words.,,,411,67
 6472,62,,cáca weysisam icen kore.,,elder be.poor.Japanese money give,cáca weysisam icen kore.,The elderly man gave the poor Japanese some money.,,,422,42
 6473,62,,ekasi (káni) kampi en-kore.,,grandfather (1SG.PRON) letter 1SG.ACC-give,ekasi (káni) kampi en-kore.,The elderly man sent me a letter.,,,422,54
-6474,62,,"Nen orun e ye wa, ...",,who to you say COORD.CIZER,"Nen orun e ye wa, ...",To whom are you saying...,,A similar example is found in Refsing (1986: 166),423,126
+6474,62,,"Nen orun e ye wa, ...",,who to you say COORD.CIZER,"Nen orun e ye wa, ...",To whom are you saying...,,A similar example is found in Refsing (1986: 166).,423,126
 6475,62,,en-kore,,1SG.ACC-give,en-kore,You (SG) give/gave (that) to me.,,,422,60
 6476,62,,ekasi (káni) en-nukar,,grandfather (1SG.PRON) 1SG.ACC-see,ekasi (káni) en-nukar,The elderly man sees me.,,,422,54
 6478,62,,si-kasuy-re,,self-assist-CAUS,si-kasuy-re,to have (someone) help (me),,,422,215
@@ -1114,8 +1112,8 @@ Example_ID,Language_ID,Example_type,Primary_text,Original_orthography,Gloss,Anal
 6523,2809,,"Mali ‘-kis-onuhmuw-ew-a-n tapakon, wot olu skitap.",,Mary 3-PRF-buy-APPL-DIR-n car this TOP man,"Mali ‘-kis-onuhmuw-ew-a-n tapakon, wot olu skitap.","Mary bought a car for him, this man.",,,426,189
 6524,2234,,namo_ro kïn-ekarama wïja wëri,,3.PR.COL_EXCT 3.PST.PFV-give 1:DAT woman,namo_ro kïn-ekarama wïja wëri,They gave me a woman.,,,437,424
 6525,2234,,sen wï-rï ëë-ja,,3.INAN.PROX 1.A-make:PRS.PFV 2-DAT,sen wï-rï ëë-ja,I made this for you.,,,437,424
-6526,2234,,Maani_ja n-ekarama.,,Maani_DAT 3.A.O-give:PRS.PFV,Maani_ja n-ekarama.,S/he gave it to Maani.,,Preverbal R,437,533
-6527,2234,,n-ekarama Maani_ja.,,3.A.O-give:PRS.PFV Maani_DAT,n-ekarama Maani_ja.,S/he gave it to Maani.,,Postverbal R,437,533
+6526,2234,,Maani_ja n-ekarama.,,Maani_DAT 3.A.O-give:PRS.PFV,Maani_ja n-ekarama.,S/he gave it to Maani.,,preverbal R,437,533
+6527,2234,,n-ekarama Maani_ja.,,3.A.O-give:PRS.PFV Maani_DAT,n-ekarama Maani_ja.,S/he gave it to Maani.,,postverbal R,437,533
 6528,2234,,Kurapina tï-njo inonta-ne.,,Kurapina 3.R-husband abandon-PST.PFV,Kurapina tï-njo inonta-ne.,Kurapina abandoned her husband.,,,437,501
 6529,2234,,nï-pï,,3.A.O-bathe:PRS.PFV,nï-pï,S/he has bathed him/her/it.,,,437,501
 6530,2234,,irë-npë_pëe joi tï-wë-e wïja.,,3.INAN.ANAPH-PST_ABL lizard.SP REM.PST-shoot-REM.PST 1:A,irë-npë_pëe joi tï-wë-e wïja.,After that I shot a lizard.,,,437,553
@@ -1250,7 +1248,7 @@ Example_ID,Language_ID,Example_type,Primary_text,Original_orthography,Gloss,Anal
 6674,2241,,ma-ŋgohw-é,,FUT-sell-3SG.G.ERG,ma-ŋgohw-é,She will sell it.,,,468,(ex. 39b)
 6675,2241,,hwą́ ni-ʃn-ų̆ lapi-û mbambâ ʦi na-ʔni ahmá,,Juan PFV-give-3SG.G.PEG>3PL pencil-POSS.3PL.N every REL.AN IPFV-make.3SG.N.ERG twiner,hwą́ ni-ʃn-ų̆ lapi-û mbambâ ʦi na-ʔni ahmá,Juan gave hisi pencil to everyi student.,,"‘Student’ or ‘pupil’ is expressed as a relative clause: ‘(one who) makes twiner’. The basic meaning of the term is ‘one who prays’, a coinage which goes back to times when the only education was religious education. ‘To make twiner’ must originate in a description of the handling of the rosary during prayers.",468,(ex. 44a)
 6676,2264,,utun a̰n kin-ta-laa-maka-ḭ̰škḭ̰,,3PL go 1.OBJ-3PL.SBJ-3PL.OBJ-hand.REL-give,utun a̰n kin-ta-laa-maka-ḭ̰škḭ̰,They are handing them to me. (OR: They are handing me to them.),,,441,270 (ex.340)
-6678,2576,,*dúdù-í íí-suzan tàmáá dùmùrík,,teach-HT language-Suzan language Tima,*dúdù-í íí-suzan tàmáá dùmùrík,teach Suzan the Tima language.,,,448,(ex. 38)
+6678,2576,,*dúdù-í íí-suzan tàmáá dùmùrík,,teach-HT language-Suzan language Tima,*dúdù-í íí-suzan tàmáá dùmùrík,Teach Suzan the Tima language.,,,448,(ex. 38)
 6679,2576,,ŋɨ́nʌ́ʌ̀k íídì ɘ́-yâh,,carry water PREP-LOC.head,ŋɨ́nʌ́ʌ̀k íídì ɘ́-yâh,carry the water on the head,,,448,(ex. 24)
 6680,2576,,ɲcʌ̀-lɛ̀m-ɪ́ɪ́-dʌ̀ ìt̪úk ŋ̀-kɨ̀lʌ́ŋìì,,PROG-taste-HT.DAT-1SG porridge PREP-tongue,ɲcʌ̀-lɛ̀m-ɪ́ɪ́-dʌ̀ ìt̪úk ŋ̀-kɨ̀lʌ́ŋìì,I am tasting the food for myself with the tongue.,,,448,(ex. 25)
 6681,2576,,ɲcʌ̀-ŋ̀-kéél-dʌ̀ cɪ́mɪ̀ɪ̀ íí-hamid,,PROG-1SG-buy-1SG:SBJ goat DAT-Hamid,ɲcʌ̀-ŋ̀-kéél-dʌ̀ cɪ́mɪ̀ɪ̀ íí-hamid,I bought a goat for Hamid.,,,448,(ex. 40)
@@ -1280,7 +1278,7 @@ Example_ID,Language_ID,Example_type,Primary_text,Original_orthography,Gloss,Anal
 6705,2264,,ut kin-ḭškḭ-ni-la(ɬ),,3SG 1.OBJ-give.X.to.Y-+OBJ-PFV,ut kin-ḭškḭ-ni-la(ɬ),S/he gave X to me for Y. /S/he gave X to Y for me.,,,441,341 (ex.298)
 6358,2561,,ó̲lí òkpòsò nwú émà yé ó̲lí ò̲nwìmè.,,the woman take.hold yam ALL the farmer,ó̲lí òkpòsò nwú émà yé ó̲lí ò̲nwìmè.,The woman took yam to the farmer.,,,1707,116
 6707,2561,,òjè fí úkpóràn yé àlèkè/*lí àlèkè.,,Oje throw stick ALL Aleke/*APPL Aleke,òjè fí úkpóràn yé àlèkè/*lí àlèkè.,Oje threw a stick to Aleke.,,,1707,126
-6708,2561,,òjè kpé ítàn vbíé̲é̲  àlèkè,,Oje narrate saying become.apparent.to Aleke,òjè kpé ítàn vbíé̲é̲  àlèkè,Oje conveyed a saying to Aleke.,,,450,(ex. 43 b)
+6708,2561,,òjè kpé ítàn vbíéé àlèkè,,Oje narrate saying become.apparent.to Aleke,òjè kpé ítàn vbíé̲é̲  àlèkè,Oje conveyed a saying to Aleke.,,,450,(ex. 43 b)
 6709,2561,,òjè ré̲ úháóbì vbíé̲é̲ àlèkè.,,Oje take poison.arrow become.apparent.to Aleke,òjè ré̲ úháóbì vbíé̲é̲ àlèkè.,Oje showed the poison arrow to Aleke.,,,1707,138 (58)
 6710,2561,,òjè kpé ítàn lí áléké hò̲n.,,Oje narrate saying APPL Aleke hear,òjè kpé ítàn lí áléké hò̲n.,Oje narrated a saying to Aleke.,,,1707,"131
 (43 a)"
@@ -1374,7 +1372,7 @@ Example_ID,Language_ID,Example_type,Primary_text,Original_orthography,Gloss,Anal
 6801,2359,,æz kot æd-duz-om veréwn=i / esdæ=ra,,I.DIR coat DUR-sew-1SG OPB=2SG / you:OBL=for,æz kot æd-duz-om veréwn=i / esdæ=ra,I’ll sew you a coat/I’ll sew a coat for you.,,,404,(ex.37)
 6802,2359,,æz bez=í _r-koš-om.,,I.DIR goat=2SG DUR-kill-1SG,æz bez=í _r-koš-om.,I’ll kill your goat. NOT: I’ll kill you a goat. NOT: I’ll kill a goat for you.,,,404,(ex. 44)
 6803,1263,,o-tua la aka a-o-lai “o! vo’vou roa fin vo-ma-re kini feu-m hin”.,,3SG.POSS-wife(F) SG.F.ART then 3SG.M.OBJ-3SG.SBJ-tell oh boy(M) one.SG.M 3SG.M.FOC 3PL.OBJ-take-NF ACT go.inland-SG.M 3SG.M.EFOC,o-tua la aka a-o-lai “o! vo’vou roa fin vo-ma-re kini feu-m hin”.,Then his wife told him: “Oh! One boy brought them inland”.,,,409,229 (ex. 337)
-6804,1088,,utás qaˀd du-ɤqɤt-bu-q-a-b-n-a,,close coat 3.M-top-3SG.COREF-CAUS-APPL-PST-MOM.TR,utás qaˀd du-ɤqɤt-bu-q-a-b-n-a,He covered himself with the coat right away.,,,455,(ex. 31)
+6804,1088,,utás qaˀd du-ɤqɤt-bu-q-a-b-na,,close coat 3.M-top-3SG.COREF-CAUS-APPL-PST-MOM.TR,utás qaˀd du-ɤqɤt-bu-q-a-b-n-a,He covered himself with the coat right away.,,,455,(ex. 31)
 6805,2539,,Sorkǎa Ø noo nòoru talìbǒo sè.,,fisherman.DEF PFV give money student.DEF to,Sorkǎa Ø noo nòoru talìbǒo sè.,The fisherman gave money to the student.,,,473,4
 6806,2539,,Sorkǎa nà nòoru noo talìbǒo sè.,,fisherman.DEF PFV money give student.DEF to,Sorkǎa nà nòoru noo talìbǒo sè.,The fisherman gave money to the student.,,,473,4
 6807,2539,,Sorkǎa Ø nà noo talìbǒo sè nòoru.,,fisherman.DEF Ø PFV give student.DEF to money,Sorkǎa Ø nà noo talìbǒo sè nòoru.,The fisherman gave money to the student.,,This example is only mentioned in a footnote.,473,4
@@ -1399,8 +1397,7 @@ Example_ID,Language_ID,Example_type,Primary_text,Original_orthography,Gloss,Anal
 6832,292,,Kuàkú fà-lì sìkǎ-n màn-nìn mín.,,Kouakou take-PFV money-DEF give-PFV 1SG,Kuàkú fà-lì sìkǎ-n màn-nìn mín.,Kouakou gave me the money.,,,459,(ex.21b)
 6833,929,,si-makï-he-we uwaka,,1SGA-give-DISTR-2R meatT,si-makï-he-we uwaka,I will give each of you meat.,,,460,(ex. 8a)
 6834,929,,osni’ka se’-makï-we uwaka dihnitye’ke,,PRO:1SG 1SG-give-2 meat PRO:2PL,osni’ka se’-makï-we uwaka dihnitye’ke,I will give you all the meat.,,,460,(ex. 14a)
-6835,929,,wase’wa sih-k’i-makï pïlata sah-nay-k’i-chuduwa’-ko makaya,,yesterday 1PL.EXCL-INV-give silver 1PL.EXCL-SBJ-APPL-pay-N clothes,wase’wa sih-k’i-makï pïlata sah-nay-k’i-chuduwa’-ko makaya,Yesterday they gave us money to buy clothes.,,"[3A>1R]
-Note that the verb stem k’ichuduwa ‘buy something’ is monotransitive and mak’ichuduwa ‘buy something from someone’ ditransitive. The same goes for k’iwehe ‘sell something’ and mak’iwehe ‘sell something to someone’.",460,(ex. 14b)
+6835,929,,wase’wa sih-k’i-makï pïlata sah-nay-k’i-chuduwa’-ko makaya,,yesterday 1PL.EXCL-INV-give silver 1PL.EXCL-SBJ-APPL-pay-N clothes,wase’wa sih-k’i-makï pïlata sah-nay-k’i-chuduwa’-ko makaya,Yesterday they gave us money to buy clothes.,,[3A>1R] – Note that the verb stem k’ichuduwa ‘buy something’ is monotransitive and mak’ichuduwa ‘buy something from someone’ ditransitive. The same goes for k’iwehe ‘sell something’ and mak’iwehe ‘sell something to someone’.,460,(ex. 14b)
 6836,929,,dih-k’i-makï’-ka uwaka,,2PL-APPL-give-F.SG meat,dih-k’i-makï’-ka uwaka,She gives you all the meat.,,[3A>2R],460,(ex. 14d)
 6837,929,,as-kay-si-ne’-k’e osni’ka ihwana cha’uwayo may-makï-mo uwaka,,1SG.INV-JUS-say-N-BEN PRO:1SG Juan what_time SBJ-give-1 meat,as-kay-si-ne’-k’e osni’ka ihwana cha’uwayo may-makï-mo uwaka,Let Juan tell me at what time he will give me the meat.,,"In the case of sine ‘say’ the ‘benefactive’ marker -k’e seems to occur obligatorily whenever the verb is used in a ditransitive construction ‘tell’, thus, in a construction with a T and an R argument. In its monotransitive use the ‘benefactive’, obviously, does not pop up.",460,(ex. 15a)
 6838,929,,si-yupa-he warusu keteno ma’irï,,1SG-sow-DISTR rice sugarcane plantain,si-yupa-he warusu keteno ma’irï,"I sowed rice, sugarcane and plantain.",,[1A>3P],460,(ex. 4a)
@@ -1444,7 +1441,7 @@ Note that the verb stem k’ichuduwa ‘buy something’ is monotransitive and m
 6876,2578,,akka pempak pid-u-ŋ=go duwacha ti-e.,,"1SG[NOM] bread[NOM] give-3SG.P[PST]-1SG.A=NMLZ boy[NMLZ] 
 [3SG.S]come-PST",akka pempak pid-u-ŋ=go duwacha ti-e.,The boy I gave the bread to came.,,,469,(ex. 19d)
 6877,2578,,Joge-ŋa them pid-e u-nisa?,,Joge-ERG what[NOM] [3SG.A]give-PST[3SG.P] 3SG.POSS-younger.sibling[NOM],Joge-ŋa them pid-e u-nisa?,What did Joge give to his younger sibling?,,"Question for T, R here postverbal",469,(ex. 24a)
-6878,2578,,pacche sa-ŋa pid-u-k-u-ce=naŋ paisa,,then who-ERG give-3.P-NPST-3NSG.P=but money,pacche sa-ŋa pid-u-k-u-ce=naŋ paisa,"But then, who will give money to them?",,"Question for A, T here postverbal",469,397
+6878,2578,,pacche sa-ŋa pidu-k-u-ce=naŋ paisa,,then who-ERG give-3.P-NPST-3NSG.P=but money,pacche sa-ŋa pid-u-k-u-ce=naŋ paisa,"But then, who will give money to them?",,"Question for A, T here postverbal",469,397
 6879,2578,,huŋ=go kitap pi-na-ce.,,DEM.SG=NMLZ book[NOM] [3SG.S]give-REFL-REFL[PST],huŋ=go kitap pi-na-ce.,He gave the book to himself.,,,469,(ex. 27b)
 6880,2578,,Rikhi(-nɨŋ) Janak(-nɨŋ) kalam pi-ka-pi u-lus-a-ce.,,Rikhi(-COM) Jamak(-COM) pen[NOM] give-RECP-give 3NSG.S-AUX-PST-DU,Rikhi(-nɨŋ) Janak(-nɨŋ) kalam pi-ka-pi u-lus-a-ce.,Rikhi and Janak gave a pen to each other.,,,469,(ex. 29b)
 6881,2578,,Lakhman(-nɨŋ) Lokendra(-nɨŋ) Joge(-nɨŋ) mukseĩkhaŋ meiʔ-ka-meiʔ u-lus-a-ce.,,Lakhman(-COM) Lokendra(-COM) Joge(-COM) know cause-RECP-cause 3NSG.S-AUX-PST-DU,Lakhman(-nɨŋ) Lokendra(-nɨŋ) Joge(-nɨŋ) mukseĩkhaŋ meiʔ-ka-meiʔ u-lus-a-ce.,Lakhman and Lokendra introduced each other to Joge.,,,469,(ex. 29c)
@@ -1483,8 +1480,7 @@ Note that the verb stem k’ichuduwa ‘buy something’ is monotransitive and m
 6920,1407,,elu-nge-n kiñe waka,,give-PASS-1SG one cow,elu-nge-n kiñe waka,I was given one cow.,,,481,(ex. 17a)
 6921,1407,,*elu-nge-i kiñe waka iñche,,give-PASS-IND(3) one cow I,*elu-nge-i kiñe waka iñche,*One cow me was given.,,,481,(ex. 17b)
 6922,1407,,wïlï-nge-n,,give-PASS-1SG,wïlï-nge-n,I was given away.,,,481,(ex. 16)
-6923,1407,,maria [[ñi elu-e-tew] chi iyael],,Mary [[1SG.POSS give-INV-NF] DEM food],maria [[ñi elu-e-tew] chi iyael],The food that Mary gave me.,,,481,(ex. 56)
-6924,1407,,chi wentru [ñi S elu-fiR-el S] chi iyael (ti domo S),,DEM man [3SG.POSS give-DIR.3.OBJ-NF] 1 food (DET.2 woman),chi wentru [ñi S elu-fiR-el S] chi iyael (ti domo S),The man that she (the woman) gave the food (to).,,,481,(ex. 57)
+6923,1407,,maria [[ñi elu-e-tew] chi iyael],,Mary [[1SG.POSS give-INV-NF] DEM food],maria [[ñi elu-e-tew] chi iyael],The food that Mary gave me.,,,1113,(ex. 56)
 6925,1407,,wiya elu-fi-i-iñ kiñe waka (ta=ñi pïñeñ),,yesterday give-DIR.3.OBJ-IND-1PL one cow (DET.1=1.POSS child),wiya elu-fi-i-iñ kiñe waka (ta=ñi pïñeñ),I gave a cow to my child yesterday.,,,481,(ex. 9a)
 6926,1407,,*elun kiñe waka,,give.1SG one cow,*elun kiñe waka,*I gave one cow.,,,481,(ex. 9b)
 6927,1407,,pi-fi-i-iñ,,say-DIR.3.OBJ-IND-1PL,pi-fi-i-iñ,I said to him.,,,481,(ex. 35d)
@@ -1621,11 +1617,10 @@ Note that the verb stem k’ichuduwa ‘buy something’ is monotransitive and m
 7074,2605,,ma m-aḍ man an ŋgab-nɨ ki,,I 1SG.PST-give water ? man-ART to,ma m-aḍ man an ŋgab-nɨ ki,I gave the man water.,,,764,86
 7075,2606,,ŋo3 si3 la4 mƜ6 no7 ŋe5 a3ʨĩ7,,1SG give ASP 3SG POSTP shoes CL,ŋo3 si3 la4 mƜ6 no7 ŋe5 a3ʨĩ7,I’ve given her a pair of shoes.,,,791,671
 7076,2608,,tɔ peè jo,,give.IMP.2SG to.1SG food,tɔ peè jo,Give me food,,,652,271
-7077,2609,,Ke man-aa vai nna bonogho toom.,,3SG.REAL give-1SG.OBJ OBL he pig two,Ke man-aa vai nna bonogho toom.,He gave me two pigs.,,,669,453
 7078,2610,,gubo sudi yu-re ĩsi-ya bũ,,foot clothes O-OBJ give-IMPV you,gubo sudi yu-re ĩsi-ya bũ,Give me some boots.,,,646,27
 7079,2610,,so gudakoa yu-re-bã ĩsi-ba bu,,she uterus I-OBJ-CONTR give-IMPV you,so gudakoa yu-re-bã ĩsi-ba bu,Give me her uterus,,,646,67
 7080,2610,,ti-re yua-re ĩ-o-ka-bĩ,,That-OBJ we-OBJ see-CAUS-PST-3MS,ti-re yua-re ĩ-o-ka-bĩ,He showed us that.,,,646,102
-7081,2611,,me-d’ a n-iku bakũ nu-karaká-waka,,3PL-give 1SG-for other 1SG-put.on-PURP,me-d’ a n-iku bakũ nu-karaká-waka,They gave me another garment to put on.,,,518,26
+7081,2611,,me-d’a n-iku bakũ nu-karaká-waka,,3PL-give 1SG-for other 1SG-put.on-PURP,me-d’a n-iku bakũ nu-karaká-waka,They gave me another garment to put on.,,,518,26
 7082,2612,,E-ho Yakobus-at sunit o-ba lo-ho.,,I-ERG Yakobus-ERG paper you-DAT give-COMPL,E-ho Yakobus-at sunit o-ba lo-ho.,I Yakobus have given this letter to you.,,"(see also p. 26, 58)",554,42
 7083,2613,,ngâksia rangah tangkâ a pêk,,child to money he give,ngâksia rangah tangkâ a pêk,He gives money to the child,,,725,122
 7084,2613,,a sinah xhabu ka pêk,,him to book I give,a sinah xhabu ka pêk,I give the book to him.,,,725,122
@@ -1640,11 +1635,10 @@ Note that the verb stem k’ichuduwa ‘buy something’ is monotransitive and m
 7095,2626,,ene ni-la loubo nimini kuli,,I 1SG.REAL-give crab to dog,ene ni-la loubo nimini kuli,I gave the crab to the dog.,,,777,583
 7097,2631,,ambikā-jā nishi rupyā dāyo,,Ambika-to two rupee give,ambikā-jā nishi rupyā dāyo,Give two rupees to Ambika!,,,775,35
 7098,2631,,ushi-se Jolyā-jā ulaŋ rupyā dananco?,,they-ERG Jolyā-to how.many rupee they.gave,ushi-se Jolyā-jā ulaŋ rupyā dananco?,How many rupees did they give to Jolya?,,,775,35
-7099,2710,,khɲom ʔaoy siəvphɤ̀u tɤ̀u nɛ̀ək,,I give book go you,khɲom ʔaoy siəvphɤ̀u tɤ̀u nɛ̀ək,I give you the book.,,,643,78
+7099,2710,,khɲom ʔaoy siəvphɤ̀u tɤ̀u nɛ̀ək,,I give book go you,khɲom ʔaoy siəvphɤ̀u tɤ̀u nɛ̀ək,I give you the book.,,indirective flagging,643,78
 7100,2710,,nɛ̀ək ʔaoy siəvphɤ̀u mɔ̀:k khɲom,,you give book come I,nɛ̀ək ʔaoy siəvphɤ̀u mɔ̀:k khɲom,You give the book to me.,,"(see also p. 77, 141, 268)",643,"78, 268"
 7101,2632,,wa ha capi mã ampo gõ,,1 FUT Capi to something give,wa ha capi mã ampo gõ,I will give something to Capi.,,"(see also p. 168, 167, 131, 175)",718,179
 7102,2634,,Ànì:-skàya kàcì:y-a:khâ:nè kì:hli,,3PL.A-man 1>3PL.ANIM-give.living.thing.PRES dog,Ànì:-skàya kàcì:y-a:khâ:nè kì:hli,I am giving the men a dog.,,,741,69
-7103,2635,,ka-kuó: niu ku: ʔi nïi,,PST-give 2SG money REL that,ka-kuó: niu ku: ʔi nïi,That one gave you the money.,,(see also p. 111),735,99
 7104,2900,,ky3 thʰə1 tir2 ʨhir2 ma4,,give he bit money PTCL,ky3 thʰə1 tir2 ʨhir2 ma4,Give him some money.,,,11642038704,60
 7105,2637,,an-at-o iskali chim-a:-li-tok,,I-NOM-CONTR.FOC money 2.DAT-give-1NOM-PAST,an-at-o iskali chim-a:-li-tok,I gave the money to you.,,,571,3
 7106,2637,,alla iskali im-a:-li-tok,,child money 3DAT-give-1NOM-PAST,alla iskali im-a:-li-tok,I gave money to the child.,,,571,40
@@ -1698,18 +1692,18 @@ Note that the verb stem k’ichuduwa ‘buy something’ is monotransitive and m
 7156,2678,,Yosi naten l-o et ha-sefer.,,Yosi gave to-him ACC the-book,Yosi naten l-o et ha-sefer.,Yosi gave him the book.,,,10157389346,
 7157,2680,,kɔ̝̀nɔ̝́k-ìn náupáŋ púon à pé:k,,Kanak-ERG boy cloth ? gave,kɔ̝̀nɔ̝́k-ìn náupáŋ púon à pé:k,Kanak gave the boy cloth.,,,592,48
 7158,2680,,ràm-á kúomàh pé:rɔ̝̀h,,Ram-GEN to give,ràm-á kúomàh pé:rɔ̝̀h,Give it to Ram.,,"For kúomàh, see p. 85.",592,48
-7159,2681,,kuv muab nyaj rua miv nyuab,,I give money DIR child =,kuv muab nyaj rua miv nyuab,I give money to the child.,,,622,186
+7159,2681,,kuv muab nyaj rua miv nyuab,,I give money DIR child child,kuv muab nyaj rua miv nyuab,I give money to the child.,,,622,186
 7160,2682,,Poní mahu Amina ria koburu,,give.3PL.OBJ sweet.potato Amina ART child,Poní mahu Amina ria koburu,Amina gave the children sweet potato.,,,573,191
 7161,2682,,Sumi valé te Amina rao karua igara.,,PRF give.3PL.OBJ PRP Amina 1SG two fish,Sumi valé te Amina rao karua igara.,I have given two fishes to Amina.,,,573,191
 7162,2683,,də niλ̄-ǻr t'ex̂ is-t'i-i,,me give-FUT book sibling-OBL-DAT,də niλ̄-ǻr t'ex̂ is-t'i-i,I give the book to (my brother).,,(see also p. 124),804,45
 7163,2683,,α̊bu-l ož̊̌-di-i t'ex̓̂ niλ̄-ər,,father-ERG boy-OBL-DAT book give-PRET,α̊bu-l ož̊̌-di-i t'ex̓̂ niλ̄-ər,Father gave the boy a book.,,,804,124
 7164,2684,,Òbí nyère Chíké egó,,Obi give Chike money,Òbí nyère Chíké egó,Obi gives Chike money.,,,736,140
 7165,2685,,maa be eakwa nyabukwa-a nyarama-ke,,give PST man.NOM book-ACC girl-DAT,maa be eakwa nyabukwa-a nyarama-ke,The man gave the book to the girl.,,,752,47
-7166,2686,,sabla ka-m fa-ai-h-ual-u,,,sabla ka-m fa-ai-h-ual-u,Give me two.,,,747,125
+7166,2686,,sabla ka-m fa-ai-h-ual-u,,two 1-GL CL-give-REC-DL-IMP,sabla ka-m fa-ai-h-ual-u,Give me two.,,,747,125
 7167,2687,,cuo cun-ga axča delar,,he.ERG he-ALL money.ABS gave,cuo cun-ga axča delar,He gave him money.,,,696,194
 7168,2688,,i hhar-ta han-m-iis dí-r hhawata,,S.3 stick-F1:CON give-DIR-3SG.M.PRS place:CON-F man,i hhar-ta han-m-iis dí-r hhawata,He gives the sticks to a man.,,,687,99
 7169,2688,,dī-r-óg-i,,place-F-2SG.POSS-DIR,dī-r-óg-i,to you,,(also p. 121),687,110
-7170,2688,,sawadi inós-u-síng-i haniseek,,present he-DEM2-DIR,sawadi inós-u-síng-i haniseek,Give him there a present.,,,687,114
+7170,2688,,sawadi inós-u-síngi haniseek,,present he-DEM2-DIR give,sawadi inós-u-síng-i haniseek,Give him there a present.,,,687,114
 7171,2688,,muungay g-u-na 'ameni-r-i haníis,,bracelet O3-OM-PAST woman-F-DIR give.3SG.M.PAST,muungay g-u-na 'ameni-r-i haníis,He gave the woman a bracelet.,,"(also p. 245, 284)",687,244
 7172,2827,,múmbín á-tsə̀-βɛ´ɛ´γ-ə́ mwânə̀ ínámə̀ γì ɲámə̀,,hunter 3SG-PAST-give-STEM child haunch of meat,múmbín á-tsə̀-βɛ´ɛ´γ-ə́ mwânə̀ ínámə̀ γì ɲámə̀,The hunter gave the child a haunch of meat.,,,638,62
 7173,2689,,t-in-tz'aj ixi'im t-a' winik-ej,,COMPL-1SG.ERG-give corn to-ART man-TOP,t-in-tz'aj ixi'im t-a' winik-ej,I gave corn to the man.,,"(also p. 265, 316)",633,191
@@ -1723,7 +1717,7 @@ Note that the verb stem k’ichuduwa ‘buy something’ is monotransitive and m
 7181,2695,,kyan moñeq u-ñ-r̃i r̃i ramat r̃a-moul kyan malal,,I food 1SG.SUBJ-give-3PL.OBJ PL person 3PL.SUBJ-work I garden,kyan moñeq u-ñ-r̃i r̃i ramat r̃a-moul kyan malal,I’ll give food to the people who work in my garden.,,(see also p. 214),730,209
 7182,2696,,Ngath garkoez-ipa woerab manin,,I.ERG man-DAT coconut gave.SG,Ngath garkoez-ipa woerab manin,I gave the coconut to the man/ the men.,,,562,15
 7183,2698,,ywyrapar-a o-me'eŋ kara'iw-a upe,,bow-N 3-give non.Indian-N DAT,ywyrapar-a o-me'eŋ kara'iw-a upe,I gave the bow to the non-Indian. (Portuguese: Eu deu o arco ao não-indio.),,(also p. 157),749,72
-7184,2700,,bà-āā nɛ̀ zḭ́á̰ píá zím,,3PL-PROG give [food]NP  [PL ancestral.spirit]NP,bà-āā nɛ̀ zḭ́á̰ píá zím,Someone is giving food to the ancestors.,,,639,203
+7184,2700,,bà-āā nɛ̀ zḭ́á̰ píá zím,,3PL-PROG give food PL ancestral.spirit,bà-āā nɛ̀ zḭ́á̰ píá zím,Someone is giving food to the ancestors.,,,639,203
 7185,2700,,māā nɛ̀ zḭ́á̰ ŋwíí,,1SG.PROG give food child,māā nɛ̀ zḭ́á̰ ŋwíí,I am feeding a baby.,,,639,306
 7186,2701,,sus'i:la tanna priyani-ge insulin koTTaLu.,,Susheela REF.POSS lover-DAT insulin give.PST.3SG.F,sus'i:la tanna priyani-ge insulin koTTaLu.,Susheela gave insulin to her lover.,,,11643308537,161
 7187,2704,,vɛ̄ dʌ́ (pè) Khōmɛ̀ rɯ̄,,1SG give ASP Khome silver,vɛ̄ dʌ́ (pè) Khōmɛ̀ rɯ̄,I give Khome money.,,(also p. 86),761,155
@@ -1763,13 +1757,13 @@ Note that the verb stem k’ichuduwa ‘buy something’ is monotransitive and m
 7221,2734,,Go kaju-ká kám zo bi.,,1SG dog-LOC little.bit food give,Go kaju-ká kám zo bi.,I gave so food to the dog.,,,716,711
 7222,2735,,Ruš-a gadadi-z cük ga-na.,,girl-ERG boy-DAT flower give-AOR,Ruš-a gadadi-z cük ga-na.,The girl gave a flower to the boy.,,,508,88
 7223,2736,,ʔú'ən,,give,ʔú'ən,to give somebody something,,,511,159
-7224,2736,,ʔúm'ən-c-as kw‿s-Mom ti‿kk̮'wál̮'us‿a,,give-1SG.OBJ-3SG.SUBJ ART Mom ART-basket,ʔúm'ən-c-as kw‿s-Mom ti‿kk̮'wál̮'us‿a,Mom gave me a basket.,,,511,229
-7225,2736,,ʔúm'n-as kw‿-s-ʃam ti‿c'qáx̌ʔ‿a,,give-3SG.SUBJ Sam horse,ʔúm'n-as kw‿-s-ʃam ti‿c'qáx̌ʔ‿a,He gave Sam a horse.,,,511,229
+7224,2736,,ʔúm'ən-c-as kw-s-Mom ti‿kk̮'wál̮'us‿a,,give-1SG.OBJ-3SG.SUBJ X-ART-Mom ART.basket,ʔúm'ən-c-as kw‿s-Mom ti‿kk̮'wál̮'us‿a,Mom gave me a basket.,,,511,229
+7225,2736,,ʔúm'n-as kw-s-ʃam tic'qáx̌ʔa,,give-3SG.SUBJ ART-X-Sam horse,ʔúm'n-as kw‿-s-ʃam ti‿c'qáx̌ʔ‿a,He gave Sam a horse.,,,511,229
 7226,2737,,i da-w-ik arnikgan mimilung d-∅-inymuldi-rri=wany,,yes DEF-G1-DISTAL old.woman teacher 1MIN.OBJ-3.SUBJ-give-PAST.IMPFV=DUR,i da-w-ik arnikgan mimilung d-∅-inymuldi-rri=wany,"Yes, that old woman always used to give me tucker",,,624,103
 7227,2739,,ŋwa33 la33 su44 tɛ55 tho21ɣɯ21 gɯ21 o44,,I come NML2 OBJ book give PFV,ŋwa33 la33 su44 tɛ55 tho21ɣɯ21 gɯ21 o44,I gave the person who came a book.,,(also p. 227),552,229
 7228,2599,,Da-siki-fa no ly-myn.,,I-give-FUT it him-BEN,Da-siki-fa no ly-myn.,I will give it to him.,,"(also p. 55, 84, 109ff, 65)",713,56
 7229,2741,,yo itɛwɛ ɛnɛyan ilɛ ɛtɛ iy.,,I 1SG.give food 3SG.go to he,yo itɛwɛ ɛnɛyan ilɛ ɛtɛ iy.,I gave food to him.,,,619,53
-7230,2741,,yo itɛeɛy ilɛ ɛtɛ iy,,,yo itɛeɛy ilɛ ɛtɛ iy,I gave it to him.,,,619,53
+7230,2741,,yo itɛeɛy ilɛ ɛtɛ iy,,I 1SG.give 3SG.go to he,yo itɛeɛy ilɛ ɛtɛ iy,I gave it to him.,,,619,53
 7231,2741,,iy ipwɛy imɛ ɛtɛ yo.,,he 3SG.say 3SG.come to me,iy ipwɛy imɛ ɛtɛ yo.,He said it to me.,,,619,129
 7232,2740,,Tai hou na ho ade-a wini-o?,,what thither 3SG IRR give-3SG DDAT-2SG,Tai hou na ho ade-a wini-o?,What will I give you?,,,630,555
 7233,2742,,n-e-enka mwaana mukaanda,,1SG-PST-give child book,n-e-enka mwaana mukaanda,I gave the child a book. (?),,,613,5
@@ -1782,14 +1776,14 @@ Note that the verb stem k’ichuduwa ‘buy something’ is monotransitive and m
 7240,2747,,pi-taà nu-che antesjo,,2SG-give 1SG-to spyglass,pi-taà nu-che antesjo,Give me the spyglass.,,,798,49
 7241,2748,,həm hun-ka kitab də-it ch-iəinh,,I he-DAT book give-IMPF AUX.PRES-1>3HON,həm hun-ka kitab də-it ch-iəinh,I gave him a book.,,,796,492
 7242,2749,,hif-i·=bit=s Maria cʾakwa·-qapt,,ROOT-give=PAST=1SG.IND Maria one-round.object,hif-i·=bit=s Maria cʾakwa·-qapt,I gave Maria a dollar.,,,569,121 (to 124)
-7243,2750,,ma ∅-tzaj t-q'o-˥n Mal xkoo˥ya w-ee-ky',,RECP 3SG.ABS 3SG.ERG-give-DIR Maria tomato 1SG-DAT-1SG,ma ∅-tzaj t-q'o-˥n Mal xkoo˥ya w-ee-ky',Maria gave me a tomato.,,(also 183),597,279
+7243,2750,,ma tzaj t-q'o-˥n Mal xkoo˥ya w-ee-ky',,RECP 3SG.ABS 3SG.ERG-give-DIR Maria tomato 1SG-DAT-1SG,ma ∅-tzaj t-q'o-˥n Mal xkoo˥ya w-ee-ky',Maria gave me a tomato.,,(also 183),597,279
 7244,2753,,I hoatu ahau i te maaripi ki tana hoa maa Hone,,TA give I ACC the knife to his friend for John,I hoatu ahau i te maaripi ki tana hoa maa Hone,I gave the knife to John’s friend for John.,,,533,272
 7245,2753,,I hoatu a Mere i te keke ki (or maa) tana tama.,,TA give ART Mary ACC the cake to (or to) her son.,I hoatu a Mere i te keke ki (or maa) tana tama.,Mary gave the cake to her son.,,,533,272
 7246,2754,,karawala ngiye nimpe wut atu,,money I.FUT you.OBJ give FUt.AUX,karawala ngiye nimpe wut atu,I shall give you some money.,,,776,34
 7247,2754,,tyikirit kengi=na wut ayi,,cigarette I.NFUT=him.OBJ give PST.AUX,tyikirit kengi=na wut ayi,I gave him a cigarette.,,"(also 50, 54, 60)",776,49
 7248,2754,,kantu yawa tyinta kanga=na wut ayi,,man that spear he.NFUT=him.OBJ give PST.AUX,kantu yawa tyinta kanga=na wut ayi,He gave the spear to that man.,,"OBJ.AGR with R, but since this is restrickted to animate NPs, we don´t know whether R behaves differntly from T (which is never in practice human)",776,70
-7249,2755,,Sudhā-lā phula de,,DAT      give.IMP,Sudhā-lā phula de,Give flowers to Sudha.,,-lā also for defnite/ animate DOs,707,292
-7250,2755,,āʤī nātwā-lā goṣṭa sāŋgte āhe,,DAT,āʤī nātwā-lā goṣṭa sāŋgte āhe,Grandmother is telling a story to the grandson.,,,707,136
+7249,2755,,Sudhā-lā phula de,,Susha-DAT flower give.IMP,Sudhā-lā phula de,Give flowers to Sudha.,,-lā also for defnite/animate DOs,707,292
+7250,2755,,āʤī nātwā-lā goṣṭa sāŋgte āhe,,grandmother grandson-DAT story telling AUX,āʤī nātwā-lā goṣṭa sāŋgte āhe,Grandmother is telling a story to the grandson.,,,707,136
 7251,2756,,ʔiipaa-ny-sh qwaaq kyaa-m,,man-DEM-SBJ deer shoot-REAL,ʔiipaa-ny-sh qwaaq kyaa-m,The man shot the/a  deer.,,,449,41
 7252,2756,,Heather-sh Pam kwnhi aay-m,,Heather-SBJ Pam basket give-REAL,Heather-sh Pam kwnhi aay-m,Heather gave a basket to Pam.,,both IO and DO unmarked,449,42
 7253,2756,,Pam-sh kwnho m-aay-m,,Pam-SBJ basket 2-give-REAL,Pam-sh kwnho m-aay-m,Pam gave you the basket.,,"the verb agrees with the IO, not with the DO",449,42
@@ -1801,25 +1795,22 @@ Note that the verb stem k’ichuduwa ‘buy something’ is monotransitive and m
 7259,2761,,almɛg ya-g ndɨ ŋgiɲ birŋgá-ndə,,meat give-IMPV you.ERG this old.man-DAT,almɛg ya-g ndɨ ŋgiɲ birŋgá-ndə,You give this meat to the old man!,,,583,371/373
 7260,2762,,àdə̅ gúsə̀ bɔ̀ɔ̅-ǹ,,gave money father-his,àdə̅ gúsə̀ bɔ̀ɔ̅-ǹ,He gave the money to his father.,,,650,
 7261,2762,,àdə̅ bɔ̀ɔ̅-ǹ gúsə̀,,gave father-his money,àdə̅ bɔ̀ɔ̅-ǹ gúsə̀,He gave the money to his father (?),,The free word order can in principle lead to ambiguity: M-àdə̅ ɓón̅g ngo̅n ‘I gave the hybra to the boy / I gave the boy to the hybra.’,650,
-7262,2764,,fé kpaná we,,give K. to,fé kpaná we,Give it to K,,fé indirective,641,65
-7263,2764,,nyá gɔ́ a pɛ́nɛ,,,nyá gɔ́ a pɛ́nɛ,Give me a penny.,,kɔ́ secundative,641,119
-7264,2764,,pɛ́nɛ ve ndopói we,,,pɛ́nɛ ve ndopói we,Give the child a penny.,,fé indirective,641,119
-7265,2764,,mbeé ji ve kpaná we,,rice this give K. to,mbeé ji ve kpaná we,Give their rice to K.,,fé indirective,641,119
-7266,2764,,Kpanâ gɔ́ a mbɛ̇íjî,,,Kpanâ gɔ́ a mbɛ̇íjî,Give K. this rice (lit. ‘with this rice’),,,641,119 (or 158)
-7267,2765,,kwaʔa=ní ɨ̃ɨ̃=ka ità nuù=na.,,give=2POL one=ADD flower to=1POL,kwaʔa=ní ɨ̃ɨ̃=ka ità nuù=na.,Give me another flower please.,,preposition body-part-item nuù (see also p. (also 111),671,175
+7262,2764,,fé kpaná we,,give Kpana to,fé kpaná we,Give it to Kpana.,,fé indirective,641,65
+7263,2764,,nyá gɔ́ a pɛ́nɛ,,me give with penny,nyá gɔ́ a pɛ́nɛ,Give me a penny.,,kɔ́ secundative,641,119
+7264,2764,,pɛ́nɛ ve ndopói we,,penny give child to,pɛ́nɛ ve ndopói we,Give the child a penny.,,fé indirective,641,119
+7265,2764,,mbeé ji ve kpaná we,,rice this give Kpana to,mbeé ji ve kpaná we,Give their rice to Kpana.,,fé indirective,641,119
+7266,2764,,Kpanâ gɔ́ a mbɛ̇íjî,,Kpana give with rice,Kpanâ gɔ́ a mbɛ̇íjî,Give Kpana this rice (lit. ‘with this rice’).,,,641,119 (or 158)
+7267,2765,,kwaʔa=ní ɨ̃ɨ̃=ka ità nuù=na.,,give=2POL one=ADD flower to=1POL,kwaʔa=ní ɨ̃ɨ̃=ka ità nuù=na.,Give me another flower please.,,preposition body-part-item nuù (see also p. 111),671,175
 7268,2766,,mə́n tsàa mír Kasham,,I give money Kasham,mə́n tsàa mír Kasham,I gave money to Kasham.,,,744,295
-7269,2767,,Pablo yaan-om so libro ni ʿaalo,,Pablo 3.A.give-APPL the book the woman,Pablo yaan-om so libro ni ʿaalo,"Pablo gave the book to the woman. (Beatriz Gualdieri, p.c.)",,,,
-7270,2768,,Betty-au ̎ka panana-a u-maka Tom-au ̎ka=tɪa,,Betty-ACC banana-ACC 3SG.ACC-give Tom-ACC=also,Betty-au ̎ka panana-a u-maka Tom-au ̎ka=tɪa,"Give a banana to Betty, and to tom too.",,"(see also p. 25, 132f, 140)",698,30
-7271,2768,,Bettyʜi kumaza'-a i-maka- ̎ti,,Betty(NOM) bread-ACC 1SG.ACC-give-TNS,Bettyʜi kumaza'-a i-maka- ̎ti,Betty gave me bread.,,,698,23
+7270,2768,,Betty-auka panana-a u-maka Tom-auka=tɪa,,Betty-ACC banana-ACC 3SG.ACC-give Tom-ACC=also,Betty-au ̎ka panana-a u-maka Tom-au ̎ka=tɪa,"Give a banana to Betty, and to Tom too.",,"(see also p. 25, 132f, 140)",698,30
+7271,2768,,Bettyʜi kumaza'-a i-maka-ti,,Betty(NOM) bread-ACC 1SG.ACC-give-TNS,Bettyʜi kumaza'-a i-maka- ̎ti,Betty gave me bread.,,,698,23
 7272,2769,,u-p-ik-em,,3SG.F.SUBJ.AG-give-3PL.REC-3PL.THM,u-p-ik-em,,,,181,54 ?
 7273,2769,,Manumbiam nuŋunámbo kurúmbe ndeip aka kuande naka kanandúŋge upikem.,,Manumbiam wife children coconuts and bananas and taros she.gave.them.to.them,Manumbiam nuŋunámbo kurúmbe ndeip aka kuande naka kanandúŋge upikem.,"Manumbiam's wife gave the children coconuts, bananas and taros. (German: Manumbian's Frau hat den Kindern Nüsse, bananen und Taro gegeben.)",,(also p. 54),181,9
-7274,2770,,Yäe tye-te jiri-s kirijka yäetyiʾ otyiʾ,,1SG give-3M.OBJ one-F book[F] 1SG-M brother,Yäe tye-te jiri-s kirijka yäetyiʾ otyiʾ,I gave a book to my brother.,,,737,153f
+7274,2770,,Yäe tye-te jiri-s kirijka yäetyiʾ otyiʾ,,1SG give-3M.OBJ one-F book[F] 1SG.M brother,Yäe tye-te jiri-s kirijka yäetyiʾ otyiʾ,I gave a book to my brother.,,,737,153f
 7275,2771,,nii ong miika o-m-i-ng,,1SG DEM+M betel give-1O-2A-PAUC/DL+IMP,nii ong miika o-m-i-ng,Give that betel mixtual (in your mouth) to me.,,,701,118
 7276,2772,,hɛ̅ súŋkù hīŋ yɛ́l-yà,,donner argent donner enfant-POSS.3SG,hɛ̅ súŋkù hīŋ yɛ́l-yà,Il a donné l’argent à son entfant.,,(also p. 510),596,511
 7277,2774,,n-sin caan n-wur,,1SG-give hoe PREP-3MASC,n-sin caan n-wur,I gave him a hoe.,,,609,201
-7279,2775,,anyik ɛɛti ŋaa guruk,,gives man woman money,anyik ɛɛti ŋaa guruk,The man gives the money to the woman.,,,527,107
-7280,2775,,any-in ɛɛti guruc,,,any-in ɛɛti guruc,The man gives the money to you.,,,527,107
-7281,2776,,mù n áy ə́-ní ìyém ày pə̀hś,,I give-him water to horse,mù n áy ə́-ní ìyém ày pə̀hś,I give the horse water.,,,682,175
+7281,2776,,mùn áyə́-ní ìyém ày pə̀hś,,I give-him water to horse,mù n áy ə́-ní ìyém ày pə̀hś,I give the horse water.,,,682,175
 7282,2776,,à sì-ŋ-kì sí,,he give-it-you it,à sì-ŋ-kì sí,He gave it to you.,,"pronominal DO-IO (cf. p. 92, 95)",682,174
 7283,2776,,mù sə̀-ŋ-ní yáŋá,,I give-it-him PRF,mù sə̀-ŋ-ní yáŋá,I gave it to him.,,,682,95
 7284,2776,,mù sə̀-ní t-a̍,,I give-him my-hand,mù sə̀-ní t-a̍,I give him my hand.,,"pronoun - full NP; this language is much like French: nominal object with preposition, pronominal different only in 3rd person",682,95?
@@ -1827,14 +1818,13 @@ Note that the verb stem k’ichuduwa ‘buy something’ is monotransitive and m
 7286,2778,,geŋ gạ-ya-p ni,,2SG 2SG.OBJ-give-1SG.PRS eat,geŋ gạ-ya-p ni,I give it to you to eat.,,,601,60
 7287,2778,,mam-in sirdem remaŋ ma-ind-a-p,,mother-3PL.POSS pain much CONT-3PL.OBJ-give-3PL.PRS,mam-in sirdem remaŋ ma-ind-a-p,They give its mother much pain.,,,601,44
 7288,2779,,Bo Wöku me kredi në-d-∅-ë-o,,I Weku[F] ACC pig 1.SUBJ-give-3SGF.OBJ-SG.SUBJ-INDIC,Bo Wöku me kredi në-d-∅-ë-o,I give Weku the pig.,,,556,72
-7289,2779,,Bo Asi me kredi në-dë-d-ë-o,,Asi[M]                   1SUBJ-give-2S.M.OBJ-SG.SUBJ-INDIC,Bo Asi me kredi në-dë-d-ë-o,I give Asi the pig,,,556,72 ?
-7290,2780,,kɪ-maka-la,,,kɪ-maka-la,Gave him (it)!,,,515,112
+7289,2779,,Bo Asi me kredi në-dë-d-ë-o,,I Asi[M] the pig 1SUBJ-give-2S.M.OBJ-SG.SUBJ-INDIC,Bo Asi me kredi në-dë-d-ë-o,I give Asi the pig,,,556,72 ?
+7290,2780,,kɪ-maka-la,,him-give-it,kɪ-maka-la,Gave him (it)!,,,515,112
 7291,2780,,nieč-maka,,1SG-give,nieč-maka,gives me (it).,,,515,108
-7292,2780,,o-kɪ-maka-kɪ probliema-s,,PST-him-give-PRF-PL problem-PL,o-kɪ-maka-kɪ probliema-s,They gave him troubles.,,,515,23
+7292,2780,,o-kɪ-maka-kɪ probliema-s,,PST-him-give-PRF.PL problem-PL,o-kɪ-maka-kɪ probliema-s,They gave him troubles.,,,515,23
 7293,2780,,no-k-on-maka-k,,I-him-hence-give-PRF,no-k-on-maka-k,I (went and) gave it to him.,,,515,92
 7294,2781,,Bo2la3-nxa3ka2 in3txa2 ũ3hũ1-na1-tu1-wa2.,,ball-CLF.sphere man give-OBJ.3SG-1SG-FUT.IMPF,Bo2la3-nxa3ka2 in3txa2 ũ3hũ1-na1-tu1-wa2.,I’ll give the ball to the man.,,(also p. 4),661,12
-7295,2782,,yaa yiníʾá̢,,,yaa yiníʾá̢,S/he gave it to him/ her. (Faltz 2000 p. 29???),,,,
-7296,2783,,Kdokotela uphe abantwana umuthi,,doctor 3SG.give.PST children medicine,Kdokotela uphe abantwana umuthi,The doctor gave the children medicine.,,,551,21
+7296,2783,,Kdokotela uphe abantwana umuthi.,,doctor 3SG.give.PST children medicine,Kdokotela uphe abantwana umuthi,The doctor gave the children medicine.,,,551,21
 7297,2784,,bábba ka-bé-na mámam bindi-wú-na míbbarda,,father 3SGM.S-go-REM grandmother 3SG.A+3O-give-REM bardicoot,bábba ka-bé-na mámam bindi-wú-na míbbarda,My father went an gave a bardicoot to my two grandmother.,,"(also p. 191, 206, 210, 208, 218, 227)",677,191
 7298,2784,,kórnka bi-rri-wú-na,,yams 3PL.A-3SGM.O-give-REMOTE,kórnka bi-rri-wú-na,They gave him yams.,,,677,280
 7299,2785,,gərib-lai pəisa dine hunchə,,poor-DAT money give.INF be.3SG.PRS,gərib-lai pəisa dine hunchə,It is good to give money to the poor.,,,727,572
@@ -1843,8 +1833,8 @@ Note that the verb stem k’ichuduwa ‘buy something’ is monotransitive and m
 7302,2787,,guya=ndu bura:y ŋu-nhi,,fish(ABS)=you.NOM child(ABS) give-PST,guya=ndu bura:y ŋu-nhi,You gave a child fish.,,syntactically ambigous,585,132
 7303,2788,,arnmanu̅-lu ingii nyarlu-nha wur'a,,man-ERG give.PST woman-ACC money,arnmanu̅-lu ingii nyarlu-nha wur'a,The man gave the woman money.,,(also p. 87),545,90
 7304,2788,,ngayi ingii uthu thundu,,I give.PST dog meat,ngayi ingii uthu thundu,I gave meat to the dog.,,"(also p. 50, 80, 131)",545,128
-7305,2790,,tim kin̉ám-ə-ỷ=t liki:-ʔaká ʔa=s[t] Máry,,FUT give something to Mary,tim kin̉ám-ə-ỷ=t liki:-ʔaká ʔa=s[t] Máry,I am going to give something to Mary.,,(also p. 454f),768,341f
-7306,2791,,Age e fua Loku ki a ia,,give ABS fruit papaya to PERS him,Age e fua Loku ki a ia,Give3 him the papaya.,,(also p. 36),748,32
+7305,2790,,tim kin̉ám-ə-ỷ=t liki:-ʔaká ʔa=s[t] Máry,,FUT give-X-X=X something-something to=to Mary,tim kin̉ám-ə-ỷ=t liki:-ʔaká ʔa=s[t] Máry,I am going to give something to Mary.,,(also p. 454f),768,341f
+7306,2791,,Age e fua Loku ki a ia,,give ABS fruit papaya to PERS him,Age e fua Loku ki a ia,Give him the papaya.,,(also p. 36),748,32
 7307,2792,,ymyk kasandas p'oɣ̍la kʿim-ḍ,,mother pencil child give-FIN,ymyk kasandas p'oɣ̍la kʿim-ḍ,Mother gave the child a pencil.,,,708,46
 7308,2793,,n-ka-ha omworo empiiha,,1SG-RP-give poor.man money,n-ka-ha omworo empiiha,I gave the poor man money.,,(also p. 43),770,92
 7309,2793,,n-ka-gi-mu-ha,,I-PST-it-him-give,n-ka-gi-mu-ha,I gave it to him.,,(also p. 439),770,92
@@ -1868,54 +1858,53 @@ Note that the verb stem k’ichuduwa ‘buy something’ is monotransitive and m
 7327,2806,,kupinavayan a alu tua alak,,I.gave NOM sugar OBL child,kupinavayan a alu tua alak,I gave the sugar to a child.,,,595,194
 7328,2806,,aitsu a susinipavay tjanu-aken,,that NOM you.gave OBL-I,aitsu a susinipavay tjanu-aken,That you gave me.,,,595,194
 7329,2806,,kusipavay tjanu-sun tsu a paisu,,I.give OBL-you that NOM money,kusipavay tjanu-sun tsu a paisu,I give you that money there.,,,595,194
-7330,2806,,sinipavayan a velvel ni-maju tjanu-aken,,he.gave NOM bananas those OBL-I,sinipavayan a velvel ni-maju tjanu-aken,He gave me those bananas there.,,,595,194
+7330,2806,,sinipavayan a velvel nimaju tjanu-aken,,he.gave NOM bananas those OBL-I,sinipavayan a velvel ni-maju tjanu-aken,He gave me those bananas there.,,,595,194
 7331,2808,,ngatha yukurru-ku mantu-yu yinya-nha,,I.NOM dog-ACC meat-ACC give PST,ngatha yukurru-ku mantu-yu yinya-nha,I gave the dog meat.,,T-G order p. 178,575,193
-7332,2809,,mil-a-n,,give-DIR-n,mil-a-n,Give it to him/her.,,,514,29
 7333,2810,,yazi kəṭu-bi panu rənḍra,,mother child-DAT milk gives,yazi kəṭu-bi panu rənḍra,Mother gives milk to the child.,,,753,51
 7334,2810,,thən-bi səṅ e ti rəũ,,horse-DAT grass and water give,thən-bi səṅ e ti rəũ,Give grass and water to the horse.,,,753,51
 7335,2810,,gye kə.niṅ ča kətab rəmog,,I.ERG you-DAT book give,gye kə.niṅ ča kətab rəmog,I’ll give you a book.,,,753,52
-7336,2811,,Músà múnkò júrà tí ʆìllà,,Musa give-CMPL peanuts to Dilla,Músà múnkò júrà tí ʆìllà,Musa gave peanuts to Dilla.,,,507,167
-7337,2812,,y-an-em hasoʾ nalo hañiʾ yawo,,3AG-give-DAT DEM fruit DEM,y-an-em hasoʾ nalo hañiʾ yawo,S/he gave the fruit to the woman.,,no indexing of third person,785,312-316
+7336,2811,,Músà múnkò júrà tí ʆìllà.,,Musa give.CMPL peanuts to Dilla,Músà múnkò júrà tí ʆìllà,Musa gave peanuts to Dilla.,,,507,167
+7337,2812,,y-an-em hasoʾ nalo hañiʾ yawo,,3.AG-give-DAT DEM fruit DEM woman,y-an-em hasoʾ nalo hañiʾ yawo,S/he gave the fruit to the woman.,,no indexing of third person,785,312-316
 7338,2812,,an-y-an-em haso' nalo,,2O-3AG-give-DAT DEM fruit,an-y-an-em haso' nalo,He gave you the fruit.,,,785,312-316
-7339,2813,,tigí kapiigaxiítoii hoa-í,,1 2 pencil give-PROX,tigí kapiigaxiítoii hoa-í,I give the pencil to you.,,,600,206
-7340,2814,,Mingma-ngku tjitji mai u-ngu,,woman-ERG child(ABS) bread(ABS) give-PAST,Mingma-ngku tjitji mai u-ngu,,,"(also p. 45, 60, 61)",550,24
+7339,2813,,tigí kapiigaxiítoii hoa-í,,to.you pencil give-PROX,tigí kapiigaxiítoii hoa-í,I give the pencil to you.,,,600,206
+7340,2814,,Mingma-ngku tjitji mai u-ngu,,woman-ERG child(ABS) bread(ABS) give-PST,Mingma-ngku tjitji mai u-ngu,The woman gave the child bread.,,"(also p. 45, 60, 61)",550,24
 7341,2815,,ŋa-t̪u t̪ala ina kat̪i-n̪a ŋuʏtʏi-ka,,I-ERG COND you.ACC meat-ACC give-PAST,ŋa-t̪u t̪ala ina kat̪i-n̪a ŋuʏtʏi-ka,I would have given you meat.,,,543,221
-7342,2817,,baar'ra 'lee 'num-u-h te'xe,,woman water man-DAT gave,baar'ra 'lee 'num-u-h te'xe,The woman gave the man water.,,,546,11
+7342,2817,,baar'ra 'lee 'num-uh te'xe,,woman water man-DAT gave,baar'ra 'lee 'num-u-h te'xe,The woman gave the man water.,,,546,11
 7343,2819,,yaana urnga ma-ni-tang,,NEG food 2.OBJ 1.SUBJ-give,yaana urnga ma-ni-tang,I’m not going to give you food.,,,617,190
 7344,2819,,taa(kal) ngaguk yaa-ni-tung-u,,Who money PREV-1-give-TNS,taa(kal) ngaguk yaa-ni-tung-u,Who did you give the money to? (#did I give?),,,617,203
 7345,2819,,kapupa taara ngaling ya-i-tung-nu,,frog big rock PREV-3-give-TNS,kapupa taara ngaling ya-i-tung-nu,She gave the rock to the big frog.,,,617,102
 7346,2819,,saiming naa mi-tung-ut,,one me 2-give-TNS,saiming naa mi-tung-ut,You’ll give me one.,,,617,47
-7347,2820,,ko 'avai 'a au i te puka ki a Sunta,,I DO book IO,ko 'avai 'a au i te puka ki a Sunta,I’ve given the book to Sunta.,,,589,115
+7347,2820,,ko 'avai 'a au i te puka ki a Sunta,,PCL give ART I ACC ART book to ART Sunta,ko 'avai 'a au i te puka ki a Sunta,I’ve given the book to Sunta.,,,589,115
 7348,2821,,Vpūng-í Vd∅́-sùng lègā-bok zí-ò-ē,,Vpung-AGT Vden-LOC book-CL give-3#TR.N.PAST-N.PAST,Vpūng-í Vd∅́-sùng lègā-bok zí-ò-ē,Vpung is giving Vden the book,,,663,285-286
 7349,2822,,Paulina-re waʔia yi-re ĩhĩ-koʔo,,Paulina-TERM fish 1s-TERM give-PST,Paulina-re waʔia yi-re ĩhĩ-koʔo,Paulina gave me fish.,,,765,4
 7350,2822,,ko-re ki-re yi-bea-yu,,3sF-TERM 3sM-TERM 1s-show-PRS,ko-re ki-re yi-bea-yu,I show her to him.,,,765,119
 7351,2824,,Bárdni attii niidii guoli,,boy gave girl.ILLAT fish.ACC,Bárdni attii niidii guoli,The boy gave the fish to the girl.,,Sammallahti p.c.,,
-7352,2825,,"a awi irai na na tekirere, Awala tenga / pania",,na dog that me you.did.not.give Awala you.gave it. rests,"a awi irai na na tekirere, Awala tenga / pania","No, you didn’t give the dog to me, you gave it to Awala.",,,642,73
-7353,2826,,mú na mbi yãmy ní,,take with me animal the,mú na mbi yãmy ní,Give me the animal,,"(also p. 67, 74, 94)",738,63
-7354,2826,,mɔ mú na ála conseil kíté sí,,2SG give to them advice little ?,mɔ mú na ála conseil kíté sí,Give them a little advice.,,,738,60
-7355,2826,,amú na í nginza mbéní pɛpɛ,,to us money any not,amú na í nginza mbéní pɛpɛ,He doesn’t give us money anymore.,,,738,61
+7352,2825,,"a awi irai na na tekirere, Awala tenga / pania",,na dog that me to you.did.not.give Awala you.gave.it / rests,"a awi irai na na tekirere, Awala tenga / pania","No, you didn’t give the dog to me, you gave it to Awala.",,,642,73
+7353,2826,,mú na mbi yãmy ní,,take with me animal the,mú na mbi yãmy ní,Give me the animal.,,"(also p. 67, 74, 94)",738,63
+7354,2826,,mɔ mú na ála conseil kíté sí,,2SG give to them advice little little,mɔ mú na ála conseil kíté sí,Give them a little advice.,,,738,60
+7355,2826,,amú na í nginza mbéní pɛpɛ,,not.gives to us money any not,amú na í nginza mbéní pɛpɛ,He doesn’t give us money anymore.,,,738,61
 7356,2826,,ála gá mú na mbi nginza,,they come give to me money,ála gá mú na mbi nginza,They came and gave me money.,,,738,65
 7357,2829,,mɛ ʔǎm tɔ̌ŋ soʔ naʔ ʔɔh klɔ,,he give tool crossbow towards younger.brother man,mɛ ʔǎm tɔ̌ŋ soʔ naʔ ʔɔh klɔ,He gave the arrow to the man.,,,644,33
 7358,2830,,Ngin ám ek poʾkéang,,we give you powder,Ngin ám ek poʾkéang,We give you the powder.,,,759,140
-7359,2830,,Vai ôh ám kô gá hme ka.,,they NEG NEG give to him rice eat,Vai ôh ám kô gá hme ka.,They don’t give him rice to eat.,,,759,140
-7360,2830,,Kia ám gá poʾkéang,,give him,Kia ám gá poʾkéang,the ghost gave him powder.,,,759,154
-7361,2831,,qum-ty mitty,,person-ILL give.IMP,qum-ty mitty,,,,662,
+7359,2830,,Vai ôh ám kô gá hme ka.,,they NEG give to him rice eat,Vai ôh ám kô gá hme ka.,They don’t give him rice to eat.,,,759,140
+7360,2830,,Kia ám gá poʾkéang,,ghost give him powder,Kia ám gá poʾkéang,The ghost gave him powder.,,,759,154
+7361,2831,,qum-ty mitty,,person-ILL give.IMP,qum-ty mitty,Give it to someone,,,662,
 7362,2832,,Nɨ sati·a cuhnippɨha uttuhkʷa,,I dog.OBJ bone.OBJ gave,Nɨ sati·a cuhnippɨha uttuhkʷa,I gave the bone to the dog.,,,683,699
 7363,2833,,tau-na vavine bua e vini-a-to,,man-ERG woman betelnut 3SG.SUBJ give-3SG.OBJ-PERF,tau-na vavine bua e vini-a-to,The man gave the woman betelnut.,,,769,181
 7364,2835,,i-mi-k-asa gʷas-at,,PF-give-IMPS-1SG.OBJ wife-SG,i-mi-k-asa gʷas-at,They’ve given me a wife.,,"(also p. 103, 190, 191)",557,22
 7365,2835,,nɔ-mi-a gabs-at lakʷan-ik,,NARR-give-CPL food-SG child-DAT,nɔ-mi-a gabs-at lakʷan-ik,And they gave food to the child.,,(also p. 128),557,45
-7366,2835,,gun-ic na ka-mia kaii erkoii,,at-who PAT-give hyena tobacco,gun-ic na ka-mia kaii erkoii,Who did the hyena give tobacco to?,,(also p. 136),557,96
+7366,2835,,gun-ic na ka-mia kaii erkoii,,who-DAT PCL PAT-give hyena tobacco,gun-ic na ka-mia kaii erkoii,Who did the hyena give tobacco to?,,(also p. 136),557,96
 7367,2836,,Lacag-ta isaga leh wuu ku siinayaa,,money-DEF [he gave] FOC.3SG 2SG.PRÄV give,Lacag-ta isaga leh wuu ku siinayaa,"He gives you the money, that he has.",,,535,167
-7368,2836,,isii!; isiiya!,,,isii!; isiiya!,Give it to me; PL addr.,,(also p. 272),535,179
-7369,2836,,Buug-gaan ku siiyay,,FOC.1SG 2SG,Buug-gaan ku siiyay,I gave you the book.,,,535,274
-7370,2836,,Buug-gan adiga waan siiyay,,FOC.1SG,Buug-gan adiga waan siiyay,I gave this book to you.,,(also p. 271),535,274
+7368,2836,,isii!; isiiya!,,give give.PL,isii!; isiiya!,Give it to me; Give it to me (PL addressee),,(also p. 272),535,179
+7369,2836,,Buug-gaan ku siiyay.,,book-FOC.1SG 2SG give,Buug-gaan ku siiyay,I gave you the book.,,,535,274
+7370,2836,,Buug-gan adiga waan siiyay.,,book-this you FOC.1SG give,Buug-gan adiga waan siiyay,I gave this book to you.,,(also p. 271),535,274
 7371,2837,,Mosadi o-fa bana bogôbê,,woman AGR-give children porridge,Mosadi o-fa bana bogôbê,The woman give porridge to the children.,,,666,55
 7372,2838,,Ho dado el libro a mi mujer,,I.have given the book to my wife,Ho dado el libro a mi mujer,I gave the book to my wife.,,,,
 7373,2839,,I=thïn-giya buk we=nggo,,3SG=OBJ.CL-give book to=1SG,I=thïn-giya buk we=nggo,He gives a book to me.,,,523,
 7374,2840,,suna niso-re poti,,dog your-DAT give,suna niso-re poti,Give it to your dog.,,,794,79
 7375,2840,,suna niso bamubake ami-re poti,,dog you big big-DAT give,suna niso bamubake ami-re poti,Give it to your big dog.,,,794,79
 7376,2840,,Zaipo-re poti,,Zaipo-DAT give,Zaipo-re poti,Give it to Zaipo.,,,794,18
-7377,2840,,moni pot-e-na pum-ia,,give-TENSE-1SG,moni pot-e-na pum-ia,I gave him money and he took it.,,,794,44
+7377,2840,,moni pot-e-na pum-ia,,money give-TENSE-1SG take-3SG,moni pot-e-na pum-ia,I gave him money and he took it.,,,794,44
 7378,2841,,Guru mere murid buku.,,teacher ACT.give pupil book,Guru mere murid buku.,The teacher gave the pupil the book.,,DBO,691,31
 7379,2841,,Titin rete mere buku ka Desi,,Titin will ACT.give book to Desi,Titin rete mere buku ka Desi,Titin will give a book to Desi.,,(also p. 51),691,27
 7380,2842,,Banda n-ot-ik tit yan bakan,,Banda 3SG.A-get-APPL we.INCL fish big,Banda n-ot-ik tit yan bakan,Banda gave us a big fish.,,recipient applicative: applied object = recipient,549,158
@@ -1924,19 +1913,17 @@ Note that the verb stem k’ichuduwa ‘buy something’ is monotransitive and m
 7383,2843,,inibigay niya sa akin ang sulat,,PATVOICE.give GEN.3 DAT I NOM letter,inibigay niya sa akin ang sulat,He gave me the letter.,,patient voice,742,303
 7384,2843,,binagy-an niya ako ng sulat,,give-RECVOICE GEN.3 I.NOM GEN letter,binagy-an niya ako ng sulat,He gave me a letter.,,(recipient voice),742,303
 7385,2844,,1ŋa-ta 3pa-u,,I-DAT give-IMP,1ŋa-ta 3pa-u,Give it to me!,,,674,295-296
-7386,2845,,thimji-khə cawba-niŋŋa pe-ro,,book-DET Chaoba-DAT give-IMP,thimji-khə cawba-niŋŋa pe-ro,Give the book to Chaoba.,,LOC,756,42
-7387,2845,,kəni tomba-tə khət məna pek cepəy,,we Tomba-ACC one reward give PRF,kəni tomba-tə khət məna pek cepəy,We have given Tomba a reward.,,ACC,756,42
 7388,2816,,'tʰu 'Nc̸-ku-a-ša-ka-ri,,2 donner-3OBJ-3PL.OBJ-PROG-ASS1/2-2,'tʰu 'Nc̸-ku-a-ša-ka-ri,"Toi, tu les lui donner.",,,559,175 (als 181f)
-7389,2816,,i ̚̚ma 'iNc̸-ku-šɨN-ti kʰui'ripu-ni,,DEM give-3OBJ-HAB-ASS.3 person-OBJ,i ̚̚ma 'iNc̸-ku-šɨN-ti kʰui'ripu-ni,"That one he gives to the person. (French: Celui-là, il donne à la personne.)",,(also p. 174),559,70
+7389,2816,,ima 'iNc̸-ku-šɨN-ti kʰuiripu-ni,,DEM give-3OBJ-HAB-ASS.3 person-OBJ,i ̚̚ma 'iNc̸-ku-šɨN-ti kʰui'ripu-ni,"That one he gives to the person. (French: Celui-là, il donne à la personne.)",,(also p. 174),559,70
 7390,2816,,'iNc̸-ku-ša-ti-Kšɨ 'ma c̸ɨc̸ɨki-iča,,donn-3OBJ-PROG-a??3-§PL une fleur-PL,'iNc̸-ku-ša-ti-Kšɨ 'ma c̸ɨc̸ɨki-iča,Ils lui dennonet des fleurs.,,,559,93
-7391,2816,,'i 'iNc̸-a-a c̸ɨc̸ɨki-iča-ni ua'ɲ(?)i-ni,,1 give-3OBJ.PL-FUT woman-OBJ,'i 'iNc̸-a-a c̸ɨc̸ɨki-iča-ni ua'ɲ(?)i-ni,Will I give the flowers to the woman? (French: Donnerai-je les fleurs à la femme?),,,559,197
+7391,2816,,'i 'iNc̸-a-a c̸ɨc̸ɨkiiča-ni ua'ɲi-ni,,1 give-3OBJ.PL-FUT woman-OBJ flowers-OBJ,'i 'iNc̸-a-a c̸ɨc̸ɨki-iča-ni ua'ɲ(?)i-ni,Will I give the flowers to the woman? (French: Donnerai-je les fleurs à la femme?),,,559,197
 7392,2846,,awa ya-pi-sou afe ya-pi-sou-ni me watamu ya-tu-i-ʔa,,father 1SG-GEN-COM mother 1SG-GEN-COM-ERG DEM thing 1SG.OBJ-give-3PL.SUBJ-IND,awa ya-pi-sou afe ya-pi-sou-ni me watamu ya-tu-i-ʔa,My father and mother gave me this thing.,,"(also p. 93, 121, 148)",670,138
 7393,2846,,sen-ni fanu nen-tu-ene-ʔa,,we-ERG man 3PL.OBJ-give-1PL.SUBJ-IND,sen-ni fanu nen-tu-ene-ʔa,We gave it to the man,,,670,291
 7394,2848,,añ dyo gui=m maqui-a' ji ja'p sap tɨtda.,,1SG PE CLR=2SG.OBJ give-FUT EMP thus REU told,añ dyo gui=m maqui-a' ji ja'p sap tɨtda.,"""I will give it to you,"" he told him.",,,793,76
 7395,2849,,kibokwo two-ro-r Maria kong,,book give-PERF-1SG Maria to,kibokwo two-ro-r Maria kong,I gave the book to Maria.,,"(also p. 98, 12)",719,112
 7396,2849,,kibokwo two-re-r ba kong,,book give-PERF-1SG 3SG to,kibokwo two-re-r ba kong,I gave the book to him.,,,719,113
-7397,2850,,Haka ngori bira!,,give me rice,Haka ngori bira!,,,neutral,626,63
-7398,2850,,Ngori haka ma-sofo se ngofa,,1SG give POSS-fruit OBL.human child,Ngori haka ma-sofo se ngofa,I gave the fruit to the child.,,indirective,626,64
+7397,2850,,Haka ngori bira!,,give me rice,Haka ngori bira!,Give me rice,,neutral alignment,626,63
+7398,2850,,Ngori haka ma-sofo se ngofa,,1SG give POSS-fruit OBL.human child,Ngori haka ma-sofo se ngofa,I gave the fruit to the child.,,indirective alignment,626,64
 7399,2851,,"In-bei, fó ha'u wé k-emu Lai",,mother-ancestor give I water 1SG-drink first,"In-bei, fó ha'u wé k-emu Lai","Old lady, give me water to drink.",,neutral,802,181
 7400,2851,,ó fó kmán bá ha'u,,you give light.water to I,ó fó kmán bá ha'u,You give ease to me.,,indirective,802,268
 7401,2852,,kʰɔŋgi: ŋalə naŋsʊ̃,,3SG.SBJ 1SG.LOC give.AUX,kʰɔŋgi: ŋalə naŋsʊ̃,He gave it to me.,,(also p. 205),577,143
@@ -1952,29 +1939,26 @@ Note that the verb stem k’ichuduwa ‘buy something’ is monotransitive and m
 7411,2858,,Ntia rehu roy yan-dok,,he me money give-1SG.OBJ,Ntia rehu roy yan-dok,He gave me some money.,,,588,200
 7412,2859,,na-wei si Yunus sene pai,,STITIVE.PAST-give LOC Yunus there over.there,na-wei si Yunus sene pai,We were give to Yunus over there.,,,631,23
 7413,2860,,tæ tis ki kitab denin,,2SG.ERG him to book give.FUT,tæ tis ki kitab denin,You will give the book to him.,,"(also p. 42f, 48)",667,94
-7414,2861,,kiki-k atlat-o kĩțĩ hai-tl,,man-ERG pan-ABS give I-DAT,kiki-k atlat-o kĩțĩ hai-tl,The man gave the pan to me.,,Guirardello ???? p. 259,,
-7415,2861,,hai-ts aros-o kĩțĩ kasoro-s,,I-ERG rice-ABS give dog-DAT,hai-ts aros-o kĩțĩ kasoro-s,I gave rice to the docs.,,Guirardello ???? p. 259,,
+7414,2861,,kiki-k atlat-o kĩțĩ hai-tl,,man-ERG pan-ABS give I-DAT,kiki-k atlat-o kĩțĩ hai-tl,The man gave the pan to me.,,,46072111784,
+7415,2861,,hai-ts aros-o kĩțĩ kasoro-s,,I-ERG rice-ABS give dog-DAT,hai-ts aros-o kĩțĩ kasoro-s,I gave rice to the docs.,,,46072111784,
 7416,2862,,kaw33 pʰa33 ta11puən11 kʰa:nʔ42 pʰa33 naw33,,1P give one.CLF book give 3P,kaw33 pʰa33 ta11puən11 kʰa:nʔ42 pʰa33 naw33,I gave him a book.,,"Graham Thurgood, p.c.",,
 7417,2863,,ʕal-ā kidb-er surat teƛ-si,,Ali-ERG girl-LAT picture.ABS give-PAST.WITNESSED,ʕal-ā kidb-er surat teƛ-si,Ali gave a picture to the girl (for good).,,,563,363
 7418,2865,,ʈ̴a-t k'yilum=dit Dzodz=a baaysik das Dzon,,Past-3.ERG give ERG George ABS bicycle DAT John,ʈ̴a-t k'yilum=dit Dzodz=a baaysik das Dzon,George gave a bicycle to John,,,690,40
 7419,2866,,Ni ne kupan la ni-ama,,he give money to 3SG-father,Ni ne kupan la ni-ama,He gave money to his father,,"(also p. 107, 120)",632,86
 7420,2867,,àná mìàŋó mònɛ́ índì,,3.PAST me money give,àná mìàŋó mònɛ́ índì,S/he gave me money.,,,688,126
 7421,2868,,à-ɪn-a-kɪn-ɪ̀ ayɔ̀ŋ ŋɪdɛ̀ akɪ̀muj,,1SG-give-to-DAT-ASP 1SG children food,à-ɪn-a-kɪn-ɪ̀ ayɔ̀ŋ ŋɪdɛ̀ akɪ̀muj,I will give the children food.,,,579,
-7422,2869,,Hasan kitab-i Ali-ye ver-di,,Hasan book-ACC Ali-DAT give-PAST,Hasan kitab-i Ali-ye ver-di,Hasan gave the book to Ali.,,,656,220
+7422,2869,,Hasan kitab-ı Ali-ye ver-di.,,Hasan book-ACC Ali-DAT give-PAST,Hasan kitab-i Ali-ye ver-di,Hasan gave the book to Ali.,,,656,220
 7423,2870,,jar ijqa7n xuuya7 rexkeej chwe,,the burden ERG3.ABS3.gave cramp to.me,jar ijqa7n xuuya7 rexkeej chwe,The burden gave me cramps.,,"(also p. 333, 392)",574,282
 7424,2870,,n-kee-ya7 paq chaqe,,INC-3PL.ERG-give money to.us,n-kee-ya7 paq chaqe,They’ll give the money to us.,,,574,156
 7425,2870,,inin x-in-∅-ya7 jun kotoon chee Aa Xwaan rxin raanaa7,,I CP-1SG.ERG-3ABS-give a kuipil to youth Juan for his.sister,inin x-in-∅-ya7 jun kotoon chee Aa Xwaan rxin raanaa7,I gave a kuipil to Juan for his sister.,,,574,311f
-7426,2871,,N.Ostrovskij asles̍tyz vań umoj ar-jos-se socializm ponna ńurjas̍kon-ly s̍oti-z,,year-PL-ACC socialism for fight-DAT gave-3SG,N.Ostrovskij asles̍tyz vań umoj ar-jos-se socializm ponna ńurjas̍kon-ly s̍oti-z,,,,782,170
+7426,2871,,,,,,,,,46071617889,170
 7427,2873,,ìhẽ pe me'ẽ we mi amõ,,me to 3.give little very some,ìhẽ pe me'ẽ we mi amõ,He gave me a tiny piece.,,,649,380
 7428,2873,,jawar ta pe nahã upa ngã me'ẽ my,,dog PL to perhaps end 3PL 3.give perhaps,jawar ta pe nahã upa ngã me'ẽ my,Perhaps they gave it all to the dogs.,,,649,391
 7429,2873,,upa xuã pe ihẽ a-mondo,,end J. to I 1-send,upa xuã pe ihẽ a-mondo,I sent everything to João.,,(also p. 328),649,396
-7430,2874,,ye me âib ne-t-eib-âm,,I thing big 2OBJ-give-FUT-1SG,ye me âib ne-t-eib-âm,,,"(also p. 129, 154, 84, 165)",722,108
 7431,2875,,X cho cô bạn gái một cuôń sách,,X give CLF friend female one CLF book,X cho cô bạn gái một cuôń sách,X gave his girlfriend a book.,,(also p. 169),695,115
 7432,2876,,kapi-warnti-∅ pa-∅-rla yinya parri-∅,,fish-PL-NOM AUX-3SG.SUBJ-3SG.OBJ gave boy-NOM,kapi-warnti-∅ pa-∅-rla yinya parri-∅,He gave the fish to the boy.,,,636,24-26
 7433,2877,,Jiyawu ngirr-aji nyanylu marndanga,,give 1PL-HAB tea.ACC woman.ACC,Jiyawu ngirr-aji nyanylu marndanga,We used to give tea to the white woman.,,,697,189
-7434,2878,,warao sanera a noboto-ma saba oko ka-nahoro mo-a-e,,people poverty of child-PL to we 1PL.POSS-food give-PUNC-PAST,warao sanera a noboto-ma saba oko ka-nahoro mo-a-e,We gave our food to the children of the poor people.,,,729,40
-7435,2878,,hi-rani saba osibu hoiha moa-u,,2SG.POSS-mother to kind.of.fish freshness give-IMP,hi-rani saba osibu hoiha moa-u,"You, give fresh morohoto (kind of fish) to his mother.",,,729,92
-7436,2879,,wang at-wu-y tjatpula,,meat 1SG-SUBJ-give old.man,wang at-wu-y tjatpula,I gave the meat to the old man.,,,602,215ff
+7436,2879,,wang at-wu-y tjatpula,,meat 1SG-SUBJ-give old.man,wang at-wu-y tjatpula,I gave the meat to the old man.,,,623,215ff
 7437,2880,,mnganburv-yana-rri-ya,,3N.SG.1SG-say-PAST-NARR,mnganburv-yana-rri-ya,They gave me knowledge. (lit.: they told me word),,,681,205
 7438,2880,,wumeme-yi wo yibayin yinggi,,right-INSTR give mother.in.law.ABS yours,wumeme-yi wo yibayin yinggi,Give it to your mother-in-law with [your] right hand.,,,681,68
 7439,2880,,nganburr-wo-n wumunburra wurre-mulu-yi,,3NSG.1SG-give-PRS money child-PL-ERG,nganburr-wo-n wumunburra wurre-mulu-yi,The children give me money.,,,681,66
@@ -1991,8 +1975,7 @@ Note that the verb stem k’ichuduwa ‘buy something’ is monotransitive and m
 7450,2891,,Ngatha-rna thala-lku-nu nyintanha mantu jarti-lpuka,,1SG.NOM-1SG.SBJ give-FUT-AFF 2SG.ACC meat eat-PURP,Ngatha-rna thala-lku-nu nyintanha mantu jarti-lpuka,I’ll give you meat to eat.,,,576,56
 7451,2891,,Thinha nyanyjìlpa yinya-npa mayu kartu.,,this woman give-IMPF child man,Thinha nyanyjìlpa yinya-npa mayu kartu.,This woman is giving the child to the man.,,,576,56
 7452,2892,,"May an, warrchuwrr awr wiyv pinn.",,food.ABS this woman.ABS that they’ll give,"May an, warrchuwrr awr wiyv pinn.",They will give this food to that woman.,,(also p. 61),519,27
-7453,2887,,'angi nan k'ac ̓̓-ni wanen,,Q me.ACC obsidian-IND give,'angi nan k'ac ̓̓-ni wanen,Will he give me obsidian?,,,694,247
-7454,2893,,tuŋ tude uo-hane tude emdʾie-n' tadi-m,,PRXM 3SG child-ACC 3SG y.brother-DAT give-TR.3,tuŋ tude uo-hane tude emdʾie-n' tadi-m,She gave this baby to her little brother.,,,672,55
+7454,2893,,tuŋ tude uo-hane tude emdʾie-n' tadi-m,,PRoX 3SG child-ACC 3SG younger.brother-DAT give-TR.3,tuŋ tude uo-hane tude emdʾie-n' tadi-m,She gave this baby to her little brother.,,,672,55
 7455,2896,,kana-s ʔačó ʔiNgáttesin,,dog-DAT meat he.gave,kana-s ʔačó ʔiNgáttesin,He gave meat to a dog.,,,627,256
 7456,2896,,taa-re miiššé ʔiNgáttesin,,me-DAT money he.gave,taa-re miiššé ʔiNgáttesin,He gave money to me.,,,627,256
 7457,2897,,U kitav dan-o malm-i,,he.NOM book.NOM give-AGR teacher-OBL,U kitav dan-o malm-i,He gives the teacher the book.,,,750,279
@@ -2087,9 +2070,13 @@ Note that the verb stem k’ichuduwa ‘buy something’ is monotransitive and m
 11728524890,2630,,à ma gba 'ù˜á,,3SG.PST 1SG.OBJ give.PST money,à ma gba 'ù˜á,He gave me money.,,,11728554646,213
 11765214908,2661,,Il donne une pomme à l'enfant.,,3SG give INDF apple to DET.child,Il donne une pomme à l'enfant.,He gives an apple to the child.,,,11765200948,326
 11771874180,2679,,mãĩ roz Mohan ko phal detī hū.,,1SG daily.ADV Mohan DAT fruit give.F 1SG.COP,mãĩ roz Mohan ko phal detī hū.,I give fruit to Mohan every day.,,,11771908505,29
-15946079470,2619,,nhula... (25),,,nhula... (25),,,,771,51
 15946327370,2624,,"əbsya-r gas, wa de",,horse-DAT grass water give,"əbsya-r gas, wa de",Give grass and water to the horse.,,,754,64
 16152636648,16152612577,,(Oorang) (pompang=nang) (kaaki[=yang]) arà-cunjiking.,,man woman=DAT leg=ACC NPST-show,(Oorang) (pompang=nang) (kaaki[=yang]) arà-cunjiking.,The man shows the foot to the woman.,,,16152627379,
-29699752100,2298,,(missing),,(30) I dress/obj bought-APL Angie(obj),(missing),,,,286,185
 46005514009,2863,,ʕal-ā kidb-eqo-r surat teƛ-si,,Ali-ERG girl-POSS-LAT picture.ABS give-PAST.WITNESSED,ʕal-ā kidb-er surat teƛ-si,Ali gave a picture to the girl (as a loan).,,,563,363
 46057397683,22,,[Tsoma-n joni koríki meni-a]-ra ono yaká-ke.,,[Tsoma-ERG man:ABS money:ABS give-PP2]-EV DIST sit-COMPL,[Tsoma-n joni koríki meni-a]-ra ono yaká-ke.,The man to whom Tsoma gave money is sitting further over there.,,,239,
+46064974891,1955,,Vospitatel’ podari-l kak-uju-to igrušk-u každ-omu rebenk-u.,,caretaker present-PST.M some-ACC.F-IND toy-ACC.F every-DAT.M child-DAT,Vospitatel’ podari-l kak-uju-to igrušk-u každ-omu rebenk-u.,The caretaker presented some toy to every child.,,,46064951793,49
+46065091599,242,,Guru=ne nge-maang anak=e cenik ento buku,,teacher=DEF AF-give person=DEF small that book,,The teacher gave the child the book.,,,46065093941,
+46065111936,242,,Guru=ne nge-maang buku ka anak=e cenik ento.,,teacher=DEF AF-give book to person=DEF small that,Guru=ne (nge-)maang buku ka anak=e cenik ento.,The teacher gave the book to the child.,,,46065093941,889
+46065148285,16152612577,,Kithang lorang=nang baaye mliiga athi-kaasi.,,1PL 2PL=DAT good palace IRR-give,Kithang lorang=nang baaye mliiga athi-kaasi.,We will give you beautiful palaces.,,,46065132313,990
+46065234965,46065193430,,Ymam ybe-gta ag ya\wayab/nda.,,3sg.erg 3nsg-dat1 coconut(abs) 3sgA>3plu.ppf.ben.show,Ymam ybe-gta ag ya\wa-yab/nda.,He showed them the coconut.,,,46065243017,1088
+46071628130,2871,,Maša Petɨr-lɨ gožtet ɨst-i-z.,,Masha Peter-DAT letter send-PST-3SG,Maša Petɨr-lɨ gožtet ɨst-i-z.,Masha sent a letter to Peter.,,,46071617889,511
