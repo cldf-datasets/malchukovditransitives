@@ -1,4 +1,11 @@
 ID,Parameter_ID,Name,Description,Number,Map_Icon
+lparam1-c1,lparam1,indirective flagging,,1,cdd0000
+lparam1-c2,lparam1,multiple constructions,,2,c000000
+lparam1-c3,lparam1,mixed alignment,,3,ccccccc
+lparam1-c4,lparam1,neutral,,4,cffff00
+lparam1-c5,lparam1,secundative indexing,,5,c0000dd
+lparam1-c6,lparam1,secundative flagging,,6,c00ffff
+lparam1-c7,lparam1,indirective indexing,,7,cffffff
 cparam8-c1,cparam8,either T or R,,1,
 cparam8-c2,cparam8,neither R nor T,,2,
 cparam8-c3,cparam8,only R,,3,
