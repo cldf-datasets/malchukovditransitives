@@ -17,12 +17,13 @@ class Dataset(BaseDataset):
 
         >>> self.raw_dir.download(url, fname)
         """
+        csvdir = self.raw_dir / 'csv'
+        csvdir.mkdir(parents=True, exist_ok=True)
         for sheet_path in self.raw_dir.glob('*.xlsx'):
-            outdir = self.raw_dir / 'csv'
-            tmpfile = outdir / f'{sheet_path.stem}.Sheet1.csv'
-            outfile = outdir / f'{sheet_path.stem}.csv'
+            tmpfile = csvdir / f'{sheet_path.stem}.Sheet1.csv'
+            outfile = csvdir / f'{sheet_path.stem}.csv'
             # will write to tmpfile
-            self.raw_dir.xlsx2csv(sheet_path.name, outdir=outdir)
+            self.raw_dir.xlsx2csv(sheet_path.name, outdir=csvdir)
             self.raw_dir.joinpath(tmpfile).rename(outfile)
 
     def cmd_readme(self, args):
