@@ -1,426 +1,437 @@
-Language_ID,Language_name,Glottocode
-1,Huichol,huic1243
-2,Udihe,udih1248
-3,Kham,gama1251
-4,Malayalam,mala1464
-6,Gaagudju,gaga1251
-7,Even,even1260
-9,Kwaza,kwaz1243
-11,German,stan1295
-12,Finnish,finn1318
-13,Tariana,tari1256
-14,Modern Greek,mode1248
-15,Lele,lele1276
-16,Thai,thai1261
-17,Cavineña,cavi1250
-18,Kinyarwanda,kiny1244
-19,Sahaptin,umat1237
-20,Georgian,nucl1302
-21,Manam,mana1295
-22,Shipibo-Konibo,ship1254
-23,Evenki,even1259
-24,Tamil,tami1289
-25,Wari’,wari1268
-34,Abkhaz,abkh1244
-62,Ainu,ainu1240
-70,Akan,akan1250
-72,Akha,akha1245
-79,Alamblak,alam1246
-83,Aleut,aleu1260
-103,Amele,amel1241
-105,Amharic,amha1245
-159,Araki,arak1252
-231,Bajau,indo1317
-242,Balinese,bali1278
-275,Basque,basq1248
-292,Baule,baou1238
-422,Cantonese,yuec1235
-431,Cashinahua,cash1254
-449,Chamorro,cham1312
-483,Sochiapan Chinantec,soch1239
-537,Crow,crow1244
-597,Diyari,dier1241
-604,Jingulu,djin1251
-632,Dyirbal,dyir1250
-651,English,stan1293
-661,Ewe,ewee1241
-673,Fongbe,fonn1241
-676,Meskwaki,mesk1242
-714,Garo,garo1247
-815,Halkomelem,halk1245
-844,Hixkaryana,hixk1239
-866,Hupa,hupa1239
-889,Ika,arhu1242
-921,Italian,ital1282
-928,Itelmen,itel1242
-929,Itonama,iton1250
-943,Jakaltek,popt1235
-947,Japanese,nucl1643
-950,Jarawa (in Andamans),jara1245
-1052,Kashmiri,kash1277
-1071,Kazakh,kaza1248
-1088,Ket,kett1243
-1097,Khanty,khan1273
-1103,Khoekhoe,nama1264
-1106,Khwarshi,khva1239
-1133,Koasati,koas1236
-1166,Korean,kore1280
-1179,Koyra Chiini,koyr1240
-1180,Koyraboro Senni,koyr1242
-1241,Lakhota,lako1247
-1253,Lango,lang1324
-1263,Lavukaleve,lavu1241
-1264,Laz,lazz1240
-1371,Maltese,malt1254
-1387,Mandarin Chinese,mand1415
-1407,Mapudungun,mapu1245
-1426,Martuthunira,mart1255
-1439,Mauritian Creole,mori1278
-1556,Movima,movi1243
-1657,Dolakha Newari,newa1246
-1755,Eastern Ojibwe,east2542
-1763,Olutec,olut1240
-1776,Oriya,nucl1284
-1817,Panjabi,panj1256
-1839,Persian,west2369
-1871,Northern Pomo,nort2966
-1893,Qiang,nort2722
-1903,Imbabura Quechua,imba1240
-1955,Russian,russ1263
-1972,Saliba (in PNG),sali1295
-2012,Semelai,seme1247
-2020,Seri,seri1257
-2110,Supyire,supy1237
-2115,Swahili,swah1253
-2116,Swati,swat1243
-2181,Tehuelche,tehu1242
-2191,Teop,teop1238
-2225,Tiipay (Jamul),kumi1248
-2234,Tiriyo,trio1238
-2239,Tiwa (Southern),sout2961
-2241,Tlapanec,acat1239
-2264,Totonac (Misantla),yecu1235
-2293,Tukang Besi,tuka1249
-2298,Tümpisa Shoshone,pana1305
-2323,Tzotzil,tzot1262
-2359,Vafsi,vafs1240
-2384,Wappo,wapp1239
-2433,Wolof,nucl1347
-2447,!Xun (Ekoka),kung1261
-2471,Yaqui,yaqu1251
-2502,Yoruba,yoru1245
-2507,Yukaghir (Kolyma),sout2750
-2521,Yuracare,yura1255
-2539,Zarma,zarm1239
-2552,Zulu,zulu1248
-2556,Puma,puma1239
-2558,Leti,leti1246
-2559,Kayardild,kaya1319
-2560,Hungarian,hung1274
-2561,Emai,emai1241
-2562,Lai,haka1240
-2563,Paiute (Northern),nort2954
-2564,Indonesian,indo1316
-2565,Jalonke,yalu1240
-2566,Meithei,mani1292
-2567,N|uu,nuuu1241
-2568,Greenlandic (West),kala1399
-2573,Jóola Banjal,band1340
-2574,Neo-Aramaic (Telkepe),chal1275
-2575,Mian,mian1256
-2576,Tima,tima1241
-2577,Teiwa,teiw1235
-2578,Chintang,chhi1245
-2579,Donno So,donn1238
-2582,Ancient Greek,anci1242
-2587,Abun,abun1252
-2590,Akawaio,akaw1239
-2592,Ala'ala,lala1268
-2593,Alyawarra,alya1239
-2594,Ambae (Lolovoli Northeast),east2443
-2595,Anong,nung1282
-2596,Apurinã,apur1254
-2597,Egyptian Arabic,egyp1253
-2598,Araona,arao1248
-2599,Arawak,araw1276
-2600,Eastern Armenian,nucl1235
-2601,Arop-Lokep,arop1243
-2602,Eastern Arrernte,east2379
-2603,Babungo,veng1238
-2604,Badimaya,badi1246
-2605,Bagirmi,bagi1246
-2606,Bai,cent2004
-2608,Baka (in Cameroon),baka1272
-2610,Barasano,bara1380
-2611,Baré,bare1276
-2612,Bauzi,bauz1241
-2613,Bawm,bawm1236
-2614,Belhare,belh1239
-2615,Berber (Middle Atlas),cent2194
-2616,Berta,bert1248
-2617,Bhojpuri,bhoj1244
-2618,Bininj Gun-Wok,gunw1252
-2619,Biri,biri1256
-2620,Bisu,bisu1244
-2621,Blackfoot,siks1238
-2622,Bozo (Tigemaxo),tiey1235
-2624,Brokskat,brok1247
-2626,Teanu,tean1237
-2629,Burushaski,buru1296
-2630,Busa,busa1253
-2631,Byansi,byan1241
-2632,Canela-Krahô,ramk1239
-2633,Chantyal,chan1310
-2634,Cherokee,cher1273
-2637,Choctaw,choc1276
-2638,Chukchi,chuk1273
-2639,Comanche,coma1245
-2640,Coos (Hanis),coos1249
-2641,Coptic,copt1239
-2642,Cree (Plains),plai1258
-2643,Dagbani,dagb1246
-2644,Dahalo,daha1245
-2646,Dhaasanac,daas1238
-2647,Dharumbal,baya1257
-2648,Dhivehi,dhiv1236
-2649,Djabugay,dyaa1242
-2650,Djaru,jaru1254
-2651,Dogon,tomm1242
-2652,Doyayo,doya1240
-2653,Drehu,dehu1237
-2654,Duala,dual1243
-2655,Dullay (Gollango),gaww1239
-2656,Efik,efik1245
-2657,Epena Pedee,epen1239
-2658,Erromangan,siee1239
-2659,Ewondo,ewon1239
-2660,Fijian,fiji1243
-2661,French,stan1290
-2662,Fyem,fyam1238
-2663,Gamo,gamo1244
-2664,Gapapaiwa,gapa1238
-2665,Gola,gola1255
-2666,Gooniyandi,goon1238
-2667,Grebo,sout2826
-2668,Guaraní,para1311
-2669,Guduf,gudu1252
-2670,Gumbaynggir,kumb1268
-2671,Gurr-goni,gura1252
-2672,Guugu Yimidhirr,gugu1255
-2673,Haida,haid1248
-2674,Hatam,hata1243
-2675,Hausa,haus1257
-2676,Hayu,wayu1241
-2677,Hdi,hdii1240
-2678,Hebrew (Modern),hebr1245
-2679,Hindi,hind1269
-2680,Hmar,hmar1241
-2681,Hmong Njua,hmon1264
-2682,Hoava,hoav1238
-2683,Hunzib,hunz1247
-2684,Igbo,nucl1417
-2685,Ik,ikkk1242
-2686,Imonda,imon1245
-2687,Ingush,ingu1240
-2688,Iraqw,iraq1241
-2689,Itzaj,itza1241
-2690,Jabêm,yabe1254
-2691,Jaminjung,djam1255
-2692,Jeli,jeri1242
-2693,Jingpho,kach1280
-2694,Ju|'hoan,juho1239
-2695,Kairiru,kair1263
-2696,Kala Lagaw Ya,kala1377
-2697,Kalkatungu,kalk1246
-2698,Kamaiurá,kama1373
-2699,Kambera,kamb1299
-2700,Kana,khan1278
-2701,Kannada,nucl1305
-2704,Kayah Li (Eastern),east2342
-2705,Kemant,qima1242
-2706,Kera,kera1255
-2708,Khalkha,halh1238
-2709,Khasi,khas1269
-2710,Khmer,cent1989
-2711,Khmu',khmu1256
-2712,Kilivila,kili1267
-2713,Kiribati,gilb1244
-2714,Klamath,klam1254
-2715,Kobon,kobo1249
-2716,Kodava,koda1255
-2717,Kombai,ndei1235
-2719,Kongo,koon1244
-2720,Korku,kork1243
-2721,Koromfe,koro1298
-2722,Korowai,koro1312
-2723,Krongo,kron1241
-2724,Kugu Nganhcara,kuku1280
-2725,Kukú,bari1284
-2726,Kuku-Yalanji,kuku1273
-2727,Kunama,kuna1268
-2728,Kutenai,kute1249
-2729,Kwaio,kwai1243
-2730,Ladakhi,lada1244
-2731,Lak,lakk1252
-2733,Latvian,latv1249
-2734,Lepcha,lepc1244
-2735,Lezgian,lezg1247
-2736,Lillooet,lill1248
-2737,Limilngan,nucl1327
-2738,Lingala,ling1263
-2739,Lisu,lisu1250
-2740,Longgu,long1395
-2741,Loniu,loni1238
-2742,Lunda,lund1266
-2743,Ma'di,madi1260
-2744,Maale,male1284
-2745,Macushi,macu1259
-2746,Madurese,nucl1460
-2747,Maipure,maip1247
-2748,Maithili,mait1250
-2749,Makah,maka1318
-2750,Mam,mamc1234
-2751,Mangarrayi,mang1381
-2752,Mangghuer,tuuu1240
-2753,Maori,maor1246
-2754,Maranungku,mara1386
-2755,Marathi,mara1378
-2756,Maricopa,mari1440
-2757,Marquesan,nort2845
-2758,Matis,mati1255
-2759,Matsés,mats1244
-2760,Maybrat,maib1239
-2761,Mbabaram,mbab1239
-2762,Mbay,mbay1241
-2763,Mbili,bamb1266
-2764,Mende,mend1266
-2765,Mixtec (Chalcatongo),sanm1295
-2766,Miya,miya1266
-2768,Mono (in United States),mono1275
-2769,Monumbo,nucl1458
-2770,Mosetén,mose1249
-2771,Motuna,siwa1245
-2772,Mundang,mund1325
-2774,Mupun,mwag1236
-2776,Musgu,musg1254
-2777,Mussau,muss1246
-2778,Nabak,naba1256
-2779,Nagatman,yale1246
-2780,Nahuatl (Tetelcingo),tete1251
-2781,Nambikuára,sout2994
-2783,Ndebele (in South Africa),sout2808
-2784,Ndjébbana,djee1236
-2785,Nepali,nepa1252
-2786,Ngalakan,ngal1293
-2787,Ngiyambaa,wang1291
-2788,Nhanda,nhan1238
-2789,Nias,nias1242
-2790,Nisgha,nisg1240
-2791,Niuean,niue1239
-2792,Nivkh,gily1242
-2793,Nkore-Kiga,chig1238
-2794,Nuaulu,sout2895
-2795,Nubian (Dongolese),kenu1236
-2796,Nubian (Kunuz),kenu1236
-2797,Nuuchahnulth,noot1239
-2798,O'odham,toho1245
-2799,Obolo,obol1243
-2800,Oromo (Harar),east2652
-2801,Orya,orya1242
-2803,Paamese,paam1238
-2804,Páez,paez1247
-2805,Paita,dumb1241
-2806,Paiwan,paiw1248
-2807,Palauan,pala1344
-2808,Panyjima,pany1241
-2809,Passamaquoddy-Maliseet,male1292
-2810,Pattani,patt1248
-2811,Pero,pero1241
-2812,Pilagá,pila1245
-2813,Pirahã,pira1253
-2814,Pitjantjatjara,pitj1243
-2815,Pitta Pitta,pitt1247
-2816,Purépecha,pure1242
-2817,Qafar,afar1241
-2818,Quechua (Huallaga),huam1248
-2819,Rama,rama1270
-2820,Rapanui,rapa1244
-2821,Rawang,rawa1265
-2822,Retuarã,tani1257
-2823,Ron,ronn1241
-2824,Saami (Northern),nort2671
-2825,Salt-Yui,salt1242
-2826,Sango,sang1328
-2827,Sangu,sang1333
-2828,Sanuma,sanu1240
-2829,Sapuan,sapu1248
-2830,Sedang,seda1262
-2831,Selkup,selk1253
-2832,Shoshone,shos1248
-2833,Sinaugoro,sina1266
-2834,Slave,slav1253
-2835,So,sooo1256
-2836,Somali,soma1255
-2837,Sotho (Northern),pedi1238
-2838,Spanish,stan1288
-2839,Sudest,sude1239
-2840,Suena,suen1241
-2841,Sundanese,sund1252
-2842,Taba,east2440
-2843,Tagalog,taga1270
-2844,Tamang,east2347
-2846,Tauya,tauy1241
-2848,Tepehuan (Southeastern),sout2976
-2849,Teribe,teri1250
-2850,Ternate,tern1247
-2851,Tetun,tetu1245
-2852,Tibetan (Standard Spoken),tibe1272
-2853,Tidore,tido1248
-2854,Tigrinya,tigr1271
-2855,Tikar,tika1246
-2856,Tinrin,tiri1258
-2857,Tiwi,tiwi1244
-2858,Tobati,toba1266
-2859,Toratán,rata1244
-2860,Torwali,torw1241
-2861,Trumai,trum1247
-2862,Tsat,tsat1238
-2863,Tsez,dido1241
-2864,Tshangla,tsha1245
-2865,Tsimshian (Coast),nucl1649
-2866,Tugun,tugu1245
-2867,Tunen,tune1241
-2868,Turkana,turk1308
-2869,Turkish,nucl1301
-2870,Tzutujil,tzut1248
-2871,Udmurt,udmu1245
-2872,Upper Kuskokwim,uppe1438
-2873,Urubu-Kaapor,urub1250
-2875,Vietnamese,viet1252
-2876,Walmatjari,walm1241
-2877,Wambaya,wamb1258
-2879,Waray (in Australia),wara1290
-2880,Wardaman,ward1246
-2881,Warembori,ware1253
-2882,Warrgamay,warr1255
-2883,Wirangu,wira1260
-2884,/Xam,xamm1241
-2885,Yagua,yagu1244
-2886,Yanyuwa,yany1243
-2889,Yidiny,yidi1250
-2890,Yimas,yima1243
-2891,Yingkarta,ying1247
-2892,Yir Yiront,yiry1245
-2893,Yukaghir (Tundra),nort2745
-2894,Central Alaskan Yupik,cent2127
-2895,Zapotec (Quiegolani),sant1451
-2896,Zayse,zays1235
-2897,Zazaki,diml1238
-2898,Zoque (Chimalapa),chim1300
-2900,Chinese (Kunming),kunm1234
-2901,Cinsenga,nsen1242
-2902,Dargwa,darg1241
-2904,Gikuyu,kiku1240
-5388536538,Central Arctic Inuktitut,west2618
-16152612577,Sri Lanka Malay,sril1245
-46065193430,Nen,nenn1238
+Language_ID,Language_parameter_ID,Language_parameter_value_name_ID,Language_parameter_value_names_of_Language_data::Value_name,Value_description,Language_data_examples::Example_ID,Language_data_references::Reference_ID,Language_data_references::Pages
+3,44822668972,44822673194,indirective flagging,,,,
+7,,,,,,,
+11,44822668972,44822673194,indirective flagging,The indirective construction (Dative-Accusative) is clearly dominant.,,,
+15,44822668972,44822677354,multiple constructions,,,,
+23,44822668972,44845350243,mixed alignment,,,,
+1817,44822668972,44822673194,indirective flagging,,,,
+2582,44822668972,44822677354,multiple constructions,"(1) the major dative construction, for some less canonical ditransitives in alternation with DOC; (2) passivization of T in the indirective construction andfd of both R and T in the double object construction; (3) middle formation with benefactive-reflexive meaning (not in anticausative or reflexive); (4) the dative marker is used in instrumental function",,,
+12,44822668972,44822673194,indirective flagging,,,,
+17,44822668972,44822675275,neutral,,,,
+231,44822668972,44822675275,neutral,"The construction is fully symmetrical/neutral, not just with respect to flagging and indexing, but also with respect to topicalization, relativization and passivization. However, Donohue’s description focuses on applicatives and mentions only a single underived verb. The examples are all elicited and not very natural.",,,
+537,44822668972,44831089181,secundative indexing,"(1) In the secundative Double Object Construction only Rs are indexed. (2) With causatives a possibility of a double marking is mentioned, too. (3) Relative clauses are internal: apparently no restrictions. (4) Reflexive/reciprocals by an agreement-like prefixes, apparently possible for Rs (although no example is given with a reciprocal). (5) There is incorporation which targets T judging from examples. (6) Quantifier float is also a kind of incorporation; only examples with P/T-floating cited. (7) Indefinite object (a kind of antipassive) seems to apply to P (rather to the applied object)",,,
+676,44822668972,44831089181,secundative indexing,,,,
+815,44822668972,44822676048,secundative flagging,"(1) all ditransitives are derived; however, recipient and benefactive applicatives are coded differently. (2) the pattern is secundative both in terms of flagging (T is oblique), and indexing (R is indexed (3) most syntactic diagnostics (passivization, relativization, wh-extraction, quantifier float), are secundative; (4) however, some diagnostics (non-control marking) apply to T, and some other (antipassives, reflexives) are neutral (do not apply to either).",,,
+1,44822668972,44831089181,secundative indexing,,,,
+2587,44822668972,44822673194,indirective flagging,,,,
+2567,44822668972,44822673194,indirective flagging,"N|uu has a Dative-marked indirective construction in which (in sharp contrast to Eurasian languages) the R rigidly precedes the T. There is no indexing, and no other case-marking. Participants following the P of a transitive clause generally have to be preceded by a “linker”, but the T that follows the R cannot be followed by such a linker. In extraction constructions (relativization and questions), the R must be represented by a resumptive pronoun, but not the T.",,,
+18,44822668972,44822675275,neutral,,,,
+21,44822668972,44831089181,secundative indexing,,,,
+22,44822668972,44822675275,neutral,,,,
+34,44822668972,46062286385,indirective indexing,"(1) indirective indexing construction (corresponding to patterns of DAT/GEN/OBL polysemies in other languages) (2) relativization is indirective as the form of the  relative marker is dependent on absolutive/ ergative=oblique distinction (3) the same holds for questions, which use relativization strategy (4) in reciprocals, interesting atters of A=R reciprocals where either can serve as antecedent (this reminds that in monotransitives P is a preferred controller of A; REC replacing the A-agreement)",,,
+72,44822668972,44822673194,indirective flagging,,,,
+83,44822668972,44822673194,indirective flagging,,,,
+431,44822668972,44822675275,neutral,,,,
+889,44822668972,44845350243,mixed alignment,"(1) mixed alignment: flagging indirective, indexing secundative. (2) Basic ditransitives restricted: only GIVE, PAY (but also also BUY-from verbs), , while BRING, SELL-to, SAY-to applicatives.",,,
+921,44822668972,44822673194,indirective flagging,,,,
+2,44822668972,44822677354,multiple constructions,The destinative construction is used with an internal recipient; the double object construction only with less canonical ditransitives.,,,
+19,44822668972,44845350243,mixed alignment,"There are two types of ditransitive constructions: (1) allative and (2) double object. The first construction is consistently indirective both in marking (case, indexing) and syntactic properties; the second is consistently secundative in marking (case, indexing) and syntactic properties. Derived constructions (causatives, applicatives, desideratives) show the same split in patterns as non-derived constructions.",,,
+20,44822668972,44822673194,indirective flagging,,,,
+24,44822668972,44822673194,indirective flagging,,,,
+25,44822668972,44822676048,secundative flagging,,,,
+62,44822668972,44831089181,secundative indexing,"Most ditransitive verbs are derived by causative suffixes or applicative prefixes: GIVE, SHOW, TELL are all causatives, while TEACH is applicative (relational applicative, rather than directional). The basic ditransitives include: DELIVER, LEND (and BUY).",,,
+70,44822668972,44822675275,neutral,,,,
+79,44822668972,44822677354,multiple constructions,,,,
+103,44822668972,44822677354,multiple constructions,"(1) 'Give' is exceptional in that it lacks a stem and has two object-agreement suffixes. Thus, it is a double object (dative-shifted) indexing construction. (2) Some other basic ditransitives have a secundative pattern in that R is marked in the first object-indexing slot
+(3) The majority  pattern is indirective: the T is marked through the first object-indexing slot, while the R is marked by the applicative marker in combination with a second object marker. (4) Apparently the peculiarity of 'give' is explained by the fact that is retained now only in the form of the applicative marker (cf. Roberts 1987: 313). (5) Passive is of the impersonal topicalizing type: there are apparently no restrictions. (6) Relative clauses are internally headed, and there are no restrictions. (7) Reflexives by coreferential marking on the verb; apparently no restrictions as it employs the regular object agreement morphology. (8) Reciprocals are formed by verbal reduplication; apparently no restrictions.",,,
+105,44822668972,44822673194,indirective flagging,,,,
+159,44822668972,44822677354,multiple constructions,,,,
+292,44822668972,44822677354,multiple constructions,"(1) The basic ditransitives take a Double Object Construction which comes in two kinds: (a) with 'show', the Double Object Construction is unmarked; (b) with 'give' (also 'bring' and 'steal'), the structure additionally involves a resumptive pronoun and is superficially identical to the internal R construction with R as a formal possessor. Like the possessive construction, it disallows two resumptive pronouns ('I gave him my money'). Yet extraction tests indicate that R and T are distinct NPs. (2) When the T is high (or higher than R) on person/animacy scales, then an alternative Serial Verb Construction based on 'take' is used. With 'give', only indefinite Ts appear in the Double Object Construction, definite Ts trigger a Serial Verb Construction. (3) Syntactic tests point at R primacy: (a) only R can be topicalized; (b)	only R can be relativized; (c)	R like P can be omitted with unspecified reference (?); (4) Some other tests are neutral: both R and T can be focalized/extracted. (5) Others are non-committal: reflexives/reciprocals only from the serial verb construction, since both objects are definite and coreferential.",,,
+422,44822668972,44822677354,multiple constructions,"Cantonese has three constructions, which are mostly lexically distributed. The ‘give’ verbs take the T-R construction, some others take the R-T construction, and the Dative construction (with the coverb/preposition béi ‘to’) is the least restricted construction. The sources do not say much about behavioural properties.",,,
+449,44822668972,44822677354,multiple constructions,"(1) Alignment: (a) either indirective with prepositional R, or (b) secundative construction with the applicative marker (also 'give'  historically contains an applicative); (c) in the latter case, the T is introduced by oblique marking which also has instrumental ('with/by') function. (2) Syntactic behavior: (a) passivization: in indirective T, in secundative R; (b)	antipassivization: some ditransitives permit shifted R demotion in the secundative pattern; (c) extraction (focusing; questions; relativization): according to Cooreman, only P/T can be extracted in the indirective pattern, but both T and R in the secundative pattern. All verbs, unless they take the applicative suffix, can take a benefactive/addresse argument only with a preposition.",,,
+604,44822668972,44822673194,indirective flagging,"(1) Optional dative-absolutive construction with nouns (dative marking on R is optional). (2) Indexing R is optional (not clear if it depends on R form). (3) With pronouns (which do not distinguish between dative and accusative) always double object. (4) Animacy effects: if T is 1,2 person, ditransitive 'give' is replaced by 'send'. (5) 'Send' forms an exceptional allative construction with ergative T (probably modeled on ergative causatives). (6) Reciprocals with R/T cross-coreferentiality simply with 3rd person plural accusative pronouns (we’ll given them = them to one another).",,,
+632,44822668972,44822677354,multiple constructions,,,,
+651,44822668972,44822677354,multiple constructions,,,,
+597,44822668972,44822677354,multiple constructions,"(1) Ditransitive double object construction with four ditransitive verbs; (2) In this construction partially different syntactic behaviour: incorporation in nominalization is indirective (T/P retained), verbal reflexivization also (‘She gives herself money), while verbal reciprocals are secundative; (3) Other verbs take a dative construction; optionally with an applicative marker; remarkably, the verbal benefactive does not indicate promotion here of dative to absolutive.",,,
+14,44822668972,44822677354,multiple constructions,,,,
+943,44822668972,44822673194,indirective flagging,"(1) Flagging is indirective prepositional, indexing is also indirective through absolutive agreement. (2) Questions and relativization belong to extraction constructions that distinguish A vs. non-A extraction. In all cases T behaves like P. (3) Passive apparently indirective, although notclear whether it ski promotional. (4) Most basic ditransitives in the prepositional pattern, but PA and 'teach' apparently have R as a main object. (5) Derived ditransitives absent, as transitivization applies to adjectives/noun, is restricted even for intransitives.",,,
+947,44822668972,44822673194,indirective flagging,"(1) Indirective alignment, but dative R shows some core properties distinct from dative G (animacy effects!): (a)	it can launch quantifiers; (b)	it may omit DAT marker in clefts (2)	an open class of ditransitives taking dative object, but some covert distinctions: (a) both T and R passivize; (b) but either R or T participates in the inchoative-causative alternations (canonical ditransitives are secundative in that respect) (3)	some other tests are either neutral or inconclusive: (a) relativization applies to both (b)	evidence for superiority in reflexivization is inconclusive, more clear with reciprocals (R can bind T)  (4) some evidence for superiority in quantifier scope (R scopes over T), but also depends on word order. (5) Suppletion of 'give' verbs due to distinctions in directionality/politeness.",,,
+1071,44822668972,44822673194,indirective flagging,"(1) an open class of dative verbs; (2) reciprocal apply to all R but with external beneficiaries acquire an assistive meaning; (3) personal passive is indirective, impersonal is neutral; (4) relativization is neutral; (5) quantifier binding of R into variable-T is possible even under R postposing; (6) some freezing (superiority) effects in multiple questions but they can be overridden by discourse considerations (emphatic fronting of T)",,,
+1103,44822668972,44822675275,neutral,,,,
+1133,44822668972,44845350243,mixed alignment,,,,
+2595,44822668972,44822673194,indirective flagging,,,,
+2597,44822668972,44822673194,indirective flagging,,,,
+2600,44822668972,44822673194,indirective flagging,,,,
+1263,44822668972,44822673194,indirective flagging,"(1) Indirective postpositional construction: no ditransitive verbs; (2) 'give' and 'tell' are indirective-monotransitive, but 'tell' is secundative-monotransitive; (3) Interesting restrictions on formation of general questions through s focus strategy, restricted to core arguments. This restriction however holds only for sentence final focus, not for the clause internal focus. Similarly, relativization which is more reminiscent of clause internal focus construction is not restricted. (4) Quasi-passives are of anticausative/resultative type, hence indirective. (5) No causatives of transitives.",,,
+1371,44822668972,44822673194,indirective flagging,,,,
+1426,44822668972,44822675275,neutral,"(1) The only ditransitive construction is a double accusative construction. This construction is also found with Beneficiaries (build for), but not with Goals (throw to). (2) ln a ditransitive double object construction both objects can be passivized; also the accusative beneficiary can be passivized. Interestingly in case of malefactive arguments only the Source can be passivized. (3) Control into purposive clause: In case of a double object construction any of the accusative objects can control the embedded subject",,,
+1439,44822668972,44822675275,neutral,,,,
+1657,44822668972,44822673194,indirective flagging,"(1) Genetti notes that DOM poses a problem for Dryer’s (1986) typology. (2) Genetti concludes that DOM is not indicative of syntactic difference but rather of their discourse pragmatic difference (animate/given objects are case-marked). (3) Genetti presents evidence that there is no syntactic difference between P, R and T (that is that Newari is a symmetric language) (a) word order of R and T is free (b) reflexives either object can bind another if preceding (c) relativization: both R and T use the general object relativization strategy (d) no other syntactic tests are stated that can differentiate between the two. (4) Animacy effects: usually T is unmarked but if animate/pronominal, it may be marked. (5) Causatives of transitives apparently do not pattern with ditransitives, as need not be dative marked.",,,
+1776,44822668972,44822673194,indirective flagging,,,,
+2115,44822668972,44831089181,secundative indexing,"(1) Double object constructions, with few basic ditransitives; with all derived ditransitives. Indexing is secundative. (2) Word order of obvjects is fairly free but R > T is more often.
+(3) Some syntactic tests show also secundative pattern (an asymmetric language): (a) Passivization of R exclusively. (b) Also verbal reflexives (in the object agreement slot) mark A/R coreferentiality (at least in derived constructions).",,,
+2116,44822668972,44822675275,neutral,,,,
+2264,44822668972,44822675275,neutral,"MacKay & Trechsel (2008) emphasize that the construction is symmetrical (in the sense of Bresnan & Moshi 1990), in that both R and T can be indexed simultaneously (with ambiguity), and both can be reflexivized and reciprocalized. (The language has no passive.) – (1) double object indexing constructions, resulting in ambiguous forms constructions since neither form nor order distinguishes between the two objects; (2)	GIVE/HIT polysemy; (3) although coding is ambiguous (neutral alignment), the use of reflexive suffix pertains to R; (4) the use of antipassive suffix (indefinite object marker) is secundative as well; (5) causatives of transitives include apart fom the causative prefix the applicative suffix; (6) derived ditransitives (causatives and applicatives) form the same double object indexing constructions as basic ditransitives; (7) body-part incorporation, also with ditransitives, but rather lexical as it does not absorb T lcf. hand-give X to Y = ‘hand X to Y’.",,,
+2384,44822668972,44822673194,indirective flagging,,,,
+2521,44822668972,44822675275,neutral,(1) All ditransitive verbs are derived by applicative or causative formation. (2) If T is pronominal the secundative indexing changes to neutral since both objects are indexed. (3) There is a variety of applicative forms; ditransitives mostly involve a Goal/Benefactive applicative (sometimes combined with the causative marker). (4) Relativization is of the adjoined type (by means of switch reference); apparently both applied and base objects can be relativized (for the latter no examples are given). (5) The applied object is omitted more often than the base object.,,,
+2539,44822668972,44822673194,indirective flagging,,,,
+2556,44822668972,44845350243,mixed alignment,,,,
+2560,44822668972,44822673194,indirective flagging,,,,
+2573,44822668972,44822675275,neutral,"(1) A double object construction with neutral flagging (no flagging) and neutral indexing (both R and T may be indexed, e.g., if pronominal). (2) Animacy effects: indexing of both objects is only possible if R is higher than T on the person hierarchy (1>2>3) (3) Word order is variable unless T is higher than R in animacy: then it is V T R. Passivization is indirective. (4) Relativization (and topicalization) is neutral: applies equally to R and T
+Verbal reflexives and reciprocals are secundative; in case when A is coreferential with T a nominal reflexive should be used, and A/T-reciprocals  are not possible from a double object construction (but are possible from the allative one).",,,
+2579,44822668972,44822673194,indirective flagging,,,,
+2592,44822668972,44831089181,secundative indexing,,,,
+2594,44822668972,44822673194,indirective flagging,,,,
+2603,44822668972,44845350243,mixed alignment,,,,
+2619,44822668972,44822673194,indirective flagging,,,,
+16152612577,44822668972,44822673194,indirective flagging,,,,
+2680,44822668972,44822675275,neutral,,,,
+2686,44822668972,44822673194,indirective flagging,,,,
+2695,44822668972,44831089181,secundative indexing,,,,
+2840,44822668972,44822673194,indirective flagging,,,,
+2841,44822668972,44845350243,mixed alignment,,,,
+2842,44822668972,44822675275,neutral,,,,
+2844,44822668972,44822673194,indirective flagging,,,,
+2846,44822668972,44831089181,secundative indexing,,,,
+2848,44822668972,44831089181,secundative indexing,,,,
+2854,44822668972,44822673194,indirective flagging,,,,
+2856,44822668972,44822673194,indirective flagging,,,,
+2723,44822668972,44822673194,indirective flagging,,,,
+2738,44822668972,44822675275,neutral,,,,
+2747,44822668972,44822673194,indirective flagging,,,,
+2748,44822668972,44845350243,mixed alignment,,,,
+2751,44822668972,44831089181,secundative indexing,,,,
+7,44822668972,44845350243,mixed alignment,,,,
+16,44822668972,44845350243,mixed alignment,"(1) An alternation of a prepositional and double object construction with canonical ditransitives; only the former is used when the T is heavy. Apart from heaviness, no obvious factors involved in the ditransitive alternation. (2) The word order is V T (Prep) R in both double object and a prepositional construction. (3) Passivization seems to follow alignment: T is passivized in the prepositional construction, while R is passivized in the double object construction (as discussed further with Kingkarn Thepkanjana, p.c.). In the literature, there are contradicting claims as to preferential passivization of T (Smyth) or R (SW), but this is due to the fact that diferent constructions are considered (not the one ditransitive construction with the “optional” preposition). Additionally, some uses of passive are infelicitous due to its adversative semantics. (4) Some peculiarities/restrictions noted in the literature are motivated structurally. Thus, SW notes that T unlike P/R does not allow for modification (by relative clause and question). But this is motivated by constituency (clearer for relative clauses which do not allow intraposition); note that if the T is right-dislocated, then it allows for modification.",,,
+275,44822668972,44822673194,indirective flagging,"(1) The dative construction is indirective with a strict matching of flagging and indexing; only dative Rs are indexed by dative agreement. Benefactive Rs are adjuncts and not indexed. (2) Syntactic processes are indirective (e.g. pseudo-passives, secondary predicates), but for some purposes, dative is treated as a core argument (e.g. relativization). (3) Indirective indexing is not confined to canonical ditransitives, as it extends to constructions with external possessors and ethical datives.",,,
+483,44822668972,44822677354,multiple constructions,"(1) Semantic effects: monotransitive indirective for caused motion vs. ditransitive for transfer of possession (cf. dative alternation). (2) Animacy effects: if T is animate, alignment is rather indirective; if inanimate, then rather secundative (the alignment is evident in which object conditions direct/inverse alternation). (3) Relativization is neutral in a ditransitive construction (both objects relativized by gapping), but is indirective in monotransitive (requires preposition stranding to relativize R). (4) Yet other constructions/diagnostics show intrinsic alignment (a) passive is secundative even in the ditransitive indirective pattern(this may be explained by a ban against bare R stranding; (cf. ??The book was given Peter) (b) the same is true for reflexives and reciprocals;
+(c) animacy restrictions on T argument even in a ditransitive secundative constructions.",,,
+661,44822668972,44822675275,neutral,"(1) According to Essegbey, in the double object construction (DOC), T is the main object. (2) Among the few “symmetric” properties where T equals R are: word order (but V-T-R is more frequent), and quantifier binding (depends on word order) (3)	Other properties are indicative of T-primacy: (a) only T/P can be questioned by movement only (b) only T/P can be “genitivized” by preposing in nominalizations (c)	only T/P can be fronted/preposed (d)	only T/P can be promoted by a nya-construction. (4) Yet there is one property where T is unlike P/R: T cannot be pronominalized; this is related to the Definiteness Constraint. (5) In the DOC, a definiteness constraint (rather than animacy constraint) is operative: if T is definite (more definite than R) then double object construction switches to serial verb construction.",,,
+673,44822668972,44822677354,multiple constructions,"(1) Three constructions: Double object construction (DOC), Indirective prepositional construction (IPC) and Serial verb construction (SVC). (2) DOC is secundative by a number of syntactic tests, with respect to binding, extraction, quantifier variable binding and extraction (multiple questions). There is also some coding evidence for secundative alignment: the form of weak pronouns, also the behavior of the boundedness marker. (3)	SVC shows indirective alignment for the same syntactic tests. (4) IPC is indirective in alignment; yet for a number of constructions there are no superiority effects (extractions, multiple questions). (5) Boundedness marker (delimiter) pertaining to R boundedness in DOC. (6) R superiority effects in DOC irrespective of word order (with a partial exception of reflexive binding).",,,
+714,44822668972,44822673194,indirective flagging,"There are case dependency effects in ditransitives (including derived, e.g. causative construction): if (accusative) T is omitted, the R may take accusative instead of dative. The passive is secundative, as only animate objects can be passivized.",,,
+844,44822668972,44822673194,indirective flagging,(1) There is an indirective postpositional construction vs. an internal possessor construction. (2) Causatives are also indirective. (3) Reflexives and reciprocals are also indirective; formed either through a possessive-adpositional strategy or through adverbs (‘mutually’). (4) There is a peculiar benefactive form which is denominal.,,,
+866,44822668972,44822673194,indirective flagging,"(1) Hupa has an applicative vs. an indirective construction. (2) The applicative construction can also be regarded as ""incorporated postpositions"" or indirective indexing. (3) There are no animacy effects, but inanimate agreement with R implies that it is of a lower animacy class (animate Requirement). (4) Massive suppletion: ditransitive verbs are built on classificatory motion verbs combined with the applicative. (5) There are several applicative markers: the directional (goal, and also addressee have special applicatives. (6) Reflexives and reciprocals are indirective. (7) Passives are neutral as they are impersonal; relativization is also neutral as the verb retains the finite structure.",,,
+928,44822668972,44822673194,indirective flagging,"(1) Flagging is indirective (dative). (2) Indexing, however, is either indirective (with T), or neutral (or tripartite), inasmuch as R is indexed but through a distinct set of agreement markers, special “dative” agreement with R (distinct from object agreement). (3) Indirective agreement is defective: only forms with 3sg, 3pl, and 2pl (indirect) objects are noted.",,,
+929,44822668972,44831089181,secundative indexing,"(1) Monotransitives distinguish between direct and inverse construction; the same distinction with ditransitives: in both constructions alignment is secundative. (2) If T is 1/2 and R is 3rd person, alignment switch to indirective. (3) In relativization and constituent questions (to objects) are based on nominalized/subordinate forms. Both R and T can be questioned/relativized in such way. (4) Basic ditransitives involve varieties of 'give' (which formally involves incorporation: ‘hand-put’), and 'show' (ka-kede face-show ‘show smb smth’), pa-k’ede word-show 'tell'.; sik’i 'bring', ya-pa-eda mouth-word-show 'teach'). Other verb types usually involve applicative markers.",,,
+1052,44822668972,44822673194,indirective flagging,"(1) In perfective (ergative) series alignment is strictly indirective: T/P unmarked, R in dative; (2) in imperfective (accusative) series alignment is split-indirective, as T/P (like R) can also be in the dative (and also indexed by DAT enclitics). Yet, in general, T is more P-like since it allows for the case alternation (DAT/NOM) under the same conditions (related to Animacy Hierarchy) as P; (3) another argument for indirective alignment (that carries over to the imperfective construction) is that in both cases only T can be passivized (also from a double dative pattern); (4) the only genuine double object pattern is found in causative constructions, where the causee may show the DAT/NOM alternation identical to P.",,,
+1088,44822668972,44845350243,mixed alignment,"Ket has an open dative-allative construction with indirective flagging/indexing, and a closed class of ditransitives taking a double object construction. In the double object construction, indexing is usually secundative, but when the T is a 1/2 person pronoun, there is an alignment switch: the construction changes to the dative construction. Another peculiar feature of the double object construction is that the verb includes an “applicative” marker derived from the fossilized inanimate object-theme marker. Resultative passive: passivization is indirective in the dative construction, but blocked in the double object construction (with 'give'). Reflexives and reciprocals can be expressed through verbal indexing (object markers or special same-reference markers). In the double object construction, these markers predictably refer to the R in the dative construction and they predictably bind T (if animate), but (at least for reciprocals) can also bind R. Relativization: both R and T can be relativized by gapping in the double object construction, but in the dative construction, relativization of the R requires a resumptive pronoun. Event nominalization: in the dative construction, T can genitivize (like P), 'give' verbs participating in the double object construction do not form infinitives. There are three different 'give' verbs, one of them indirective, the two others neutral. The latter differ in aspectual properties (a special case of aspectual suppletion).",,,
+1106,44822668972,44822673194,indirective flagging,"(1) Dative/allative alternation with typical ditransitives to indicate permanent vs. temporary transfer; (2) special (Locative) constructions with verbs of speech and morphological causatives; (3) all constructions are indirective; some verbs are also indirective in indexing (have class-prefixes for P/T); (4) reflexives and reciprocals are of pronominal type so in principle can substitute for both T and R. Interestingly an absolutive T can also bind an (ergative) A; this is even a preferred construction for reciprocals; (5) there is person suppletion with give (R 1,2 vs. 3rd person).",,,
+1166,44822668972,44822673194,indirective flagging,"(1) Five different dative markers with animacy/honorific distinctions; (2) three different constructions depending on whether R is marked by dative postposition, accusative postposition, or combinations of both (in the last case can be explained as a focus particle homophonous to ACC; maybe this explanation carries over to other constructions as well); (3) passivization applies to T in a dative construction rather to R (although it may apply to IO of take/rob-verbs (since “indirect passives” have an  adversative value?). However, it cannot apply either to R or T in a double O construction; (4) while syntactic status (rank) of R and T in a double O construction is difficult to determine (some tests – passivization – do not apply, some other apply to both), for derived (causative) ditransitives, it is clearly the accusative causee in a double O construction which is the main object (cf. Kozinsky & Polinsky 1993).",,,
+1179,44822668972,44822677354,multiple constructions,"(1) Alignment of coding: (a) Indirective with prepositional R (may be shifted); (b) Double O construction with few (basic and derived) ditransitives; (c) The choice depends on R ranking on person hierarchy (secundative obligatory with 1,2 person R). (2) Syntactic behavior: (a) passivization of only T; (b) relativization possible for T only from the indirective construction (for R indirective construction is also preferable).",,,
+1241,44822668972,44822675275,neutral,"(1) 'Give' is the only basic ditransitive verb (with two object agreement markers). In the applicative construction the applied object is preferentially encoded through object agreement, although Williamson notes example of applicatives with the double object agreement. Van Valin, however, states that the constructions with pronominal Ts must be encoded by the monotransitve construction (with a postpositional R/Source) rather than the applicative construction. (2) Word order freezing with animate Themes. (3) although in basic forms most ditransitives (except for 'give'?) are applicatives, in reciprocal but also reflexive forms some verbs do not need to be applicative marked. (4) antipassive (of the indefinite O type): it  can apply to both R and T of basic ditransitives, but not  to derived ditransitives.",,,
+1253,44822668972,44822677354,multiple constructions,"(1) With basic ditransitives an alternation of the double object construction with R indexing or indirective construction with the T-indexing. (2) Animacy effects: if T is human and pronominalized it is preferentially indexed (resulting in the indirective construction)
+(3) Benefactive construction is also secundative; similar animacy effects as in the basic construction. In benefactives of ditransitives Ben is preferentially indexed (as a primary object), R is prepositional in this case. (4) Topicalization instead of passive: both R and T can be topicalized; the resumptive agreement being used; in the prepositional construction object pronoun is retained on the preposition. (5) Relativization of objects by gapping: both objects can be relativized from the DOC, the resumptive object pronoun is retained on the preposition if the prepositional R is relativized (6) Middle voice (also in the anticausative and) reflexive function; apparently only direct objects are targeted.",,,
+1407,44822668972,44822677354,multiple constructions,"(1) Two basic constructions: (a) Secundative (indexing) DOC with ‘give’, ‘take away’, plus all applicatives; (b) Indirective postpositional construction with underived transitives (non-applicatives). (2) Inverse formation is secundative in the DOC (R is registered in the inverse construction if higher than A), and is indirective in the indirective construction. Note (above) that inverse system in applicatives carries over to possessors of a primary object (P/R) arguments. (3) Passive is also secundative (R passivizes) in DOC, and indirective (T passivizes) in the postpositional construction. (4) Relativization is apparently neutral (direct/inverse distinction retained?). (5) Word order is strict in the DOC: A V T R.
+(6) Verbs: meaning shift: 'see-APPL' > 'find for' (pe-lel-n ‘see or find something for somebody’).",,,
+1556,44822668972,44822676048,secundative flagging,"All ditransitives (basic and derived) can be used in either direct or inverse constructions, depending on the animacy hierarchy between A and R/P (A vs. causee/applied object in a derived construction).",,,
+1755,44822668972,44831089181,secundative indexing,"(1) Basic secundative ditransitive construction, but when T is omitted or “absorbed” (by incorporation, etc), then ""monotransitive secundative"" (using a special set of object indexes). (2) Yet the language can be analyzed as a kind of minor split marking although the majority of Ps are indexed as Rs; the minority is indexed like Ts. (3) Animacy restrictions: T can’t be 1,2 person (unless circumlocutions are used). (4) Syntactic properties are either (a) neutral (relativizations; quantifier launch) or (b) secundative (including incorporation and also antipassives?) (5) An unusual syntactic property is the obviation hierarchy.",,,
+1763,44822668972,44822675275,neutral,"(1) Zavala describes the basic pattern of basic/derived ditransitives as secundative: coding is neutral, but most syntactic properties are secundative: passivization, inverse formation, signaling coreference through the use of the reflexive-reciprocal marker. (2)	still, the T retains some core properties: it is unflagged, it relativizes (like R), it may trigger PL agreement on the verbs. Note that oblique/postpositional phrases and incorporated NPs do not show these properties (p. 673). (3) The only consistently indirective feature is quantiifier float, which pertains to T even in the double object construction. (4) Questioning of R involves an applicative formation (also for 'give'?).",,1561,
+1871,44822668972,44822675275,neutral,"Ditransitives form a double object construction (with P-flagged Rs); benefactives (and addressees) form an indirective construction with oblique-marked beneficaries. Marking involves two kinds of flagging (suffixal and clitic), but the latter is reminiscent of indexing as involves enclitics attached to arguments. In the basic double object construction, there are animacy effects (a kind of differential object marking): only animate objects take P-case. Passivization is non-promotional, with no restrictions. Relativization is internal, with no restrictions. Verbal plural markers pertain to P/T arguments. 'Give' verbs: one is a causative of 'take', another is basic 'give' (prolonged object). Causatives also form a double object construction. Oblique case is used for beneficiaries and possessors.",,,
+1893,44822668972,44845350243,mixed alignment,"(1) Ditransitive constructions: with either dative or genitive R. (2) In both cases, flagging is indirective, but indexing secundative (AGRo=r is optional though). (3) Split between constructions is semantic: dative for goals; genitive for beneficiary; interestingly, 'give' belongs to the beneficiary class. (4) Relativization uses the same strategy (same participle/nominalizer) for R/beneficiary and A, but different for P/T. It is actually an animacy effect: animate vs. inanimate relativizers.",,,
+2012,44822668972,44822673194,indirective flagging,"(1) No suppletive deictic verbs, but deictic prepositions for R. (2) R is usually introduced by locative, but beneficiary may remain unmarked. (3) R behaves like a core argument by most syntactic criteria (relativization; questioning); also some idiosyncratic (hosting possessive clitic); but T apparently also behaves similarly. (4) In imperatives, R is unmarked like a beneficiary (an antiergative pattern extended to indirect objects?).",,,
+2020,44822668972,44822677354,multiple constructions,"Seven different ditransitive patterns (some however from not canonical ditransitives), including: two different monotransitive patterns (with indirective and secundative alignment); ditransitive with number sensitive labile alignment: secundative with sg R, neutral (double oblique) with plural R. Allows for both “direct” linking between roles and different AGR slots (P=AGRo; R=AGRio), and “inverse” linking (P=AGRio; R=AGRo).",,,
+2110,44822668972,44822673194,indirective flagging,"(1) Most ditransitive verbs only in the indirective prepositional construction
+(2) GIVE (and ASK/beg) allow for a switch to a secundative construction (dative shifted into a preverbal object position, T marked by a locative postposition). This pattern is however marginal. (3)	Word order is strictly: A-P/T-V-Obl. That is, R patterns with obliques (in an indirective pattern). (4)	Passivization: only T can be passivized from indirective, and only R can be passivized from the secundative one. (5) Extractions (questioning, relativization and questioning) treat prepositional R as other prepositional objects and distinctly from T/Ps; that is, alignment is indirective (in the main indirective pattern). (6) Serial verb construction distinguishes between the same two constructions: shifted and unshifted patterns.",,,
+2181,44822668972,44845350243,mixed alignment,"(1) Flagging: No case marking (apart from the marked nominative); (2) Indexing: Alignment depends on he verb class. Two verb classes: one of them shows gender agreement with Os the other does not; in both classes subjects and objects can be cross-referenced by proclitics; (3) With gender-inflecting verbs the pattern is rather indirective: T like P can be cross-referenced by gender proclitics (in 3rd person), R can’t; (4) With non-inflecting verbs, A, R and T cross-referenced by proclitics. Positionally, R-proclitics pattern with P-proclitics occurring in the preverbal slot; hence alignment rather secundative (the form of the proclitics is noncommittal though).",,,
+2191,44822668972,44822676048,secundative flagging,"(1) basic secundative, and marginal prepositional benefactive (the latter may be turned into secundative by preposition incorporation); (2) inverse effects in ditransitive construction: the form of the secondary O (T in a basic construction) depends on person of BOTH subject and primary object (R); (3) Applicative marker when applied to the basic secundative construction has an “anti-benefactive” effect demoting the R to oblique (or suppressing it).",,,
+2234,44822668972,44822673194,indirective flagging,"A dative construction, indirective in flagging and indexing (which is hierarchical for A and P/T arguments). (2) Derived (causative) ditransitives also take a dative pattern. (3)	Word order also seems to be indirective as far as OV freezing is concerned. (4) Applicatives-benefactives are absent except for benefactive verbalization reminiscent of T incorporation. (5) Monotransitive construction shows a minor TAM split: the remote past (of participial origin) following an ergative pattern (A is in dative). (6) Relativizattion is performed trough different nominalizers, agentive, patientive (apparently also for Ts); R/Ben arguments can be relativized only through a benefactive verbalization.",,,
+2239,44822668972,44822677354,multiple constructions,"(1) Has indirective or secundative ditransitive construction: both involve T-incorporartion (the former apparently optional). (2) In monotransitives O-incorporation is optional for animate Ps, but is obligatory for Ts even if animate. (Thus: T > P > S > A). (3) In the indirective construction R is oblique, and does not passivize; in a secundative construction only R passivizes. (4) Yet T in a secundative pattern not a regular chomeur as it can control PL/AGR on V, as other incorporated Os.",,,
+2241,44822668972,44845350243,mixed alignment,"The main highlight: it is not clear how to define ditransitive alignment in Tlapanec as it is modelled (related) to non-canonical ditransitives (meet/like-verbs); with this qualification alignment is rather secundative. (1) Flagging in both monotransitive and ditransitive construction is neutral, but the indexing system ifs very complex as it depends on a) a number of animate participants; b) person hierarchy; semantic transitivity. (2) Monotransitive construction: (a) canonical (mono)transitive construction has ergative features combined with direct-inverse features: If P is animate it is indexed by “absolutive agreement”, if P is inanimate then a sort of antipassive constructyion s used where A is marked by the “ergative agreement”. (b) Less canonical transitives (like ‘meet’. also psych-verbs?) show a different indexing alternation: pegative-dative. If the second (more P-like) argument is 1,2, person, it is indexed by the “dative” indexing, if P is 3rd p. (sg), then it is unmarked and the first argument is marked instead. (3) Canonical ditransitives show the same pegative-dative pattern as less canonical monotransitives: R like P is indexed by the dative agreement if 1,2 person, while with 3rd person R, A is indexed instead by the “ergative” agreement. So the indexing pattern is rather secundative with the proviso that R aligns with Ps of less canonical transitives. (4) With animate and pronominal Ts, the verb receives a special marker, but the alignment remains secundative; the (pronominal) T is now introduced by an inflected auxiliary, which can be considered as a kind of secundative alignment. (5) Ditransitive verbs: (a) canonical ditransitives take a pegative/dative construction (b) caused motion verbs are simle (mono)transitives with ergative/absolutive pattern; Goal is introduced by a preposition
+(c) benefactive verbs take a construction with an internal beneficiary (encoded as possessor of the theme) (6) Syntactic properties: (a) passive is resultative, hence only Ts passivize. (b) Relativization, questioning, focusing is neutral (buttonly illustrated for the pegative variant) (c) Reflexive formation is indirective, but reciprocal formation is secundative. Both involve anaphoric pronouns.",,,
+2293,44822668972,44822676048,secundative flagging,"(1) a split between ergative and (unmarked) antipassive constructions which carries over from monotransitive to ditransitrive clauses; (2) in the ergative ditransitive construction coding (flagging and indexing) is indisputably secundative, while in the antipassive construction flagging and indexing is neutral; (3) few basic ditransitives; these show some symmetric syntactic properties (e.g. both can be passivized, although apparently R has preference in relativization); (4) derived (applicative and causative) constructions show a more pronounced asymmetries between objects: only the derived (e.g. applied O) can control syntactic O properties; (5) “antidative” effects (T-promotion) when applicatives derive fronm ditransitives",,,
+2298,44822668972,44822675275,neutral,"(1) ditransitives (both basic and derived) form a double O construction (no indexing; same OBJ case); (2) If R postverbal, OBJ case is optional; (3) few basic ditransitives, and numerous applicatives; (4) R (preferentially?) passivizes from a (derived) ditransitive construction. – Most ditransitives are derived.",,,
+2323,44822668972,44831089181,secundative indexing,"(1) In the canonical ditransitive construction (double O construction) a secundative pattern in indexing and also passivization (flagging is neutral). (2) All ditransitive constructions proper are derived by (applicative marker), including 'give'. Without applicative marker, 'give' basically monotransitive. – The Double Object Secundative Construction is the basic ditransitive construction (although morphologically a derived, applicative, one).",,,
+2359,44822668972,44822677354,multiple constructions,"(1) Two basic constructions are the Double Object Construction and the indirective Adpositional construction. Alignment in these constructions is complicated by a: TAM-based split ergativity; b) Differential object marking; c) minimal case systems (with direct/oblique distinctions). As a result, many different patterns including the double oblique in monotransitives. The ditransitive alignment in largely indirective (in both flagging and indexing), with T being coded similarly to P. (2) An interesting type of R-indexing construction of the possessive type, where R is indexed enclitically on T (money-his gave = gave him). His construction is reminiscent of a possessive construction, but also certain similarity to P encoding which may also be displaced (although normally procliticizes to the verb).",,,
+2447,44822668972,44822675275,neutral,"(1) König & Heine conclude that there are no ditransitive verbs in !Xu and that the construction is fully symmetrical (by syntactic tests), and that indirective/secundative distinction is not applicable. (2) Yet, it appears that some syntactic properties rather suggest that the first object reveals O-properties; e.g., only R can be passivized from the secundative pattern, and only T from the indirective one. This is quite clear for cases when the secundative pattern is derived by a-applicative (e.g. topicalization applies only to promoted objects with a-marked verbs). What holds is that basic ditransitives may appear in either pattern (because many of them historically contain an “quasi-applicative” -a?). (3) Yet other transformation (topicalization, questions/extraction, relativization) apparently are indeed symmetric (i.e. apply both to first and second object), as the stranded/retained object need not be introduced by the ke preposition. With nominalization, apparently T can be “genetivized” (put into the possessor position) even from the secundative pattern (as bare R can be retained), which confirms general preference for T-genitivization. (4) Interesting lexical splits: several give verbs distributed into several classes (the suppletive give-me verb is basically monotransitive). Notably 'give' is not the most frequent ditransitive verb, which is 'tell'.",,,
+2471,44822668972,44822677354,multiple constructions,"Yaqui has a (neutral) Double-Accusative Construction and an (indirective) Postpositional Construction; different verbs take different constructions (there are no alternations). – In the Double-Accusative Construction, it is (only) the R that can be passivized, while in the Postpositional Construction, it is (only) the T that can be passivized. – (1) A limited class of basic ditransitives taking a double accusative construction; the other take the dative construction. (2) Double accusative is the only possible construction for derived ditransitives (applicatives, causatives, desideratives). The only causative taking the dative object undergoes a meaning shift (see-caus ‘show’ -> ‘send’). (3) Syntactically, by most criteria the double object construction is symmetrical (proclitic indexation, reflexives, omission, apparently also relativization); some other properties are asymmetric though; (4) Passivization is secundative in a double accusative construction (is indirective in the dative one); however, pronominal Ts (in contrast to animate Ts) can be also passivized (Rude) (5) R-incorporation is impossible even for accusative R (Escalante) (6) T-questioning is impossible in the passive derived from a double object constructions (Escalante); however, in active double object constructions T can apparently be questioned (Zarina Estrada)",,,
+2502,44822668972,44822677354,multiple constructions,"(1) The basic secundative prepositional construction (which is also used with instrument, external possessors, etc); (2) the basic construction alternates with the prepositional serial verb construction when the T is definite/pronominal; (3) there are additionally a special allative construction, with Goal-like Rs (send, etc); (4) and the benefactive serial verbs construction, based on the verb GIVE; (5) passivization is not applicable to ditransitives as the assive is a concrete objective resultative; (6) extraction (WH-questions, relativization, etc) can target both R and T; however unlike R in indirective (allative and benefective) constructions, where prepositions are stranded, in the secundative construction NI is deleted rather than stranded. This is probably due to the fact that the oblique NI is historically identical to the focus marker NI; (7) only T can be omitted from the secundative NI construction, R cannot; (8) similarly, in gerundive nominalization only R must  be retained in the secundative construction; (9) in “possessive incorporation” with gerundives though only T can be preposed incorporated from a secundative pattern.",,,
+2552,44822668972,44831089181,secundative indexing,"(1) An asymmetric double object construction rather than symmetric (R is indexed more regularly than T). (2) In syntactic properties also rather secundative, insofar as passivization of T is dispreferred, and relativization follows an oblique pattern. (3) Derived ditransitives (especially causatives) seems to be more pronounced asymmetrical-secundative.",,,
+2561,44822668972,44822677354,multiple constructions,"(1) Not clear whether li-applicative is introducing  R or T. (2) The split between verbs which take the li-construction (ditranitives, also benefactive verbs), double object construction very few ditransitives, but also 'feed/hit' verbs, 'call' verbs also 'steal' verbs, ye-allative construction (mostly motion verbs, also temporary transfer); verbs of speech have a separate patterns which they only share with 'show'; (3) Remarkably no 'give' verb, or is it grammaticalized re ('take, put'?), rather many canonical monotransitives acquire give-sense in the construction with the applicative. Grammaticalized re-verb is used for 'give' with the applicative but as 'show' with vbii. (4)Ye-construction (A V T ye R; ye < come), as well as vbii-construction (A V T vbii R; vbii < appear) are formally serial verb construction. It is difficult to decide alignment: are they T serializing or R-serializing. Especially SVCs where both verbs are grammaticalized (“balanced SVC”) are problematic, may be better viewed as complex predicates.",,,
+2562,44822668972,44831089181,secundative indexing,"(1) Focuses on properties of derived ditransitives (applicatives/causatives); they may show differences; e.g. only applicatives show animacy effects. (2) Alignment is secundative in agreement (case neutral); but PL agreement (as opposed to person agreement may pertain to P). (3) Syntactic properties  also secundative, including: (a) deictic (topic/determiner) preferably with O2; (b) left-dislocation/topicalization preferably with O2; (c) reflexive marking: A preferentially binds O2; (d) control: O2 controls zero subject in a purposive clause; (4) Qualifications: (a) relativization is neutral: both Os can be relativized; (b) causative constructions show deviations in that P is preferably bound in reflexives, and also a controller in purposive constructions; (c) instrumental applicatives do not promote the instrument to primary O in either agreement or in syntactic properties. (4)  Animacy effects if P higher than O2.",,,
+2563,44822668972,44831089181,secundative indexing,"(1) The basic ditransitive construction is neutral (in flagging: double oblique), but rather secundative (in indexing). (2)	Animacy effects: If T higher than R on AH, then indirective indexing. (3) Thorne regards the double oblique construction as basically symmetric syntactically: (a) both Os passivize; (b) both relativize. (4) Antipassivization, though, is indirective (applies to P/T).",,,
+2564,44822668972,44822677354,multiple constructions,"(1) Generally evidence for R-primacy in benefactive construction (with respect to passivization, preposing, relativization, reflexivization), with a partial exception of equi (Chung). (2) Lexical splits (Sneddon): (a) few ditransaitives are non-derived; (b) many notional ditransitives are with (directional) applicative (in -i); (c) other ditransitives are with benefactive/causative applicative (in -kan); here the third argument is beneficiary rather than recipient proper; (d) if both applicatives available, then -i applicative has secundative alignment, while -kan applicative has indirective alignment (R is prepositional) (e) the same alternation between the two applicatives is attested for the locative (spray/load) alternation, as well as for the instrumental alternation (hit dog with stick vs. hit stick to dog).",,,
+2565,44822668972,44822677354,multiple constructions,"(1) Jalonke (Yalunka) has several constructions, which partly take the same marker: Locative (and also instrumental) can appear on both R and T participants in different patterns; (2) 'give' is indirective, but 'steal/take' is secundative; (3) Syntactic tests also make a strict distinction between core and oblique (postpositional) arguments: only the former can be passivized and only the latter omitted.",,,
+2566,44822668972,44822673194,indirective flagging,(1) The basic construction is locative indirective. (2) The double object construction is marginal for basic ditransitives but seems to be basic for the derived (causative). (3) Applicatives use the genitive R construction.,,,
+2568,44822668972,44822677354,multiple constructions,"(1) Split between verbs with different alignment patterns: tuni is secundative when used as 'give' and indirective when used as 'sell'. (2) The applicative marker marking benefactive advancement (with monotransitives) is used as a “antibenefactive” marker (marking demotion of beneficiary)  when applied to the basic secundative pattern.
+(3) Passive and relativization follows the alignment pattern: only main object (R in a secundative and T in the indirective construction ) is accessible; (4) Quasi-incorporation and to a certain degree also antipassive shows indirective preferences: T is accessible even in the secundative construction.",,,
+2574,44822668972,44822677354,multiple constructions,"(1) Generally, the higher object is indexed; in case when T is 3rd person they are both indexed; if T is 1st/2nd person they index T only, switching to indirective construction (a special case of a person-case constraint). Note: some other dialects might manifest the same constraint through reordering of object agreement suffixes. (2) If both T and R are definite, indexing is variable (can index either of the objects); flagging is secundative though as the dative preposition can introduce R and (definite) P, but not Ts (i.e. DOM is suspended in ditransitives). However in some dialects P is not consistently marked by ta.  
+(3) There is a double indexing construction where both R and T are indexed in that order through object agreement; T-agreement suffix is preceded by i- which makes it similar to specialized T-indexing pattern. (4) (§8.2.1.) Originally the AGRo suffixes marked R, only later extended to P (NB cf. evolution of DOM). (5) There is a ‘pseudo-passive’ perfective construction, originating from passive but having been reanalyzed as perfective active. This allows for P/T-‘passivization’ (actually, synchronically, P/T arguments count as objects, but they are indexed in the subject slot). (6) Analytic forms make use of verbal nouns; apparently both R and T are encoded as possessives in constructions that allow double indexing.",,,
+2575,44822668972,44822675275,neutral,"(1) Monotransitive constructions are accusative in indexing subject coding through suffixes), but with a further verb split: most verbs do not index an object; 5 verbs index the object with an object prefix, additionally, 50 verbs encode the object with a classifier prefix. The latter group includes bothmonotransitives and a few basic ditransitives like 'give' and 'send'. Note: classifier-indexing has an indirective bias. (2) The basic ditransitive construction with the neutral flagging, and indirective indexing. According to Fedden, indirective indexing could have developed from a contraction of the object prefix with the vestigial auxiliary, with subsequebnnt encliticization to the main verb (give + him-aux give-agr/r). (3) Has 3 basic ditransitives: the basic perfective verb -ub-, the imperfective -ka- (presumably < ‘put’), and the “zero verbs” ‘take, handle’, which is used as ‘give’ when it combines with recipient suffixes. NB aspectual suppletion.  (4) All other verbs are applicatives (based on ‘give’), including 'tell'< 'show' and 'send', although the last two are deponent (lexicalized) applicatives. (5) Interestingly, the applicative derivation is obligatory only with the perfective 'give', with imperfective recipient suffixes attach directly.",,,
+2576,44822668972,44822673194,indirective flagging,"(1) Dative constructions which can be either dative flagging or dative indexing (as the dative pronoun encliticizes to the verb). (2) Double object construction is only found with 'give'. (3) Ditransitive alignment is complicated by the fact that monotransitive flagging is either neutral or ergative dependent on word order. (Is it only postverbal A or also S?) (4) Passive of the resultative type, hence indirective. (5) Nominalization is neutral for the dative construction (although blocks R encliticization for pronominal Rs), but for 'give', T genitivizes, and T is retained?  (6) Focussing involves fronting to the preverbal position; with R focusing the dative clitic encliticizes to the verb instead of procliticizing to R.  (7) Causatives of transitives form a dative construction when T is is expressed, but R can be encoded as direct object when T is missing (valency effects) (8) With 'give', the R must be expressed, unless directional suffixes (ventive, etc) are used. But directional suffixes can also co-occur with R-marking.",,,
+2577,44822668972,44822676048,secundative flagging,"(1) Indexing is secundative: possible for subclass of animate object verbs (P/R). (2) Double object construction only with GIVE and is marginal. (3) The basic ditransitive construction is secundative. with T introduced by ma: an oblique marker derived from ‘come’. Not clear oblique flagginf or a serial verbs construction. (4) An alternative construction is a proper serial verbs construction: it is less grammaticalized and build on transitive verbs ‘take/hold’ introducing T. (5) The later construction is used with animate Ts, not the ma-construction. (6) In the basic oblique pattern T is frequently omitted. R can be also omitted (but indexed on the verb). (7) Even if R is missing, T must be introduced with ma: no valency effects. (8) The distinction between transfer of possession and caused motion give senses is lexically distinguished but they appear in the same (oblique) pattern. In other words, the R of mian ‘put at’ denotes a person as a location or goal, while the R of an is is a person that is a recipient or benefactive. (9) ‘to bring’ using the action verb pin ‘hold’i s also used in an internal R construction: Did you bring something for me? (Lit. Do you hold my-something?)",,,
+2578,44822668972,44822677354,multiple constructions,"(1) The basic construction for ditransitives is a double object construction; the verbs of transfer, however, follow the indirective pattern except for the few which seem to include a petrified applicative marker. (2) Passive formation is neutral with a double object construction and indirective with the direct object construction. (3) There is a special “detransitivization” construction reminiscent of both antipassive and (analytic) incorporation. With secundative ditransitives agreement with R is suspended; interestingly, not only R but also T should be non-specific in that construction. In the indirective construction, T-indexing is suspended but again both objects should be non-specific. (4) Chintang has a special case of object to subject raising. Raising refer to agreement (indexing of an object on the matrix verb), hence it follows indexing alignment: it operate on secundative basis with basic ditransitives (and on indirective basis with caused motion verbs which have an indirective indexing). (5) Both reflexives ad reciprocals involve verbal derivation. Apparently, in both cases both R and T can be bound by A (although for reflexives the option of A binding T was not exemplified).",,,
+2593,44822668972,44822677354,multiple constructions,Allative and Double-Object construction alternate.,,,
+2902,44822668972,44822673194,indirective flagging,,,,
+2837,44822668972,44822675275,neutral,,,,
+2839,44822668972,44822673194,indirective flagging,,,,
+2851,44822668972,44822677354,multiple constructions,,,,
+2701,44822668972,44822673194,indirective flagging,,,,
+2608,44822668972,44822673194,indirective flagging,,,,
+2601,44822668972,44822673194,indirective flagging,,,,
+2602,44822668972,44822677354,multiple constructions,,,,
+2835,44822668972,44822673194,indirective flagging,,,,
+2853,44822668972,44845350243,mixed alignment,,,,
+2710,44822668972,44822673194,indirective flagging,,,,
+2650,44822668972,44845350243,mixed alignment,,,,
+2653,44822668972,44845350243,mixed alignment,,,,
+4,44822668972,44822673194,indirective flagging,,,,
+2863,44822668972,44822673194,indirective flagging,"Tsez has indirective flagging, with Absolutive case on the T and Lative case on the R if the transfer is permanent or the Poss-Lative if the transfer is temporary (Comrie 2000: 363).",,563,363
+2716,44822668972,44822673194,indirective flagging,,,,
+2433,44822668972,44822675275,neutral,,,,
+2590,44822668972,44822676048,secundative flagging,,,,
+2596,44822668972,44845350243,mixed alignment,,,,
+2598,44822668972,44822675275,neutral,,,,
+2599,44822668972,44822675275,neutral,,,,
+2604,44822668972,44822673194,indirective flagging,,,,
+2605,44822668972,44822673194,indirective flagging,,,,
+2622,44822668972,44822673194,indirective flagging,,,,
+2624,44822668972,44822673194,indirective flagging,,,,
+2626,44822668972,44822673194,indirective flagging,,,,
+2629,44822668972,44845350243,mixed alignment,,,,
+2630,44822668972,44822677354,multiple constructions,,,,
+2631,44822668972,44822673194,indirective flagging,,,,
+2632,44822668972,44822673194,indirective flagging,,,,
+2633,44822668972,44822673194,indirective flagging,,,,
+2634,44822668972,44831089181,secundative indexing,,,,
+2637,44822668972,46062286385,indirective indexing,,,,
+2638,44822668972,44822673194,indirective flagging,,,,
+2639,44822668972,44822675275,neutral,,,,
+2640,44822668972,44831089181,secundative indexing,,,,
+2641,44822668972,44822673194,indirective flagging,,,,
+2642,44822668972,44831089181,secundative indexing,,,,
+2643,44822668972,44822675275,neutral,,,,
+2644,44822668972,44822675275,neutral,,,,
+2646,44822668972,44822675275,neutral,,,,
+2647,44822668972,44822675275,neutral,,,,
+2648,44822668972,44822673194,indirective flagging,,,,
+2649,44822668972,44822673194,indirective flagging,,,,
+2651,44822668972,44822673194,indirective flagging,,,,
+2652,44822668972,44822675275,neutral,,,,
+2654,44822668972,44822675275,neutral,,,,
+2655,44822668972,44822673194,indirective flagging,,,,
+2656,44822668972,44822675275,neutral,,,,
+2657,44822668972,44822673194,indirective flagging,,,,
+2658,44822668972,44831089181,secundative indexing,,,,
+2659,44822668972,44822675275,neutral,,,,
+2660,44822668972,44822673194,indirective flagging,,,,
+2661,44822668972,44822673194,indirective flagging,,,,
+2662,44822668972,44822675275,neutral,,,,
+2663,44822668972,44822673194,indirective flagging,,,,
+2664,44822668972,44831089181,secundative indexing,,,,
+2665,44822668972,44822675275,neutral,,,,
+2666,44822668972,44822675275,neutral,,,,
+2667,44822668972,44822675275,neutral,,,,
+2668,44822668972,44822673194,indirective flagging,,,,
+2669,44822668972,44822673194,indirective flagging,,,,
+2670,44822668972,44822675275,neutral,,,,
+2671,44822668972,44831089181,secundative indexing,,,,
+2672,44822668972,44822673194,indirective flagging,,,,
+2673,44822668972,44822673194,indirective flagging,,,,
+2674,44822668972,44822673194,indirective flagging,,,,
+2675,44822668972,44822673194,indirective flagging,,,,
+2676,44822668972,44831089181,secundative indexing,,,,
+2677,44822668972,44822675275,neutral,,,,
+2678,44822668972,44822673194,indirective flagging,,,,
+2679,44822668972,44822673194,indirective flagging,,,,
+2681,44822668972,44822673194,indirective flagging,,,,
+2682,44822668972,44845350243,mixed alignment,,,,
+2683,44822668972,46062286385,indirective indexing,,,,
+2684,44822668972,44822675275,neutral,,,,
+2685,44822668972,44822673194,indirective flagging,,,,
+2687,44822668972,44822673194,indirective flagging,,,,
+2688,44822668972,44822673194,indirective flagging,,,,
+2689,44822668972,44822673194,indirective flagging,,,,
+2690,44822668972,44822673194,indirective flagging,,,,
+2692,44822668972,44822673194,indirective flagging,,,,
+2693,44822668972,44822673194,indirective flagging,,,,
+2694,44822668972,44822676048,secundative flagging,,,,
+2696,44822668972,44822673194,indirective flagging,,,,
+2697,44822668972,44845350243,mixed alignment,,,,
+2698,44822668972,44822673194,indirective flagging,,,,
+2700,44822668972,44822675275,neutral,,,,
+2704,44822668972,44822675275,neutral,,,,
+2705,44822668972,44822675275,neutral,,,,
+2706,44822668972,44822673194,indirective flagging,,,,
+2708,44822668972,44822673194,indirective flagging,,,,
+2709,44822668972,44822673194,indirective flagging,,,,
+2711,44822668972,44822673194,indirective flagging,,,,
+2712,44822668972,44822675275,neutral,,,,
+2713,44822668972,44822675275,neutral,,,,
+2714,44822668972,44822675275,neutral,,,,
+2715,44822668972,44822675275,neutral,,,,
+2717,44822668972,44845350243,mixed alignment,,,,
+2719,44822668972,44822673194,indirective flagging,,,,
+2720,44822668972,44822673194,indirective flagging,,,,
+2722,44822668972,44822673194,indirective flagging,,,,
+2724,44822668972,44822673194,indirective flagging,,,,
+2725,44822668972,44822675275,neutral,,,,
+2726,44822668972,44822673194,indirective flagging,,,,
+2727,44822668972,44822673194,indirective flagging,,,,
+2728,44822668972,44831089181,secundative indexing,,,,
+2729,44822668972,44822673194,indirective flagging,,,,
+2606,44822668972,44822673194,indirective flagging,,,,
+2610,44822668972,44822675275,neutral,,,,
+2611,44822668972,44822673194,indirective flagging,,,,
+2612,44822668972,44822673194,indirective flagging,,,,
+2613,44822668972,44845350243,mixed alignment,,,,
+2614,44822668972,44831089181,secundative indexing,,,,
+2615,44822668972,44822673194,indirective flagging,,,,
+2616,44822668972,44822673194,indirective flagging,,,,
+2617,44822668972,44822673194,indirective flagging,,,,
+2618,44822668972,44831089181,secundative indexing,,,,
+2620,44822668972,44822673194,indirective flagging,,,,
+2621,44822668972,44831089181,secundative indexing,,,,
+2900,44822668972,44822675275,neutral,,,,
+2901,44822668972,44822675275,neutral,,,,
+2904,44822668972,44822675275,neutral,,,,
+950,44822668972,44822673194,indirective flagging,,,,
+2730,44822668972,44822673194,indirective flagging,,,,
+2731,44822668972,44822673194,indirective flagging,,,,
+2734,44822668972,44822673194,indirective flagging,,,,
+2735,44822668972,44822673194,indirective flagging,,,,
+2736,44822668972,44831089181,secundative indexing,,,,
+2737,44822668972,44831089181,secundative indexing,,,,
+2739,44822668972,44822673194,indirective flagging,,,,
+2740,44822668972,44822673194,indirective flagging,,,,
+2741,44822668972,44822673194,indirective flagging,,,,
+2742,44822668972,44822675275,neutral,,,,
+2743,44822668972,44822673194,indirective flagging,,,,
+2744,44822668972,44822673194,indirective flagging,,,,
+2745,44822668972,44822673194,indirective flagging,,,,
+2746,44822668972,44822673194,indirective flagging,,,,
+2749,44822668972,44822675275,neutral,,,,
+2750,44822668972,44822673194,indirective flagging,,,,
+2817,44822668972,44822673194,indirective flagging,,,,
+2818,44822668972,44831089181,secundative indexing,,,,
+2819,44822668972,44845350243,mixed alignment,,,,
+2820,44822668972,44822673194,indirective flagging,,,,
+9,44822668972,44845350243,mixed alignment,,,,
+13,44822668972,44822675275,neutral,,,,
+1097,44822668972,44822677354,multiple constructions,,,,
+1180,44822668972,44822677354,multiple constructions,,,,
+1264,44822668972,44822673194,indirective flagging,,,,
+1387,44822668972,44822677354,multiple constructions,,,,
+1839,44822668972,44822673194,indirective flagging,,,,
+1903,44822668972,44822673194,indirective flagging,,,,
+1972,44822668972,44822677354,multiple constructions,,,,
+2225,44822668972,44822677354,multiple constructions,,,,
+2507,44822668972,44822677354,multiple constructions,,,,
+2558,44822668972,44822677354,multiple constructions,,,,
+6,44822668972,44822677354,multiple constructions,,,,
+2559,44822668972,44822677354,multiple constructions,,,,
+2752,44822668972,44822673194,indirective flagging,,,,
+2757,44822668972,44822675275,neutral,,,,
+2762,44822668972,44822675275,neutral,,,,
+2763,44822668972,44822673194,indirective flagging,,,,
+2768,44822668972,44822675275,neutral,,,,
+2771,44822668972,44831089181,secundative indexing,,,,
+2779,44822668972,44845350243,mixed alignment,,,,
+2780,44822668972,44822675275,neutral,,,,
+2784,44822668972,44831089181,secundative indexing,,,,
+2786,44822668972,44831089181,secundative indexing,,,,
+2787,44822668972,44822675275,neutral,,,,
+2789,44822668972,44822673194,indirective flagging,,,,
+2792,44822668972,44822675275,neutral,,,,
+2793,44822668972,44822675275,neutral,,,,
+2795,44822668972,44822673194,indirective flagging,,,,
+2799,44822668972,44822675275,neutral,,,,
+2804,44822668972,44822673194,indirective flagging,,,,
+2807,44822668972,44831089181,secundative indexing,,,,
+2808,44822668972,44822675275,neutral,,,,
+2811,44822668972,44822673194,indirective flagging,,,,
+2813,44822668972,44822675275,neutral,,,,
+2814,44822668972,44822675275,neutral,,,,
+2815,44822668972,44822675275,neutral,,,,
+2816,44822668972,44822675275,neutral,,,,
+2821,44822668972,44822673194,indirective flagging,,,,
+2822,44822668972,44822675275,neutral,,,,
+2830,44822668972,44845350243,mixed alignment,,,,
+2833,44822668972,44831089181,secundative indexing,,,,
+2834,44822668972,44822673194,indirective flagging,,,,
+2836,44822668972,44822675275,neutral,,,,
+2843,44822668972,44822677354,multiple constructions,,,,
+2857,44822668972,44831089181,secundative indexing,,,,
+2858,44822668972,44831089181,secundative indexing,,,,
+2859,44822668972,44822673194,indirective flagging,,,,
+2862,44822668972,44822673194,indirective flagging,,,,
+2864,44822668972,44822673194,indirective flagging,,,,
+2866,44822668972,44822673194,indirective flagging,,,,
+2867,44822668972,44822675275,neutral,,,,
+2870,44822668972,44822673194,indirective flagging,,,,
+2875,44822668972,44822675275,neutral,,,,
+2877,44822668972,44822675275,neutral,,,,
+2880,44822668972,44831089181,secundative indexing,,,,
+2881,44822668972,44822673194,indirective flagging,,,,
+2882,44822668972,44845350243,mixed alignment,,,,
+2884,44822668972,44822675275,neutral,,,,
+2885,44822668972,44822675275,neutral,,,,
+2886,44822668972,44831089181,secundative indexing,,,,
+2890,44822668972,46062286385,indirective indexing,,,,
+2891,44822668972,44822675275,neutral,,,,
+2892,44822668972,44822675275,neutral,,,,
+2894,44822668972,44822677354,multiple constructions,,,,
+2898,44822668972,44831089181,secundative indexing,,,,
+5388536538,44822668972,44822677354,multiple constructions,,,,
+2691,44822668972,44822677354,multiple constructions,,,,
+2699,44822668972,44822677354,multiple constructions,,,,
+2721,44822668972,44822677354,multiple constructions,,,,
+2785,44822668972,44822673194,indirective flagging,,,,
+2809,44822668972,44822677354,multiple constructions,,,,
+2733,44822668972,44822673194,indirective flagging,,,,
+2753,44822668972,44822673194,indirective flagging,,,,
+2754,44822668972,44822675275,neutral,,,,
+2755,44822668972,44822673194,indirective flagging,,,,
+2756,44822668972,44831089181,secundative indexing,,,,
+2758,44822668972,44822675275,neutral,,,,
+2759,44822668972,44822675275,neutral,,,,
+2760,44822668972,44822675275,neutral,,,,
+2794,44822668972,44822673194,indirective flagging,,,,
+2796,44822668972,44822675275,neutral,,,,
+2797,44822668972,44822675275,neutral,,,,
+2798,44822668972,44822675275,neutral,,,,
+2800,44822668972,44822673194,indirective flagging,,,,
+2801,44822668972,44822673194,indirective flagging,,,,
+2803,44822668972,44822673194,indirective flagging,,,,
+2805,44822668972,44822673194,indirective flagging,,,,
+2806,44822668972,44822677354,multiple constructions,,,,
+2810,44822668972,44822673194,indirective flagging,,,,
+2812,44822668972,44822675275,neutral,,,,
+2823,44822668972,44822673194,indirective flagging,,,,
+2824,44822668972,44822673194,indirective flagging,,,,
+2825,44822668972,44822675275,neutral,,,,
+2826,44822668972,44822673194,indirective flagging,,,,
+2827,44822668972,44822675275,neutral,,,,
+2828,44822668972,44822673194,indirective flagging,,,,
+1955,44822668972,44822673194,indirective flagging,,,,
+2761,44822668972,44822673194,indirective flagging,,,,
+2764,44822668972,44822677354,multiple constructions,,,,
+2765,44822668972,44822673194,indirective flagging,,,,
+2766,44822668972,44822675275,neutral,,,,
+242,44822668972,44822677354,multiple constructions,,,,
+46065193430,44822668972,44845350243,mixed alignment,,,,
+2769,44822668972,46062286385,indirective indexing,,,,
+2772,44822668972,44822675275,neutral,,,,
+2774,44822668972,44822673194,indirective flagging,,,,
+2776,44822668972,44822673194,indirective flagging,,,,
+2777,44822668972,44822673194,indirective flagging,,,,
+2778,44822668972,44831089181,secundative indexing,,,,
+2781,44822668972,44831089181,secundative indexing,,,,
+2783,44822668972,44822675275,neutral,,,,
+2788,44822668972,44822675275,neutral,,,,
+2790,44822668972,44822673194,indirective flagging,,,,
+2791,44822668972,44822673194,indirective flagging,,,,
+2829,44822668972,44822673194,indirective flagging,,,,
+2831,44822668972,44822673194,indirective flagging,,,,
+2850,44822668972,44822677354,multiple constructions,,,,
+2871,44822668972,44822673194,indirective flagging,,,,
+2872,44822668972,44822673194,indirective flagging,,,,
+2873,44822668972,44822673194,indirective flagging,,,,
+2876,44822668972,44822675275,neutral,,,,
+2879,44822668972,44822675275,neutral,,,,
+2883,44822668972,44822673194,indirective flagging,,,,
+2889,44822668972,44822673194,indirective flagging,,,,
+2893,44822668972,44822673194,indirective flagging,,,,
+2895,44822668972,44822673194,indirective flagging,,,,
+2896,44822668972,44822673194,indirective flagging,,,,
+2897,44822668972,44822673194,indirective flagging,,,,
+2832,44822668972,44822675275,neutral,,,,
+2838,44822668972,44822673194,indirective flagging,,,,
+2849,44822668972,44822673194,indirective flagging,,,,
+2852,44822668972,44822673194,indirective flagging,,,,
+2855,44822668972,44822675275,neutral,,,,
+2860,44822668972,44822673194,indirective flagging,,,,
+2861,44822668972,44822673194,indirective flagging,,,,
+2865,44822668972,44822673194,indirective flagging,,,,
+2868,44822668972,44822675275,neutral,,,,
+2869,44822668972,44822673194,indirective flagging,,,,
+2770,44822668972,44831089181,secundative indexing,,,,

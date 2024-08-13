@@ -31,6 +31,7 @@ Language_ID,Language_name,Glottocode
 105,Amharic,amha1245
 159,Araki,arak1252
 231,Bajau,indo1317
+242,Balinese,bali1278
 275,Basque,basq1248
 292,Baule,baou1238
 422,Cantonese,yuec1235
@@ -85,6 +86,7 @@ Language_ID,Language_name,Glottocode
 1871,Northern Pomo,nort2966
 1893,Qiang,nort2722
 1903,Imbabura Quechua,imba1240
+1955,Russian,russ1263
 1972,Saliba (in PNG),sali1295
 2012,Semelai,seme1247
 2020,Seri,seri1257
@@ -149,7 +151,6 @@ Language_ID,Language_name,Glottocode
 2605,Bagirmi,bagi1246
 2606,Bai,cent2004
 2608,Baka (in Cameroon),baka1272
-2609,Banoni,bann1247
 2610,Barasano,bara1380
 2611,Baré,bare1276
 2612,Bauzi,bauz1241
@@ -171,7 +172,6 @@ Language_ID,Language_name,Glottocode
 2632,Canela-Krahô,ramk1239
 2633,Chantyal,chan1310
 2634,Cherokee,cher1273
-2635,Chinantec (Lealao),leal1235
 2637,Choctaw,choc1276
 2638,Chukchi,chuk1273
 2639,Comanche,coma1245
@@ -296,13 +296,11 @@ Language_ID,Language_name,Glottocode
 2764,Mende,mend1266
 2765,Mixtec (Chalcatongo),sanm1295
 2766,Miya,miya1266
-2767,Mocoví,moco1246
 2768,Mono (in United States),mono1275
 2769,Monumbo,nucl1458
 2770,Mosetén,mose1249
 2771,Motuna,siwa1245
 2772,Mundang,mund1325
-2773,Mundari,mund1320
 2774,Mupun,mwag1236
 2776,Musgu,musg1254
 2777,Mussau,muss1246
@@ -310,7 +308,6 @@ Language_ID,Language_name,Glottocode
 2779,Nagatman,yale1246
 2780,Nahuatl (Tetelcingo),tete1251
 2781,Nambikuára,sout2994
-2782,Navajo,nava1243
 2783,Ndebele (in South Africa),sout2808
 2784,Ndjébbana,djee1236
 2785,Nepali,nepa1252
@@ -330,7 +327,6 @@ Language_ID,Language_name,Glottocode
 2799,Obolo,obol1243
 2800,Oromo (Harar),east2652
 2801,Orya,orya1242
-2802,Otomí (Mezquital),mezq1235
 2803,Paamese,paam1238
 2804,Páez,paez1247
 2805,Paita,dumb1241
@@ -373,9 +369,7 @@ Language_ID,Language_name,Glottocode
 2842,Taba,east2440
 2843,Tagalog,taga1270
 2844,Tamang,east2347
-2845,Tarao,tara1313
 2846,Tauya,tauy1241
-2847,Tepehuan (Northern),nort2959
 2848,Tepehuan (Southeastern),sout2976
 2849,Teribe,teri1250
 2850,Ternate,tern1247
@@ -413,7 +407,6 @@ Language_ID,Language_name,Glottocode
 2884,/Xam,xamm1241
 2885,Yagua,yagu1244
 2886,Yanyuwa,yany1243
-2888,Yawuru,yawu1244
 2889,Yidiny,yidi1250
 2890,Yimas,yima1243
 2891,Yingkarta,ying1247
@@ -430,3 +423,4 @@ Language_ID,Language_name,Glottocode
 2904,Gikuyu,kiku1240
 5388536538,Central Arctic Inuktitut,west2618
 16152612577,Sri Lanka Malay,sril1245
+46065193430,Nen,nenn1238
