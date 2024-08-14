@@ -5,7 +5,7 @@ bibtexparser==2.0.0b7
 bs4==0.0.2
 certifi==2024.7.4
 cldfbench==1.14.0
--e git+https://github.com/cldf-datasets/malchukovditransitives@ffc3f49ed35f95d8acb36b3cb69337a201831692#egg=cldfbench_ditransitive
+-e git+https://github.com/cldf-datasets/malchukovditransitives@780562fd54afd980342e8563ababe9358869ce28#egg=cldfbench_ditransitive
 cldfcatalog==1.5.1
 cldfzenodo==2.1.1
 clldutils==3.22.2
