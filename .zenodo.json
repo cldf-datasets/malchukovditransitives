@@ -19,5 +19,19 @@
         "cldf:StructureDataset",
         "linguistics"
     ],
-    "upload_type": "dataset"
+    "upload_type": "dataset",
+    "communities": [
+        {
+            "identifier": "cldf-datasets"
+        },
+        {
+            "identifier": "clld"
+        },
+        {
+            "identifier": "crossgram"
+        }
+    ],
+    "license": {
+        "id": "CC-BY-4.0"
+    }
 }
