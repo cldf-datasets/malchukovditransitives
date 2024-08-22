@@ -6,7 +6,7 @@ import ditrans2cldf
 
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
-    id = "ditransitive"
+    id = "malchukovditransitives"
 
     def cldf_specs(self):  # A dataset must declare all CLDF sets it creates.
         return ditrans2cldf.cldfspec(self.cldf_dir)
