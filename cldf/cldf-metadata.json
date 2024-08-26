@@ -6,6 +6,8 @@
         }
     ],
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
+    "dc:identifier": "https://crossgram.clld.org/contributions/malchukovditransitives",
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:source": "sources.bib",
     "dc:title": "Ditransitive constructions",
     "dcat:accessURL": "https://github.com/cldf-datasets/malchukovditransitives",
@@ -13,7 +15,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/malchukovditransitives",
             "rdf:type": "prov:Entity",
-            "dc:created": "780562f",
+            "dc:created": "672c183",
             "dc:title": "Repository"
         },
         {
@@ -33,7 +35,7 @@
             "dc:relation": "requirements.txt"
         }
     ],
-    "rdf:ID": "ditransitive",
+    "rdf:ID": "malchukovditransitives",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "tables": [
         {
