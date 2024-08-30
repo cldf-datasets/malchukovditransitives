@@ -28,8 +28,8 @@ class Dataset(BaseDataset):
 
     def cmd_readme(self, args):
         section_header = (
-            'Ditransitrive Constructions\n'
-            '===========================\n'
+            'Ditransitive Constructions\n'
+            '==========================\n'
             '\n')
         section_content = self.raw_dir.read('intro.md')
         return f'{section_header}\n{section_content}'

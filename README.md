@@ -1,5 +1,5 @@
-Ditransitrive Constructions
-===========================
+Ditransitive Constructions
+==========================
 
 
 This dataset was collected in the course of the DFG-funded project [“Ditransitive constructions in the world's languages”][project-page] by Andrej Malchukov and Martin Haspelmath, in collaboration with Birgit Jänen (student assistant)
