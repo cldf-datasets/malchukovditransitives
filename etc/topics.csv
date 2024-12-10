@@ -1,0 +1,15 @@
+Parameter_ID,Parameter_Name,Topics,Grammacodes
+lparam1,dominant ditransitive construction,ditransitive construction,DITRC
+cparam1,Word order,dominant order,DMORD
+cparam2,Flagging of recipient,"flagging, recipient (role)","FLING, RECRL"
+cparam3,Flagging of theme,"flagging, theme (role)","FLING, THMRL"
+cparam4,Indexing of recipient,"person indexing, recipient (role)","PXING, RECRL"
+cparam5,Indexing of theme,"person indexing, theme (role)","PXING, THMRL"
+cparam6,Alignment of flagging,"argument alignment, flagging","ALIGN, FLING"
+cparam7,Alignment of indexing,"argument alignment, person indexing","ALIGN, PXING"
+cparam8,Passivization,passive voice construction,PASS
+cparam9,Reflexivization,reflexive construction,REFLC
+cparam10,Reciprocalization,reciprocal construction,RECPC
+cparam11,Relativization,relative clause construction,RELC
+cparam12,Constituent questions,constituent question construction,CQUC
+cparam13,Incorporation,incorporation construction,INCORP

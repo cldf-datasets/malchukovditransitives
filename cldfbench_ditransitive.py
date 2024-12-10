@@ -1,4 +1,6 @@
 import pathlib
+import re
+from itertools import chain
 
 from cldfbench import Dataset as BaseDataset
 import ditrans2cldf
@@ -45,6 +47,9 @@ class Dataset(BaseDataset):
             row['ID']: row
             for row in self.etc_dir.read_csv('map-icons.csv', dicts=True)
             if row.get('Map_Icon')}
+        topics = {
+            row['Parameter_ID']: row
+            for row in self.etc_dir.read_csv('topics.csv', dicts=True)}
 
         raw_data = ditrans2cldf.load_csv_data(self.raw_dir / 'csv')
 
@@ -53,6 +58,14 @@ class Dataset(BaseDataset):
         ditrans2cldf.add_custom_columns(args.writer.cldf, config)
         args.writer.cldf.add_sources(
             ditrans2cldf.make_bibliography(cldf_data['references']))
+
+        for parameter in chain(cldf_data['lparameters'], cldf_data['cparameters']):
+            if (topic := topics.get(parameter['ID'])):
+                assert topic['Parameter_Name'] == parameter['Name'], \
+                    'parameter {}: parameter changed from {} to {}'.format(
+                        parameter['ID'], topic['Parameter_Name'], parameter['Name'])
+                assert topic['Grammacodes']
+                parameter['Grammacodes'] = re.split(r'\s*,\s*', topic['Grammacodes'])
 
         # FIXME: I need a better story for map icons
         for code in cldf_data['lcodes']:
@@ -66,6 +79,14 @@ class Dataset(BaseDataset):
                 code['Map_Icon'] = map_icon['Map_Icon']
 
         args.writer.cldf.add_columns('CodeTable', 'Map_Icon')
+        args.writer.cldf.add_columns(
+            'ParameterTable',
+            {
+                'name': 'Grammacodes',
+                'datatype': 'string',
+                'separator': ';',
+                'dc:extent': 'multivalued',
+            })
 
         args.writer.objects['LanguageTable'] = cldf_data['languages']
         args.writer.objects['constructions.csv'] = cldf_data['constructions']
